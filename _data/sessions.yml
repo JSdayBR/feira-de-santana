@@ -1,0 +1,57 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+# -
+#   id: 001
+#   title: "Material design: Visual style and imagery"
+#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+#   subtype: workshop
+#   speakers: [3, 6]
+#   language: en
+#   complexity: "Intermediate"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "Melhorando suas skills com a Google Maps API"
+  description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
+  subtype: presentation
+  speakers: [4]
+  language: pt-BR
+  complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "JS Funcional com ES6"
+  description: "Conheça um pouco mais sobre esse tão falado paradigma funcional e como ES6 vai lhe ajudar nessa missão."
+  subtype: presentation
+  speakers: [2]
+  language: pt-BR
+  complexity: "Intermediate"
+  video: "https://www.youtube.com/watch?v=yW-eJXP2z9c"
+-
+  id: 004
+  title: "Ionic Adventures"
+  description: "O Ionic Framework tem tido um crescimento incrível na comunidade de desenvolvimento mobile mostrando que Desenvolvedores Web podem usar HTML5, CSS e JS para criar aplicativos híbridos de qualidade. Nessa palestra entramos numa jornada mostrando o potencial do Ionic Framework e o outras ferramentas que auxiliam na criação de aplicativos extraordinários."
+  subtype: keynote
+  speakers: [3]
+  language: pt-BR
+  complexity: "Intermediate"
+  presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
+-
+  id: 005
+  title: "O futuro dos WebApps com AngularJS 2.0"
+  description: "Angularjs é um framework javascript construido e mantido pelo grupo de engenheiros do Google, ele usa o HTML como uma \"template engine\" aliado a conceitos de Orientação a Objetos, testes, dentre outros, no intuito de fornecer uma solução completa para o cliente-side de sua aplicação. Além disso tem total compatibilidade com as bibliotecas javascript mais utilizadas, como jQuery. é um novo conceito para desenvolvimento de web apps client-site. Entenda as novidades que estão por vir com o AngularJS 2.0, as novas definições, facilidades, novos desafios e entenda o motivo do AngularJS ser um framework excelente para todos os momentos."
+  subtype: keynote
+  speakers: [1]
+  language: pt-BR
+  complexity: "Expert"
+  presentation: "http://www.slideshare.net/WilsonMendes/angular-js-20-46452230"

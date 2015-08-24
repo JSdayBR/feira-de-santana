@@ -1,0 +1,56 @@
+-
+  id: 1
+  name: "Wilson"
+  surname: "Mendes"
+  company: "ThoughtWorks"
+  title: "Google Developer Expert"
+  bio: "Wilson é GDE (Google Developer Expert) de AngularJS, organizador do GDG Salvador, apaixonado por tecnologia e ativo em várias comunidades com foco em desenvolvimento web, incluindo AngularJS, JavaScript, HTML5, CSS3, Workflow, web performance e segurança. Participa de organizações de eventos, palestra em conferências pelo Brasil e contribui com vários projetos open source."
+  thumbnailUrl: wilson-mendes.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wilson-mendes-neto"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+WilsonMendes"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "github", link: "https://github.com/willmendesneto"}
+-
+  id: 2
+  name: "Jean"
+  surname: "Nascimento"
+  company: "Suissa Corp"
+  title: "Full-Stack Developer"
+  bio: 'É evangelista de novas tecnologias como NoSQL e Node.js as quais estão em voga atualmente; também palestra sobre Javascript, Frontend, Node.js e MongoDB. Co-criador dos eventos FrontinSampa e Sampa.js. Atualmente esta vive de doações fazendo cursos e eventos gratuitos como o JS4Girls e o JS Funcional.'
+  thumbnailUrl: jean-carlo-nascimento.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JeanNascimentosuissa"}
+    - {name: "twitter", link: "https://twitter.com/osuissa"}
+    - {name: "github", link: "https://github.com/suissa"}
+-
+  id: 3
+  name: "Juarez"
+  surname: "Filho"
+  company: "madewithlove"
+  title: "Front End Engineer"
+  bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei e Gabstr Inc, nos dias de hoje está construindo projetos com muito amor na madewithlove."
+  thumbnailUrl: juarez-filho.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105591078626334574818"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "github", link: "https://github.com/juarezpaf"}
+-
+  id: 4
+  name: "Thulio"
+  surname: "Philipe"
+  company: "Epitrack"
+  title: "Front End Engineer"
+  bio: "É desenvolvedor web freelancer e participou de projetos como: ComuniQ e Amigo secreto do Shopping Recife, atualmente em parceria com a Epitrack nos projetos: Saúde na Copa, Flu Near You e Salud Boricua. Formado em design gráfico pela Unibratec e especialista em Web-Apps é também entusiasta de CSS; Ah! É fã de Breaking Bad e House."
+  thumbnailUrl: thulio-philipe.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ThulioPhilipe"}
+    - {name: "twitter", link: "http://twitter.com/thulioph_"}
+    - {name: "github", link: "http://github.com/thulioph"}
