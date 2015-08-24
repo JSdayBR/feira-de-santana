@@ -9,15 +9,6 @@
   title: "Lunch Break"
   place: "Dining room"
   service: true
-# -
-#   id: 001
-#   title: "Material design: Visual style and imagery"
-#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-#   subtype: workshop
-#   speakers: [3, 6]
-#   language: en
-#   complexity: "Intermediate"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "Melhorando suas skills com a Google Maps API"
@@ -26,17 +17,6 @@
   speakers: [4]
   language: pt-BR
   complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "JS Funcional com ES6"
-  description: "Conheça um pouco mais sobre esse tão falado paradigma funcional e como ES6 vai lhe ajudar nessa missão."
-  subtype: presentation
-  speakers: [2]
-  language: pt-BR
-  complexity: "Intermediate"
-  video: "https://www.youtube.com/watch?v=yW-eJXP2z9c"
 -
   id: 004
   title: "Ionic Adventures"

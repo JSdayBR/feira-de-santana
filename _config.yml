@@ -124,7 +124,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-  name: "JS #ftw"
+  name: "1º lote: JS #ftw"
   price: "25"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-maceio-2015"
@@ -132,7 +132,7 @@ ticketsOffers:
   validFrom: "2015-08-21T10:00"
   validThrough: "2015-09-06T23:59"
  -
-  name: "ES6"
+  name: "2º Lote: ES6"
   price: "45"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-maceio-2015"

@@ -14,19 +14,6 @@
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
     - {name: "github", link: "https://github.com/willmendesneto"}
 -
-  id: 2
-  name: "Jean"
-  surname: "Nascimento"
-  company: "Suissa Corp"
-  title: "Full-Stack Developer"
-  bio: 'É evangelista de novas tecnologias como NoSQL e Node.js as quais estão em voga atualmente; também palestra sobre Javascript, Frontend, Node.js e MongoDB. Co-criador dos eventos FrontinSampa e Sampa.js. Atualmente esta vive de doações fazendo cursos e eventos gratuitos como o JS4Girls e o JS Funcional.'
-  thumbnailUrl: jean-carlo-nascimento.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+JeanNascimentosuissa"}
-    - {name: "twitter", link: "https://twitter.com/osuissa"}
-    - {name: "github", link: "https://github.com/suissa"}
--
   id: 3
   name: "Juarez"
   surname: "Filho"
