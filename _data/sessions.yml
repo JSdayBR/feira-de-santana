@@ -18,6 +18,14 @@
   language: pt-BR
   complexity: "Intermediate"
 -
+  id: 003
+  title: "JavaScript e Robótica: O que acontece quando o Hardware se encontra com o JavaScript?"
+  description: "JavaScript é uma linguagem de programação que foi feita para construir aplicações web, basicamente para rodar em browsers e servidores. Mas hoje uma das coisas mais incríveis e divertidas que o JavaScript pode fazer, é se comunicar com micro-controladores como o Arduino, Raspberry entre muitos outros dispositivos eletrônicos. Nesta palestra vamos conhecer sobre a programação de robôs com JavaScript, falar sobre NodeBots, Johnny-five.oi e muito mais."
+  subtype: presentation
+  speakers: [2]
+  language: pt-BR
+  complexity: "Intermediate"
+-
   id: 004
   title: "Ionic Adventures"
   description: "O Ionic Framework tem tido um crescimento incrível na comunidade de desenvolvimento mobile mostrando que Desenvolvedores Web podem usar HTML5, CSS e JS para criar aplicativos híbridos de qualidade. Nessa palestra entramos numa jornada mostrando o potencial do Ionic Framework e o outras ferramentas que auxiliam na criação de aplicativos extraordinários."

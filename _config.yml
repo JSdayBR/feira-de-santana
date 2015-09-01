@@ -44,6 +44,7 @@ c4sponsorsUrl: "mailto:hey@caravanaweb.com.br?subject=Patrocínio JSday Maceió 
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
+ - {permalink: "/call-for-papers/", text: "Call for Papers"}
  - {link: "http://js4girls.com", text: "JS4Girls"}
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-maceio-2015", text: "Vem codificar conosco! </>"}
@@ -124,6 +125,14 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
+  name: "JS4Girls"
+  price: ""
+  priceCurrency: "Gratuito"
+  buyButtonLink: "http://even.tc/jsday-maceio-2015"
+  buyButtonText: "{{Participar}}"
+  validFrom: "2015-08-21T10:00"
+  validThrough: "2015-09-11T23:59"
+ -
   name: "1º lote: JS #ftw"
   price: "25"
   priceCurrency: "R$"
@@ -175,6 +184,10 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Call for Papers
+cfpTitle: "Espalhe o amor pelo JavaScript"
+cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz, você já está por dentro das novidades do ES6, sabe como ninguém utilizar os componentes do ReactJS, programa usando JavaScript Funcional ou ainda quer explicar do que se trata esse tal de BabelJS. Siga os passos abaixo e envie sua proposta."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
