@@ -54,3 +54,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+ThulioPhilipe"}
     - {name: "twitter", link: "http://twitter.com/thulioph_"}
     - {name: "github", link: "http://github.com/thulioph"}
+-
+  id: 5
+  name: "Thadeu"
+  surname: "Luz"
+  company: "Handtalk"
+  title: "Co-Founder & COO"
+  bio: "Formado em Arquitetura, especializado em Animação 3D e efeitos especiais. Começou a programar aos 14, com scripts de mIRC, passando por sites em flash e plugins para softwares 3D e web. Hoje é fundador e COO da Hand Talk lidera o time de desenvolvimento, tradução e linguística, e desenvolvedor full-stack em Python e Node."
+  thumbnailUrl: thadeu-luz.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ThadeuLuz"}
+    - {name: "twitter", link: "http://twitter.com/thadeuluz"}
+    - {name: "github", link: "http://github.com/thadeuluz"}

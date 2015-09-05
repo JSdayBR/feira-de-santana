@@ -43,3 +43,11 @@
   language: pt-BR
   complexity: "Expert"
   presentation: "http://www.slideshare.net/WilsonMendes/angular-js-20-46452230"
+-
+  id: 006
+  title: "Back End para Web Apps em Node.js"
+  description: "Node.js é um runtime para servidores baseado no engine V8 do Google Chrome, e usa um modelo assíncrono baseado em eventos, o que o torna extremamente leve e eficiente. Além de tudo, possui uma enorme comunidade ativa, uma oferta de emprego que aumenta mais do que qualquer outra linguagem e um gerenciador de módulos (npm) com o maior ecosistema de bibliotecas open source do planeta. E todo em JavaScript."
+  subtype: presentation
+  speakers: [5]
+  language: pt-BR
+  complexity: "Intermediate"
