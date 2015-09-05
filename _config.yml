@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/call-for-papers/", text: "Call for Papers"}
- - {link: "http://js4girls.com", text: "JS4Girls"}
+ - {permalink: "#tickets", text: "JS4Girls"}
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-maceio-2015", text: "Vem codificar conosco! </>"}
 rightNavigationButtons:
@@ -112,7 +112,7 @@ twitterHashTag: "jsdaymaceio"
 
 # Partners Block
 organizersTitle: "Organização"
-partnersTitle: "Patrocinadores"
+partnersTitle: "Patrocinador"
 partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
 
 # Subscribe Block
