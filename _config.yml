@@ -44,7 +44,6 @@ c4sponsorsUrl: "mailto:hey@caravanaweb.com.br?subject=Patrocínio JSday Maceió 
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/call-for-papers/", text: "Call for Papers"}
  - {permalink: "/js4girls/", text: "JS4Girls"}
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-maceio-2015", text: "Vem codificar conosco! </>"}

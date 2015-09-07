@@ -3,6 +3,7 @@ $gdg-ribbon-border-color: #427fed;
 $gdgw-ribbon-border-color: #ed2c82;
 $gde-ribbon-border-color: #db4437;
 $wt-ribbon-border-color: #72e1b3;
+$moz-ribbon-border-color: #0a91d7;
 .ribbon-wrapper {
     position: absolute;
     z-index: 5;
@@ -31,6 +32,9 @@ $wt-ribbon-border-color: #72e1b3;
     .wt {
         border-right: 4px solid $wt-ribbon-border-color;
     }
+    .moz {
+        border-right: 4px solid $moz-ribbon-border-color;
+    }
     .ribbon {
         font-size: 13px;
         font-weight: 300;
@@ -50,21 +54,21 @@ $wt-ribbon-border-color: #72e1b3;
     }
     .abbr {
         .ribbon-activator:hover & {
-            transform: translateX(100%); 
+            transform: translateX(100%);
             @media (max-width: 767px) {
-                transform: translateX(0);    
-            }   
-        }    
+                transform: translateX(0);
+            }
+        }
     }
     .full-title {
         clear: both;
         margin-top: -22px;
         transform: translateX(100%);
         .ribbon-activator:hover & {
-            transform: translateX(0);   
+            transform: translateX(0);
             @media (max-width: 767px) {
-                transform: translateX(100%);    
-            } 
-        } 
+                transform: translateX(100%);
+            }
+        }
     }
 }

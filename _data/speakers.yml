@@ -37,6 +37,7 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105591078626334574818"}
+    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/juarezpaf"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
@@ -74,6 +75,8 @@
   title: "Desenvoledora Back-End"
   bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails, atualmente é estagiária na Roga Labs. Estudante de Ciência da Computação na UFAL."
   thumbnailUrl: marinalimeira_.jpg
+  ribbon:
+    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/marinalimeira"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
     - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
