@@ -66,3 +66,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+ThadeuLuz"}
     - {name: "twitter", link: "http://twitter.com/thadeuluz"}
     - {name: "github", link: "http://github.com/thadeuluz"}
+-
+  id: 6
+  name: "Marina"
+  surname: "Limeira"
+  company: "Roga Labs"
+  title: "Desenvoledora Back-End"
+  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails, atualmente é estagiária na Roga Labs. Estudante de Ciência da Computação na UFAL."
+  thumbnailUrl: marinalimeira_.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
+    - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
+    - {name: "github", link: "http://github.com/marinalimeira"}

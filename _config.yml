@@ -73,7 +73,7 @@ statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de puro código"}
  - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em Javascript"}
+ - {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"

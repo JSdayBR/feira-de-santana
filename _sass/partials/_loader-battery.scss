@@ -132,12 +132,3 @@ body {
   90% { color: darken($liquidColor, 5%); text-shadow: 0 0 0.8em $liquidColor; }
   100% { color: #bcbcbc; text-shadow: none; }
 }
-
-h5 {
-  font-family: Lato, sans-serif;
-  font-weight: 300;
-  letter-spacing: 0.025rem;
-  text-transform: uppercase;
-  color: #bcbcbc;
-  animation: power $speed infinite;
-}

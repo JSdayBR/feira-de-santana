@@ -1,16 +1,37 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 001
+  title: "Check-in"
+  place: "Lounge"
   service: true
 -
   id: 002
+  title: "Abertura"
+  place: "Auditorium"
+  service: true
+-
+  id: 003
+  title: "Break"
+  place: "Lounge"
+  service: true
+  description: "Have a break, have a Kit Kat"
+-
+  id: 004
+  title: "Almoço"
+  place: ""
+  service: true
+  description: "Não está incluso na inscrição"
+-
+  id: 005
+  title: "A ser definido"
+  place: "Auditorium"
+-
+  id: 006
+  title: "Encerramento"
+  place: "Auditorium"
+  service: true
+  description: "Thank you and... Always bet on JS!"
+-
+  id: 100
   title: "Melhorando suas skills com a Google Maps API"
   description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
   subtype: presentation
@@ -18,7 +39,7 @@
   language: pt-BR
   complexity: "Intermediate"
 -
-  id: 003
+  id: 101
   title: "JavaScript e Robótica: O que acontece quando o Hardware se encontra com o JavaScript?"
   description: "JavaScript é uma linguagem de programação que foi feita para construir aplicações web, basicamente para rodar em browsers e servidores. Mas hoje uma das coisas mais incríveis e divertidas que o JavaScript pode fazer, é se comunicar com micro-controladores como o Arduino, Raspberry entre muitos outros dispositivos eletrônicos. Nesta palestra vamos conhecer sobre a programação de robôs com JavaScript, falar sobre NodeBots, Johnny-five.oi e muito mais."
   subtype: presentation
@@ -26,16 +47,7 @@
   language: pt-BR
   complexity: "Intermediate"
 -
-  id: 004
-  title: "Ionic Adventures"
-  description: "O Ionic Framework tem tido um crescimento incrível na comunidade de desenvolvimento mobile mostrando que Desenvolvedores Web podem usar HTML5, CSS e JS para criar aplicativos híbridos de qualidade. Nessa palestra entramos numa jornada mostrando o potencial do Ionic Framework e o outras ferramentas que auxiliam na criação de aplicativos extraordinários."
-  subtype: keynote
-  speakers: [3]
-  language: pt-BR
-  complexity: "Intermediate"
-  presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
--
-  id: 005
+  id: 102
   title: "O futuro dos WebApps com AngularJS 2.0"
   description: "Angularjs é um framework javascript construido e mantido pelo grupo de engenheiros do Google, ele usa o HTML como uma \"template engine\" aliado a conceitos de Orientação a Objetos, testes, dentre outros, no intuito de fornecer uma solução completa para o cliente-side de sua aplicação. Além disso tem total compatibilidade com as bibliotecas javascript mais utilizadas, como jQuery. é um novo conceito para desenvolvimento de web apps client-site. Entenda as novidades que estão por vir com o AngularJS 2.0, as novas definições, facilidades, novos desafios e entenda o motivo do AngularJS ser um framework excelente para todos os momentos."
   subtype: keynote
@@ -44,10 +56,27 @@
   complexity: "Expert"
   presentation: "http://www.slideshare.net/WilsonMendes/angular-js-20-46452230"
 -
-  id: 006
+  id: 103
   title: "Back End para Web Apps em Node.js"
   description: "Node.js é um runtime para servidores baseado no engine V8 do Google Chrome, e usa um modelo assíncrono baseado em eventos, o que o torna extremamente leve e eficiente. Além de tudo, possui uma enorme comunidade ativa, uma oferta de emprego que aumenta mais do que qualquer outra linguagem e um gerenciador de módulos (npm) com o maior ecosistema de bibliotecas open source do planeta. E todo em JavaScript."
   subtype: presentation
   speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 109
+  title: "Firefox OS: Liberdade além da web"
+  description: "Lançado em 2013, o novo sistema operacional para dispositivos móveis desenvolvido pela Mozilla é baseado no Kernel Linux e no poderoso motor de renderização Gecko do Firefox. Voltado inicialmente para mercados emergentes, o Firefox OS tem como objetivo trazer o próximo milhão de pessoas para a web. Seus aplicativos são todos feitos com HTML, CSS e JavaScript, tendo acesso ao hardware através das WebAPIs."
+  subtype: presentation
+  speakers: [6]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 110
+  title: "Ionic Adventures"
+  description: "O Ionic Framework tem tido um crescimento incrível na comunidade de desenvolvimento mobile mostrando que Desenvolvedores Web podem usar HTML5, CSS e JS para criar aplicativos híbridos de qualidade. Nessa palestra entramos numa jornada mostrando o potencial do Ionic Framework e o outras ferramentas que auxiliam na criação de aplicativos extraordinários."
+  subtype: keynote
+  speakers: [3]
+  language: pt-BR
+  complexity: "Intermediate"
+  presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
