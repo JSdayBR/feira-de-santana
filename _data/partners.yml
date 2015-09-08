@@ -1,4 +1,8 @@
 -
   group: ""
   elements:
-    - {name: "Ionic", description: "Ionic makes it incredibly easy to build beautiful and interactive mobile apps using HTML5 and AngularJS.", link: "http://ionicframework.com", imageUrl: "ionic-logo.png", width: "220px"}
+    - {name: "madewithlove", description: "madewithlove, we develop smart internet apps that make lives easier", link: "http://madewithlove.be", imageUrl: "madewithlove.svg", width: "300px"}
+-
+  group: ""
+  elements:
+    - {name: "Ionic", description: "Ionic makes it incredibly easy to build beautiful and interactive mobile apps using HTML5 and AngularJS.", link: "http://ionicframework.com", imageUrl: "ionic-logo.png", width: "200px"}
