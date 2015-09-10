@@ -1,7 +1,7 @@
 -
   group: ""
   elements:
-    - {name: "madewithlove", description: "madewithlove, we develop smart internet apps that make lives easier", link: "http://madewithlove.be", imageUrl: "madewithlove.svg", width: "300px"}
+    - {name: "madewithlove", description: "madewithlove, we develop smart internet apps that make lives easier", link: "http://madewithlove.be", imageUrl: "madewithlove.svg", width: "220px"}
 -
   group: ""
   elements:

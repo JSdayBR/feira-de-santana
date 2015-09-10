@@ -19,7 +19,6 @@
   title: "Almoço"
   place: ""
   service: true
-  description: "Não está incluso na inscrição"
 -
   id: 005
   title: "A ser definido"
@@ -40,15 +39,15 @@
   complexity: "Intermediate"
 -
   id: 101
-  title: "JavaScript e Robótica: O que acontece quando o Hardware se encontra com o JavaScript?"
-  description: "JavaScript é uma linguagem de programação que foi feita para construir aplicações web, basicamente para rodar em browsers e servidores. Mas hoje uma das coisas mais incríveis e divertidas que o JavaScript pode fazer, é se comunicar com micro-controladores como o Arduino, Raspberry entre muitos outros dispositivos eletrônicos. Nesta palestra vamos conhecer sobre a programação de robôs com JavaScript, falar sobre NodeBots, Johnny-five.oi e muito mais."
+  title: "JavaScipt Robotics: NodeBots, JavaScript além das telas"
+  description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta presentação vamos mostrar o poder supremo do JavaScript, vamos usar o Node.js para controlar coisas do mundo real, como Robôs e Drones. Acha que isso é impossível? Então vamos te apresentar ao JavaScript Robotcs e você vera com seus próprios olhos!"
   subtype: presentation
   speakers: [2]
   language: pt-BR
   complexity: "Intermediate"
 -
   id: 102
-  title: "O futuro dos WebApps com AngularJS 2.0"
+  title: "O Futuro dos WebApps com AngularJS 2.0"
   description: "Angularjs é um framework javascript construido e mantido pelo grupo de engenheiros do Google, ele usa o HTML como uma \"template engine\" aliado a conceitos de Orientação a Objetos, testes, dentre outros, no intuito de fornecer uma solução completa para o cliente-side de sua aplicação. Além disso tem total compatibilidade com as bibliotecas javascript mais utilizadas, como jQuery. é um novo conceito para desenvolvimento de web apps client-site. Entenda as novidades que estão por vir com o AngularJS 2.0, as novas definições, facilidades, novos desafios e entenda o motivo do AngularJS ser um framework excelente para todos os momentos."
   subtype: keynote
   speakers: [1]
@@ -63,6 +62,46 @@
   speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 104
+  title: "JavaScript  Wearable"
+  description: "O JavaScript quer dominar o mundo. Ele está quebrando as barreiras da web e vindo para o mundo real. Agora vamos ver como utilizar JavaScript em Wearable e IoT para controlar tudo ao seu redor."
+  subtype: presentation
+  speakers: [7]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 105
+  title: "Electron: o poder da Web (e Node.js) em seu Desktop"
+  description: "A popularização de serviços cross-platform no desenvolvimento de aplicações mobile utilizando tecnologias web se torna cada vez mais popular e aceita pela comunidade. Cordova e, principalmente, Ionic chamaram a atenção para o crescimento dessa tendência. Fica a pergunta: será que em um ambiente Desktop, onde o poder de hardware geralmente é mais considerável, um aplicativo cross-platform com tecnologias web se comporta eficientemente? Nosso amado GitHub nos ajuda a responder essa pergunta com uma mãozinha do Electron, a ferramenta utilizada por Microsoft, Slack, Docker, Ionic e outros para criação de Desktop apps. Com esta talk irei mostrar as vantagens, desvantagens, ferramentas, tendências e, principalmente, porque você deveria adicionar do Electron à sua stack."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 106
+  title: "LoopBack: Desenvolvimento de APIs Rest para aplicativos móveis"
+  description: "O desenvolvimento de aplicativos móveis geralmente necessita de uma API Rest em sua infraestrutura, servindo para armazenar os dados dos usuários, torná-los disponíveis na internet e fazer toda a comunicação entre o usuário e o servidor. A utilização de NodeJS + Express + MongoDB permite facilmente o desenvolvimento dessa infraestrutura, porém se trata de um processo cansativo e repetitivo. Pensando nisso, foram criados diversos Backend as a Service (BaaS) como Parse, Firebase etc., que agilizam a criação do aplicativo e permite que o desenvolvedor foque na experiência do usuário. O LoopBack permite que você desenvolva rapidamente sua própria API Rest em NodeJS e a conecte ao seu aplicativo. Ele é mantido pela empresa StrongLoop (empresa que também mantém o Express) e vem ganhando cada vez mais visibilidade. Nesse talk, irei abordar como agilizar o desenvolvimento de uma aplicação mobile desenvolvida com Ionic, utilizando o framework LoopBack."
+  subtype: presentation
+  speakers: [10]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 107
+  title: "Arquitetura web, o que não fazer!"
+  description: "Ao iniciarmos como programador, tomamos algumas decisões erradas. Muitas vezes organizamos os arquivos de maneira precária, a ponto de infringirmos boas práticas da arquitetura de software. Outra dificuldade para solucionar problemas, é a escolha prematura e nem sempre acertada dentre as tecnologias emergentes. Baseado na minha experiência profissional e tomando como exemplo o estudo de caso da empresa MeuTutor, venho mostrar que erros não cometer e as melhores práticas para lidar com alguns problemas de arquitetura e escolha de tecnologias."
+  subtype: presentation
+  speakers: [11]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 108
+  title: "A evolução do JavaScript na ZUQ: Uma história de amor e ódio"
+  description: "As alterações rápidas e constantes no mundo da tecnologia como o aparecimento de novos frameworks e novas boas práticas de desenvolvimento têm um importante impacto na forma com que as empresas deste ramo desenvolvem os seus softwares, isto também acontece na ZUQ Soluções Inteligentes, empresa Alagoana que desenvolve soluções tecnológicas de baixo custo para pequenos e médios negócios. Deste modo, esta palestra tem como objetivo mostrar as alterações que a evolução do JavaScript causou dentro dos últimos 3 anos na ZUQ, tendo como foco os métodos utilizados para melhorar a produtividade ao longo do tempo."
+  subtype: presentation
+  speakers: [12]
+  language: pt-BR
+  complexity: "Beginner"
 -
   id: 109
   title: "Firefox OS: Liberdade além da web"
@@ -80,3 +119,11 @@
   language: pt-BR
   complexity: "Intermediate"
   presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
+-
+  id: 111
+  title: "Instrutora JS4Girls"
+  description: "O JS4Girls é uma iniciativa gratuita que tem como objetivo ensinar JavaScript para mulheres através da promoção de um ambiente exclusivamente feminino. As mesmas meninas que participarem do JS4Girls poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
+  subtype: presentation
+  speakers: [9]
+  language: pt-BR
+  complexity: "Beginner"

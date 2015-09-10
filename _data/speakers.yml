@@ -81,3 +81,73 @@
     - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
     - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
     - {name: "github", link: "http://github.com/marinalimeira"}
+-
+  id: 7
+  name: "Bruno"
+  surname: "Lima"
+  company: "CESAR"
+  title: "Front-End Developer"
+  bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
+  thumbnailUrl: brunolimawd.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/brunolimawd"}
+    - {name: "github", link: "http://github.com/brunolimawd"}
+-
+  id: 8
+  name: "Filipe"
+  surname: "Falcão"
+  company: "4Tags"
+  title: "Full Stack Developer"
+  bio: "Desenvolvedor que ama o que faz, adora desafios e participa ativamente das comunidades de desenvolvimento locais. Hoje estudante de Ciência da Computação na UFAL, ingressou no curso porque adora tecnologia, programação e desafios. Lá iniciou com mais força seus estudos em tecnologias web e se apaixonou de uma vez por todas por JavaScript."
+  thumbnailUrl: filipefalcaos.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FilipeFalcãoBatista"}
+    - {name: "twitter", link: "http://twitter.com/filipefalcaos"}
+    - {name: "github", link: "http://github.com/FilipeFalcaoBatista"}
+-
+  id: 9
+  name: "Maria"
+  surname: "Clara Santana"
+  company: "Clip"
+  title: "Front-end Developer"
+  bio: "Graduanda em Engenharia de Computação pela Universidade Federal de Alagoas, já se dedicou à pesquisa na área da Inteligência Artificial e hoje em dia é front-end developer na Clip. É apaixonada por front-end development, UX, comunidade, educação e empreendedorismo. Organizer do GDG e do WTM Maceió, acredita em iniciativas de inclusão e já foi coach do Technovation Challenge, um programa global de empreendedorismo tecnológico para garotas."
+  thumbnailUrl: clarasantana.jpg
+  ribbon:
+    - {abbr: "WTM", title: "Women Techmaker", url: "http://plus.google.com/+GdgmaceioRocksIt"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
+    - {name: "twitter", link: "http://twitter.com/olarclara"}
+    - {name: "github", link: "http://github.com/clarasantana"}
+-
+  id: 10
+  name: "Juscyllan"
+  surname: "S Queiroz"
+  company: "Kujhy.com"
+  title: "Mobile Developer"
+  bio: "Bacharel em Ciências da Computação pela UFAL e apaixonado por JavaScript e tecnologias Web. Atualmente é desenvolvedor de aplicativos móveis, fundador da Kujhy e criador do CineMaceió. Possui experiência no desenvolvimento de aplicativos Android e iOS, utilizando tecnologias web e nativa."
+  thumbnailUrl: kujhy.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/kujhy"}
+    - {name: "github", link: "http://github.com/kujhy"}
+-
+  id: 11
+  name: "Khwesten"
+  surname: "Heiner"
+  company: "MeuTutor"
+  title: "Desenvolvedor Front-end"
+  bio: "Desenvolvedor apaixonado, começou na adolescência desenvolvendo blogs e profissionalmente iniciei nessa área em 2010, com PHP, abrangendo para Java e JS. Atualmente trabalha como desenvolvedor Front-end Sênior na empresa MeuTutor e como programador Full-stack na empresa Locadados, ambos com PHP e JS."
+  thumbnailUrl: khwesten.jpg
+  social:
+    - {name: "github", link: "http://github.com/Khwesten"}
+-
+  id: 12
+  name: "Hotaviano"
+  surname: "Melo"
+  company: "ZUQ"
+  title: "Software Developer"
+  bio: "Um desenvolvedor apaixonado por programação desde o primeiro momento que teve contato com ela aos 15 anos de idade, atualmente desenvolve aplicações móveis e sistemas web (back-end e front-end) na ZUQ Soluções Inteligentes."
+  thumbnailUrl: hotaviano.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109910986200413542309"}
+    - {name: "twitter", link: "http://twitter.com/melotechnology"}
+    - {name: "github", link: "http://github.com/hotaviano"}
