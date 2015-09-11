@@ -121,9 +121,9 @@
   presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
 -
   id: 111
-  title: "Instrutora JS4Girls"
-  description: "O JS4Girls é uma iniciativa gratuita que tem como objetivo ensinar JavaScript para mulheres através da promoção de um ambiente exclusivamente feminino. As mesmas meninas que participarem do JS4Girls poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
-  subtype: presentation
+  title: "Instrutora WTM JavaScript Codelab"
+  description: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
+  subtype: Codelab
   speakers: [9]
   language: pt-BR
   complexity: "Beginner"

@@ -7,13 +7,8 @@
     <atom:link href="http://jsday.com.br/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>JS4Girls</title>
-        <description>&lt;p&gt;O &lt;a href=&quot;http://jsforgirl.com&quot;&gt;JS4Girls&lt;/a&gt; (Javascript for Girls) é uma iniciativa criada pelo Jean Carlos Nascimento, para ser um modelo Open Source e Free para o ensino de Fron-End Development para mulheres com foco em JavaScript.&lt;/p&gt;
-
-&lt;p&gt;E traremos para Maceió no mesmo dia do JSDay.
-Nascido da observação de que o ambiente da programação pode ser dominado por homens, a ideia veio para promover um espaço exclusivamente feminino que permita às mulheres se sentirem mais a vontade e tenham uma produtividade maior.&lt;/p&gt;
-
-&lt;p&gt;A ideia é que o evento tenha a duração de 8 horas, com 6 horas de aula abordando os conceitos introdutórios, dois intervalos de 30min para networking e 1h para almoço.&lt;/p&gt;
+        <title>WTM JavaScript Codelab</title>
+        <description>&lt;p&gt;O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde.﻿&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Aug 2015 07:00:00 -0300</pubDate>
         <link>http://jsday.com.br/blog/hello-world</link>

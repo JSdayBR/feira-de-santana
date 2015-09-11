@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Lineup"}
- - {permalink: "/js4girls/", text: "JS4Girls"}
+ - {permalink: "/wtm-javascript-codelab/", text: "WTM JavaScript Codelab"}
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-maceio-2015", text: "Vem codificar conosco! </>"}
 rightNavigationButtons:
@@ -125,7 +125,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-  name: "JS4Girls"
+  name: "WTM JavaScript Codelab"
   price: ""
   priceCurrency: "Gratuito"
   buyButtonLink: "http://even.tc/jsday-maceio-2015"
@@ -164,6 +164,7 @@ footerBlocks:
    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
    - {link: "http://gdgmaceio.rocks", text: "GDG Maceió"}
    - {link: "https://developers.google.com/groups/?hl=pt-br", text: "Google Developers"}
+   - {link: "https://womentechmakers.com", text: "Women Techmakers"}
  -
   title: "Contato"
   links:
@@ -234,12 +235,12 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-#JS4Girls
-js4girlsTitle: "JS4Girls"
+#WTM JavaScript Codelab
+wtmCodelabTitle: "WTM JavaScript Codelab"
 trainingImage: "womentechmakers.jpg"
 trainingTitle: "Instrutora"
-js4girlsRows:
- - {title: "Workshop Gratuito para mulheres", image: "1.png", details: "O JS4Girls é uma iniciativa gratuita que tem como objetivo ensinar JavaScript para mulheres através da promoção de um ambiente exclusivamente feminino. As mesmas meninas que participarem do JS4Girls poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
+wtmJavaScriptCodelabRows:
+ - {title: "Codelab Gratuito para Mulheres", image: "1.png", details: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
  - {title: "Por que JavaScript?", image: "2.png", details: "Uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas.<br><br>Hoje o JavaScript está entrando num processo de evolução, inovação e padronização, com novos desenvolvimentos, como Node.js, permitindo usar o JavaScript no servidor, além de APIs HTML5 para obter dados sobre a localização de dispositivos e características geográficas e muito mais."}
 
 # Hackathon

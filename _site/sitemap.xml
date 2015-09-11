@@ -18,9 +18,6 @@
     <loc>http://jsday.com.br/</loc>
   </url>
   <url>
-    <loc>http://jsday.com.br/js4girls/</loc>
-  </url>
-  <url>
     <loc>http://jsday.com.br/logistics/</loc>
   </url>
   <url>
@@ -31,5 +28,8 @@
   </url>
   <url>
     <loc>http://jsday.com.br/team/</loc>
+  </url>
+  <url>
+    <loc>http://jsday.com.br/wtm-javascript-codelab/</loc>
   </url>
 </urlset>
