@@ -89,6 +89,8 @@
   title: "Front-End Developer"
   bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
   thumbnailUrl: brunolimawd.jpg
+  ribbon:
+    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/pt-BR/u/brunolimawd/"}
   social:
     - {name: "twitter", link: "http://twitter.com/brunolimawd"}
     - {name: "github", link: "http://github.com/brunolimawd"}
