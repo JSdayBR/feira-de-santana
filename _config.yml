@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "JSDay Recife 2015"
 email: "jsdayrecife@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-baseurl: ""
+baseurl: "jsdaybr.github.io"
 url: "http://jsday.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62574701-1"
