@@ -1,7 +1,7 @@
 -
   group: ""
   elements:
-    - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "128px"}
+    - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "209px"}
 -
   group: "Apoio"
   elements:
