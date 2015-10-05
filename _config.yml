@@ -140,6 +140,15 @@ ticketsOffers:
   validFrom: "2015-11-12T00:00"
   validThrough: "2015-12-11T23:59"
   disabled: true
+ -
+  name: "3º Lote: Release"
+  price: "80"
+  priceCurrency: "R$"
+  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonText: "{{Comprar}}"
+  validFrom: "2015-12-07T00:00"
+  validThrough: "2015-12-12T06:00"
+  disabled: true
 
 # Footer
 socialLinks:
