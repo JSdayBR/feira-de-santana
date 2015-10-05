@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Maceió 2015"
-email: "hey@caravanaweb.com.br"
+title: "JSDay Recife 2015"
+email: "jsdayrecife@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
@@ -21,48 +21,46 @@ googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Caravana Web"
+organizerName: "JSday Recife"
 # organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Comunidade com o intuito de proporcionar a disseminação do conhecimento relacionado à Tecnologia e Web"
-organizerEmail: "hey@caravanaweb.com.br"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://fb.com/caravanaweb"
+organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+organizerEmail: "jsdayrecife@gmail.com"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "http://fb.com/caravanaweb"
 
 # Head
-metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos"
-twitterAccount: "@frontinmaceio"
+metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
+twitterAccount: "@jsdayrecife"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:hey@caravanaweb.com.br?subject=Patrocínio JSday Maceió 2015"
+c4sponsorsUrl: "mailto:jsdayrecife@gmail.com?subject=Patrocínio JSday Recife 2015"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Lineup"}
  - {permalink: "/wtm-javascript-codelab/", text: "WTM JavaScript Codelab"}
- - {link: "http://certificado.eventick.com.br/generate/AZCSvpzt1YpuqXBlZfIUkg", text: "Certificados"}
 bottomNavigationLinks:
- - {link: "http://certificado.eventick.com.br/generate/AZCSvpzt1YpuqXBlZfIUkg", text: "Yay! Certificados disponíveis &rarr;"}
+ - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
 rightNavigationButtons:
- - {link: "http://certificado.eventick.com.br/generate/AZCSvpzt1YpuqXBlZfIUkg", text: "Yay! Certificados disponíveis &rarr;"}
+ - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JSday Maceió: <typeout>"
-eventDate: "12 de Setembro, 2015"
-typeoutTextValues: '"", "JavaScript", "AngularJS", "Ionic SDK", "Google Maps API"'
+heroTitle: "JSday Recife: <typeout>"
+eventDate: "12 de Dezembro, 2015"
+typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://certificado.eventick.com.br/generate/AZCSvpzt1YpuqXBlZfIUkg", text: "Yay! Certificados disponíveis &rarr;"}
+ - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
 
 # About Block
-aboutTitle: "Sobre o JSday Maceió"
+aboutTitle: "Sobre o JSday Recife"
 aboutBlock:
  - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
@@ -72,9 +70,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "8", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
+ - {count: "36", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "3", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -87,29 +85,29 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Auditório CESMAC"
-eventLocationLink: "http://cesmac.com.br"
-eventStreetAddress: "R. Cônego Machado, 918 - Farol"
-eventAddressLocality: "Maceió"
-eventAddressLocalityRegion: "AL"
-eventPostalCode: "57051-160"
+eventLocationName: "CESAR.EDU"
+eventLocationLink: "http://www.cesar.edu.br/"
+eventStreetAddress: "Rua do Brum, 77, Bairro do Recife"
+eventAddressLocality: "Recife"
+eventAddressLocalityRegion: "PE"
+eventPostalCode: "50030-260"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-09-12T08:00"
-eventDoorTime: "09:00"
-eventEndTime: "2015-09-12T17:00"
-eventPlaceCoordinates: "-9.655388, -35.737538"
-mapCenterCoordinates: "-9.655388, -35.737538"
-mapMobileCenterCoordinates: "-9.655388, -35.737538"
+eventStartTime: "2015-12-12T08:00"
+eventDoorTime: "08:00"
+eventEndTime: "2015-12-12T18:00"
+eventPlaceCoordinates: "-8.0599489,-34.8719353"
+mapCenterCoordinates: "-8.0599489,-34.8719353"
+mapMobileCenterCoordinates: "-8.0599489,-34.8719353"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueTitle: "CESMAC Auditório"
+venueTitle: "CESAR.EDU"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "JavaScript? YEAH!"
-twitterHashTag: "jsdaymaceio"
-# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "jsdayrec"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organização"
@@ -126,50 +124,40 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-  name: "WTM JavaScript Codelab"
-  price: ""
-  priceCurrency: "Gratuito"
-  buyButtonLink: "http://even.tc/jsday-maceio-2015"
-  buyButtonText: "{{Participar}}"
-  validFrom: "2015-08-21T10:00"
-  validThrough: "2015-09-11T23:59"
- -
-  name: "1º lote: JS #ftw"
-  price: "25"
+  name: "1º lote: Early Adopters"
+  price: "30"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-maceio-2015"
+  buyButtonLink: "http://even.tc/jsday-recife-2015"
   buyButtonText: "{{Comprar}}"
-  validFrom: "2015-08-21T10:00"
-  validThrough: "2015-09-06T23:59"
+  validFrom: "2015-10-05T10:00"
+  validThrough: "2015-11-11T23:59"
  -
-  name: "2º Lote: ES6"
-  price: "45"
+  name: "2º Lote: Release Candidate"
+  price: "50"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-maceio-2015"
-  buyButtonText: "{{Última change! Comprar agora}}"
-  validFrom: "2015-09-07T00:00"
-  validThrough: "2015-09-11T23:59"
+  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonText: "{{Comprar}}"
+  validFrom: "2015-11-12T00:00"
+  validThrough: "2015-12-11T23:59"
   disabled: true
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GdgmaceioRocksIt", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=frontinmaceio", icon: "twitter"}
- - {link: "https://facebook.com/FrontinMaceio", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=jsdayrecife", icon: "twitter"}
 
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://frontinamceio.com.br", text: "Front in Maceió"}
+   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}
+   - {link: "http://cesar.org.br", text: "CESAR"}
    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
-   - {link: "http://gdgmaceio.rocks", text: "GDG Maceió"}
-   - {link: "https://developers.google.com/groups/?hl=pt-br", text: "Google Developers"}
+   - {link: "http://robolivre.org", text: "Robolivre.org"}
    - {link: "https://womentechmakers.com", text: "Women Techmakers"}
  -
   title: "Contato"
   links:
-   - {link: "mailto:hey@caravanaweb.com.br", text: "hey@caravanaweb.com.br"}
+   - {link: "mailto:jsdayrecife@gmail.com", text: "jsdayrecife@gmail.com"}
  -
   title: "FAQ"
   links:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WTM JavaScript Codelab"
-date:   2015-08-24 10:00:00
+date:   2015-10-05 10:00:00
 isStaticPost: false
 ---
 

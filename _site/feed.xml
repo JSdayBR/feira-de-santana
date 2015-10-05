@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JSDay Maceió 2015</title>
+    <title>JSDay Recife 2015</title>
     <description>O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer</description>
     <link>http://jsday.com.br/</link>
     <atom:link href="http://jsday.com.br/feed.xml" rel="self" type="application/rss+xml" />
@@ -10,16 +10,16 @@
         <title>WTM JavaScript Codelab</title>
         <description>&lt;p&gt;O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde.﻿&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Aug 2015 07:00:00 -0300</pubDate>
+        <pubDate>Mon, 05 Oct 2015 07:00:00 -0300</pubDate>
         <link>http://jsday.com.br/blog/hello-world</link>
         <guid isPermaLink="true">http://jsday.com.br/blog/hello-world</guid>
       </item>
     
       <item>
-        <title>Call for Papers [Encerrado]</title>
-        <description>&lt;p&gt;Agradecemos a todos que submetam paletras, experimentos ou showcase, estamos analisando as propostas e logo mais voltaremos com nosso Lineup completo…&lt;/p&gt;
+        <title>Call for Papers</title>
+        <description>&lt;p&gt;Se você tem interesse em mostrar suas habilidades com Javascript, fique atento ao Call for Papers que abriremos ainda essa semana. Você poderá submter palestras relacionadas à JavaScript e outros assuntos relevantes.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 Aug 2015 06:00:00 -0300</pubDate>
+        <pubDate>Mon, 05 Oct 2015 06:00:00 -0300</pubDate>
         <link>http://jsday.com.br/blog/call-for-papers</link>
         <guid isPermaLink="true">http://jsday.com.br/blog/call-for-papers</guid>
       </item>

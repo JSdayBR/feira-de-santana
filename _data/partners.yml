@@ -1,16 +1,10 @@
 -
   group: ""
   elements:
-    - {name: "madewithlove", description: "madewithlove, we develop smart internet apps that make lives easier", link: "http://madewithlove.be", imageUrl: "madewithlove.svg", width: "220px"}
--
-  group: ""
-  elements:
-    - {name: "Ionic", description: "Ionic makes it incredibly easy to build beautiful and interactive mobile apps using HTML5 and AngularJS.", link: "http://ionicframework.com", imageUrl: "ionic-logo.png", width: "200px"}
-    - {name: "Stant", description: "Tenha todas as informações da sua obra, em qualquer lugar!", link: "http://stant.com.br", imageUrl: "stant.svg", width: "160px"}
-    - {name: "Rogalabs", description: "Desenvolvemos tecnologias mobile e sistemas web pensando sempre na interação com o usuário. Acreditamos na tecnologia para melhorar a vida e os resultados, acessível a qualquer pessoa.", link: "http://rogalabs.com/", imageUrl: "rogalabs.png", width: "180px"}
+    - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "128px"}
 -
   group: "Apoio"
   elements:
-    - {name: "CESMAC", description: "", link: "http://cesmac.com.br", imageUrl: "cesmac.png", width: "140px"}
-    - {name: "Women Techmakers", description: "", link: "https://womentechmakers.com/", imageUrl: "wtm.png", width: "150px"}
-    - {name: "CESAR Recife", description: "", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "100px"}
+    - {name: "CESAR", description: "", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "100px"}
+    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "100px"}
+    - {name: "Robolivre.org", description: "", link: "http://www.robolivre.org", imageUrl: "robolivre.png", width: "300px"}
