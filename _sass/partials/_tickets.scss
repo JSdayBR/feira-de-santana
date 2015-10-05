@@ -18,7 +18,6 @@ $button-background-color-hover: #4d4d4d;
     }
     &:last-child {
         border-right: 1px $col-border-color solid;
-        border-left: none;
         @media (max-width: 767px) {
             border: 1px $col-border-color solid;
         }
