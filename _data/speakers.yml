@@ -56,3 +56,30 @@
   social:
     - {name: "twitter", link: "http://twitter.com/brunolimawd"}
     - {name: "github", link: "http://github.com/brunolimawd"}
+-
+  id: 5
+  name: "Thulio"
+  surname: "Philipe"
+  company: "Epitrack"
+  title: "Front End Engineer"
+  bio: "É desenvolvedor web freelancer e participou de projetos como: ComuniQ e Amigo secreto do Shopping Recife, atualmente em parceria com a Epitrack nos projetos: Saúde na Copa, Flu Near You e Salud Boricua. Formado em design gráfico pela Unibratec e especialista em Web-Apps é também entusiasta de CSS; Ah! É fã de Breaking Bad e House."
+  thumbnailUrl: thulio-philipe.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ThulioPhilipe"}
+    - {name: "twitter", link: "http://twitter.com/thulioph_"}
+    - {name: "github", link: "http://github.com/thulioph"}
+-
+ id: 6
+  name: "Marina"
+  surname: "Limeira"
+  company: "Roga Labs"
+  title: "Desenvoledora Back-End"
+  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails, atualmente é estagiária na Roga Labs. Estudante de Ciência da Computação na UFAL."
+  thumbnailUrl: marinalimeira_.jpg
+  ribbon:
+    - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/marinalimeira"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
+    - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
+    - {name: "github", link: "http://github.com/marinalimeira"}
