@@ -3,12 +3,15 @@
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <p class="text-left">{{ day.dataReadableWarning }}</p>
             <div class="timeslot track-header stick-header">
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
                         <h5 class="track-header-title">{{ track.title }}</h5>
+                        <span>{{ track.description }}</span>
                     </div>
                     {% endfor %}
                     <div class="track-header-slot col-xs-12 visible-xs">
@@ -22,6 +25,10 @@
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
                         {% assign startTime = timeslot.startTime | split: ":" %}
                         {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                    </time>
+                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">

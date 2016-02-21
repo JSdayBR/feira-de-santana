@@ -1,9 +1,80 @@
 -
   title: "JSday Lineup"
   date: "2015-9-12"
-  dateReadable: "September 12"
+  dateReadable: "Tracks"
+  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "JavaScript #ftw", color: "#f7df1e"}
+    - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
+    - {title: "Stefanov", color: "#f7df1e", description: "Sala 5"}
+    - {title: "Maujor", color: "#f7df1e", description: "Sala 4"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        endTime: "9:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "9:15",
+        endTime: "10:00",
+        sessionIds: [100,212,101]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:30",
+        sessionIds: [205,214,206]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [207,204,105]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "14:00",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:45",
+        sessionIds: [208,102,103]
+    }
+    - {
+        startTime: "14:45",
+        endTime: "15:30",
+        sessionIds: [209,006,211]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:45",
+        sessionIds: [215,106,104]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "17:30",
+        sessionIds: [210,213,216]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [005]
+    }
+-
+  title: "JSday Lineup"
+  date: "2015-9-12"
+  dateReadable: "Workshops"
+  tracks:
+    - {title: "Brendan Eich", color: "#f7df1e", description: "Sala 3"}
+    - {title: "Radia Perlman", color: "#f7df1e", description: "Sala 8"}
   timeslots:
     - {
         startTime: "8:00",
@@ -12,81 +83,41 @@
     }
     - {
         startTime: "9:00",
-        endTime: "9:15",
+        endTime: "10:45",
+        sessionIds: [200,201]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:00",
         sessionIds: [002]
     }
     - {
-    	startTime: "9:15",
-    	endTime: "10:00",
-    	sessionIds: [102]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:40",
-        sessionIds: [100]
-    }
-    - {
-        startTime: "10:40",
-        endTime: "11:00",
-        sessionIds: [003]
-    }
-    - {
         startTime: "11:00",
-        endTime: "11:40",
-        sessionIds: [103]
-    }
-    - {
-        startTime: "11:40",
         endTime: "12:00",
-        sessionIds: [104]
+        sessionIds: [200,201]
     }
     - {
         startTime: "12:00",
-        endTime: "13:20",
-        sessionIds: [004]
-    }
-    - {
-    	startTime: "13:20",
-    	endTime: "13:40",
-    	sessionIds: [105]
-    }
-    - {
-        startTime: "13:40",
         endTime: "14:00",
-        sessionIds: [106]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:20",
-        sessionIds: [107]
-    }
-    - {
-        startTime: "14:20",
-        endTime: "14:40",
-        sessionIds: [108]
-    }
-    - {
-        startTime: "14:40",
-        endTime: "15:20",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "15:20",
-        endTime: "16:00",
         sessionIds: [003]
     }
     - {
+        startTime: "14:00",
+        endTime: "15:30",
+        sessionIds: [202,203]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [004]
+    }
+    - {
         startTime: "16:00",
-        endTime: "16:20",
-        sessionIds: [109]
+        endTime: "17:30",
+        sessionIds: [202,203]
     }
     - {
-        startTime: "16:20",
-        endTime: "17:00",
-        sessionIds: [110]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "17:00",
-        sessionIds: [006]
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [005]
     }
