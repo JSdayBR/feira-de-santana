@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Recife 2015"
+title: "JSDay Feira de Santana 2016"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "JSday Recife"
+organizerName: "JSday Feira de Santana"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/c4pjsdayrec"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana 2016"
 
 # Navigation
 navigationLinks:
@@ -53,15 +53,15 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JSday Recife: <typeout>"
-eventDate: "12 de Dezembro, 2015"
+heroTitle: "JSday Feira: <typeout>"
+eventDate: "23 de Julho, 2016"
 typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
 
 # About Block
-aboutTitle: "Sobre o JSday Recife"
+aboutTitle: "Sobre o JSday Feira de Santana"
 aboutBlock:
  - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
@@ -71,9 +71,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "36", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
  - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "3", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
+ - {count: "2", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -86,19 +86,19 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "CESAR.EDU"
-eventLocationLink: "http://www.cesar.edu.br/"
-eventStreetAddress: "Rua do Brum, 77, Bairro do Recife"
-eventAddressLocality: "Recife"
-eventAddressLocalityRegion: "PE"
-eventPostalCode: "50030-260"
+eventLocationName: "UNIFACS"
+eventLocationLink: "http://www.unifacs.br/"
+eventStreetAddress: "Rua Rio Tinto, 152 - Santa Mônica"
+eventAddressLocality: "Feira de Santana"
+eventAddressLocalityRegion: "BA"
+eventPostalCode: "44077-140"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-12-12T08:00"
+eventStartTime: "2016-07-23T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2015-12-12T18:00"
-eventPlaceCoordinates: "-8.0599489,-34.8719353"
-mapCenterCoordinates: "-8.0599489,-34.8719353"
-mapMobileCenterCoordinates: "-8.0599489,-34.8719353"
+eventEndTime: "2016-07-23T18:00"
+eventPlaceCoordinates: "-12.2585924,-38.9336747"
+mapCenterCoordinates: "-12.2585924,-38.9336747"
+mapMobileCenterCoordinates: "-12.2585924,-38.9336747"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -106,7 +106,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "CESAR.EDU"
+venueTitle: "UNIFACS"
 venueFeatures: ["Localizado no centro histórico do Recife", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
 
 # Tweets Feed Block
