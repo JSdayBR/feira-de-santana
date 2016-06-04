@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Feira de Santana 2016"
+title: "JSDay - Feira de Santana 2016"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -43,22 +43,22 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Sant
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Lineup"}
- - {permalink: "/live/", text: "Live"}
+ # - {permalink: "/schedule/", text: "Lineup"}
+ # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
 rightNavigationButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JSday Feira: <typeout>"
+heroTitle: "#JSdayFSA: <typeout>"
 eventDate: "23 de Julho, 2016"
-typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
+typeoutTextValues: '"", "JavaScript", "AngularJS", "Firebase", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados disponíveis"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
@@ -72,7 +72,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
  - {count: "2", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
 
 # Latest News Block
@@ -107,12 +107,12 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "UNIFACS"
-venueFeatures: ["Localizado no centro histórico do Recife", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
+venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweets.get()"
-twitterHashTag: "jsdayrec"
+twitterHashTag: "jsdayfsa"
 twitterFeed: "#"
 
 # Partners Block
@@ -133,26 +133,26 @@ ticketsOffers:
   name: "1º lote: Early Adopters"
   price: "30"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Esgotado}}"
-  validFrom: "2015-10-05T10:00"
-  validThrough: "2015-12-12T23:59"
+  buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
+  buyButtonText: "{{Comprar}}"
+  validFrom: "2016-06-04T10:00"
+  validThrough: "2016-07-23T23:59"
  -
   name: "2º Lote: Release Candidate"
-  price: "50"
+  price: "40"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Esgotado}}"
-  validFrom: "2015-10-28T00:00"
-  validThrough: "2015-12-11T23:59"
+  buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
+  buyButtonText: "{{Comprar}}"
+  validFrom: "2016-06-04T00:00"
+  validThrough: "2016-07-23T23:59"
  -
   name: "3º Lote: Release"
-  price: "80"
+  price: "60"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
-  validFrom: "2015-12-06T00:00"
-  validThrough: "2015-12-12T06:00"
+  validFrom: "2016-06-04T00:00"
+  validThrough: "2016-07-23T06:00"
 
 # Footer
 socialLinks:
@@ -164,17 +164,12 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://cesar.org.br", text: "C.E.S.A.R"}
-   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}
-   - {link: "http://www.codeschool.com/jsdayrecife", text: "Code School"}
-   - {link: "http://www.facebook.com/", text: "Facebook"}
-   - {link: "http://www.hugeinc.com/", text: "HUGE"}
-   - {link: "http://www.appcelerator.com/", text: "Appcelerator"}
-   - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
-   - {link: "https://yld.io/", text: "YLDio"}
-   - {link: "http://robolivre.org", text: "Robolivre.org"}
+   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}   
+   - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}    
  -
   title: "Edições Anteriores"
   links:
+   - {link: "http://cg.jsday.com.br", text: "JSday Campina Grande"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
