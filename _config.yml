@@ -107,7 +107,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "UNIFACS"
-venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
+venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -131,7 +131,7 @@ ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
   name: "1º lote: Early Adopters"
-  price: "30"
+  price: "50"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
@@ -139,7 +139,7 @@ ticketsOffers:
   validThrough: "2016-07-23T23:59"
  -
   name: "2º Lote: Release Candidate"
-  price: "40"
+  price: "60"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
@@ -147,7 +147,7 @@ ticketsOffers:
   validThrough: "2016-07-23T23:59"
  -
   name: "3º Lote: Release"
-  price: "60"
+  price: "80"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
