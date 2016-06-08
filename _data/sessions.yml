@@ -34,7 +34,7 @@
   title: "Firebase Adventures - Real time platform for your apps"
   description: "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app. Firebase Adventures is a talk about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps."
   subtype: presentation
-  speakers: [3]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -42,7 +42,7 @@
   title: "NodeBots roll out"
   description: "O JavaScript quer dominar o mundo. Ele está quebrando as barreiras da web e vindo para o mundo real. Agora vamos ver como utilizar JavaScript em Hardware e IoT para controlar tudo ao seu redor."
   subtype: presentation
-  speakers: [4]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -50,7 +50,7 @@
   title: "React.js no mundo mágico do Flux"
   description: "React.js é uma library JavaScript criada pelo Facebook para construir user interfaces e também é a modinha de frontend desse ano, mas o que tem de especial nela? Já o Flux é uma arquitetura de aplicações para frontend, também desenvolvida pela gigante empresa do Mark Zuckerberg, que bruxaria é essa? A palestra vai introduzir as duas tecnologias, explicar casos de uso e mostrar como juntando as duas dá um bom rock 'n' roll."
   subtype: presentation
-  speakers: [8]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -58,7 +58,7 @@
   title: "Customizando a sua web com Add-ons"
   description: "A Mozilla é uma comunidade global de pessoas que acreditam em uma web aberta e acessível, que possui desde projetos pra ensinar a web como projetos para desenvolvedores ajudarem a criar novas tecnologias. Os Add-ons são ferramentas cruciais em nesses projetos, como o Firefox e o Thunderbird. Eles te permitem adicionar ou alterar features desses projetos, onde você tem a liberdade de modificar totalmente sua experiência de uso."
   subtype: presentation
-  speakers: [6]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -66,7 +66,7 @@
   title: "Melhorando suas skills com a Google Maps API"
   description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
   subtype: presentation
-  speakers: [5]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -74,7 +74,7 @@
   title: "Robotics for everyone"
   description: "Nessa palestra vamos conversar sobre Robótica. Henrique Foresti vai mostrar como sonhou em realizar Transformação Social com a Robótica a partir de uma plataforma Aberta que está presente em todo o País. Ainda haverá uma conversa em torno das principais Cias de Robótica do mundo e sobre o I-Zak, um simpático robô feito de Robótica Emotiva para conviver no ambiente doméstico, que disputa competições de nível mundial."
   subtype: presentation
-  speakers: [7]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -82,7 +82,7 @@
   title: "Accessibility and JS: side-by-side"
   description: "Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps."
   subtype: presentation
-  speakers: [2]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -90,7 +90,7 @@
   title: "Em breve"
   description: "Em breve."
   subtype: presentation
-  speakers: [1]
+  speakers: []
   language: pt-BR
   complexity: "Expert"
 -
@@ -98,7 +98,7 @@
   title: "Crie Awe-Apps com AngularJs"
   description: "Angular é um framework javascript baseado no padrão de desenvolvomento de software MVC. Algumas de suas poderosas características são: Extender o vocabulario html, criando componentes totalmente customizados de acordo com dados relevantes e que se comunicam entre si."
   subtype: Codelab
-  speakers: [10, 27]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -106,7 +106,7 @@
   title: "WTM JavaScript Codelab"
   description: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
   subtype: Codelab
-  speakers: [9,19]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -114,7 +114,7 @@
   title: "Getting started with Firebase"
   description: "In this workshop you will learn how to use Firebase to empower your web applications using all features provided by Firebase like realtime database, authentication, hosting and much more."
   subtype: Codelab
-  speakers: [3]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -122,7 +122,7 @@
   title: "Dando vida ao Arduino com JS"
   description: "A galera do ArduRec vai até o JS Day para mostrar que JS já está controlando os embarcados. No workshop vamos sair do zero e aprender como controlar uma Arduino utilizando Java Script."
   subtype: Codelab
-  speakers: [15,17,18]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -130,7 +130,7 @@
   title: "Windows Phone Script"
   description: "Sim, também é possível programar para a plataforma móvel da Microsoft com Javascript! No Windows Phone 8.1 e agora com a chegada da versão Windows 10 Mobile, é possível escrever aplicações nativas com HTML, CSS, Javascript e a consolidada linguagem de interface XAML. Tudo isso com a facilidade e praticidade de desenvolver utilizando o Visual Studio."
   subtype: presentation
-  speakers: [11]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -138,7 +138,7 @@
   title: "Metal.js - Construindo componentes com ES6"
   description: "Por diversos anos a Liferay tem usado YUI como o principal biblioteca JavaScript da empresa. Em 2014, no entanto, a Yahoo anunciou que o YUI seria abandonado, sem mais manutenção. Agora era necessária outra biblioteca para substituí-lo, o que tornou-se uma oportunidade para modernizar o JavaScript da empresa, usando tecnologias mais recentes. Daí surgiu o Metal.js, uma nova biblioteca open source muito poderosa e com poucos KB, e que já usa ES6. Venha aprender como ela funciona e como usá-la em seus projetos!"
   subtype: presentation
-  speakers: [12]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -146,7 +146,7 @@
   title: "Já está na hora de você começar a aprender o NodeJS!"
   description: "Todo mundo fala de NodeJS certo? mas porque ele é tão diferente, o que ele tem de especial e porque eu deveria aprender? Essas e outras dúvidas serão esclarecidas nesta palestra, além de conhecer o caminho inicial para dá um start nessa nova tecnologia e aproveitar novas oportunidades na sua carreira!"
   subtype: presentation
-  speakers: [13]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -154,7 +154,7 @@
   title: "O ciclo de vida do App: Desenvolvimento, Integração e Analytics atuando de forma integrada"
   description: "Como suportar o desenvolvimento ágil de Apps nativos multiplataforma (Titanium), integrar múltiplas fontes de dados internas e externas (Arrow), e conhecer a experiência do usuário através de Analytics em tempo real (Performance e Comportamento do Usuário). A solução Appcelerator tem como base JS no front-end (Titanium) e back-end (Arrow). O App “perfeito” é resultado de um processo de melhoria contínua com base em métricas claras. Além disso, a visibilidade do comportamento do usuários gera maior engajamento e alavanca o potencial de negócio do seu Apps."
   subtype: presentation
-  speakers: [14]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -162,7 +162,7 @@
   title: "Prototype: mastering JS object orientation without classes"
   description: "A orientação a objetos do JavaScript se diferencia da maioria das linguagens tradicionais por utilizar o conceito de protótipos. Nessa palestra você aprenderá a utilizar este conceito ao seu favor para construir objetos de maneira dinâmica e flexível, de uma maneira que a nova sintaxe de classes não permite."
   subtype: presentation
-  speakers: [16]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -170,7 +170,7 @@
   title: "D3JS  Visualização de Dados com JavaScript"
   description: "Nos dias de hoje, onde as pessoas estão cada vez mais preguiçosas torna-se uma dificuldade engajar  usuários a visualizarem e analisarem  um conjunto de informações para tomada de decisões. Surge então uma necessidade de transmitir  informações de forma simplificada que permitia uma rápida leitura, compreensão e tomada de decisão sobre um certo assunto, dai aparece o conceito a Visualização de Dados (Data Visualization), que  é a representação visual de dados de maneira intuitiva e clara  ao usuário com recurso a mecanismos gráficos. Esta \"técnica\" traz inúmeras vantagens, dentre elas, a facilidade de interpretação dos dados, a rápida leitura e acesso aos dados, reduzindo a má interpretação das informações. Num mundo mais conectado, onde cada vez mais pessoas estão ligadas a web, utilizaremos JavaScript e a sua biblioteca D3JS para apresentar o conceito visualização de Dados."
   subtype: presentation
-  speakers: [20]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -178,7 +178,7 @@
   title: "Javascript State of the Union 2015"
   description: "Onde nós estamos, como desenvolvedores Front-End? Esta apresentação navega por uma curta linha do tempo da ciência da computação, focando no desenvolvimento client-side para responder algumas perguntas como: o que influencia o Front-End? Essas mudanças são apenas na forma ou na essência da nossa área? E será que algo não mudou nesse processo?"
   subtype: presentation
-  speakers: [21]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -186,7 +186,7 @@
   title: "Conectando com o mundo real: Web Bluetooth e Physical Web"
   description: "Enquanto o Web Bluetooth abre uma comunicação de baixo-nível através de múltiplos dispositivos BLE como brinquedos, vending machines, museus, quiosques e outras coisas, o Physical Web torna a descoberta e a conexão a esses objetos algo simples para os usuários. Juntos eles irão expandir o alcance da web para muito mais dispositivos em torno dos usuários."
   subtype: presentation
-  speakers: [22]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -194,7 +194,7 @@
   title: "React.JS: A Evolução do Desenvolvimento Frontend"
   description: "Uma visão geral dos motivos que tornam o React.JS tão atraente no momento e suas contribuições para a evolução do desenvolvimento frontend."
   subtype: presentation
-  speakers: [23]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -202,7 +202,7 @@
   title: "Usando ES6 no Polymer"
   description: "ECMAScript2015, ou ES6, é a nova versão do JavaScript e apresenta diversas novas funcionalidades que podem ser úteis tanto em scripts simples quanto em aplicações complexas. Nessa talk, mostro algumas dessas funcionalidades e como elas podem ser integradas com o Polymer, uma biblioteca desenvolvida pela Google que tem como objetivo facilitar e acelerar a criação de componentes para a web."
   subtype: presentation
-  speakers: [9]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -210,7 +210,7 @@
   title: "Aplicações móveis multi-plataforma com Titanium Mobile"
   description: "Imagine desenvolver aplicações com UI e comportamentos nativos para as plataformas iOS, Android e Windows Phone, e ainda assim utilizando uma única linguagem de programação! Nada de Java, Objective-C, Swift ou C#! Estamos falando de uma das linguagens mais conhecida, utilizada e fácil de aprender: o JavaScript! Agora imagine que 80% ou mais do seu código serão compartilhados em todas as plataformas, e o quanto isso vai aumentar sua produtividade e time to market! O Titanium Mobile da Appcelerator pode fazer tudo isso por você!"
   subtype: presentation
-  speakers: [24]
+  speakers: []
   language: pt-BR
   complexity: "Beginner"
 -
@@ -218,7 +218,7 @@
   title: "Como atingir a famigerada inclusão digital?"
   description: "A acessibilidade dos softwares possui um papel fundamental no cotidiano das pessoas com deficiência. Mas como é possível fazer com que essas pessoas tenham o direito de acessar as informações, através de ferramentas adequadas? Essa palestra tem o objetivo de mostrar as diversas formas de tornar viável o acesso a ambientes inacessíveis, aproximando assim, todas as pessoas da informação."
   subtype: presentation
-  speakers: [25]
+  speakers: []
   language: pt-BR
   complexity: "Expert"
 -
@@ -226,6 +226,6 @@
   title: "Hackeando a Internet das Coisas com Javascript"
   description: "Nesta palestra apresento o cenário atual do desenvolvimento de soluções para internet das coisas utilizando Javascript. Além disso, mostro o passo a passo de como você poderá começar a desenvolver suas soluções e quais as melhores ferramentas disponíveis no mercado para este fim. Levo para a apresentação, um protótipo funcional onde você poderá ver na prática a concepção de um projeto de hardware para internet das coisas utilizando Javascript."
   subtype: presentation
-  speakers: [26]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
