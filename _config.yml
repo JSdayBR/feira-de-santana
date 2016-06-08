@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "JSDay - Feira de Santana 2016"
-email: "jsdaybr@gmail.com"
+email: "contato@jsday.com.br"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "JSday Feira de Santana"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-organizerEmail: "jsdaybr@gmail.com"
+organizerEmail: "contato@jsday.com.br"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
 
@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/c4pjsdayrec"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana 2016"
+c4pUrl: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2"
+c4sponsorsUrl: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016"
 
 # Navigation
 navigationLinks:
@@ -59,6 +59,7 @@ typeoutTextValues: '"", "JavaScript", "AngularJS", "Firebase", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
+ - {link: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2", text: "Quero palestrar"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
@@ -130,8 +131,8 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-  name: "1º lote: Early Adopters"
-  price: "50"
+  name: "1º Lote: Early Adopters"
+  price: "60"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
@@ -139,7 +140,7 @@ ticketsOffers:
   validThrough: "2016-07-23T23:59"
  -
   name: "2º Lote: Release Candidate"
-  price: "60"
+  price: "80"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
@@ -147,7 +148,7 @@ ticketsOffers:
   validThrough: "2016-07-23T23:59"
  -
   name: "3º Lote: Release"
-  price: "80"
+  price: "100"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
   buyButtonText: "{{Comprar}}"
