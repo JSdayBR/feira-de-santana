@@ -131,7 +131,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
-  name: "1º Lote: Early Adopters"
+  name: "1º Lote"
   price: "60"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
@@ -139,7 +139,7 @@ ticketsOffers:
   validFrom: "2016-06-04T10:00"
   validThrough: "2016-07-23T23:59"
  -
-  name: "2º Lote: Release Candidate"
+  name: "2º Lote"
   price: "80"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
@@ -147,7 +147,7 @@ ticketsOffers:
   validFrom: "2016-06-04T00:00"
   validThrough: "2016-07-23T23:59"
  -
-  name: "3º Lote: Release"
+  name: "3º Lote"
   price: "100"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
