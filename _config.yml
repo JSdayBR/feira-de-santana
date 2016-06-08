@@ -177,7 +177,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
+   - {link: "mailto:contato@jsday.com.br", text: "contato@jsday.com.br"}
  -
   title: "FAQ"
   links:
