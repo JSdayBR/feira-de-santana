@@ -1,5 +1,5 @@
 -
-  id: 2
+  id: 100
   name: "Juarez"
   surname: "Filho"
   company: "Google Developer Expert"
@@ -15,7 +15,7 @@
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 3
+  id: 106
   name: "Felipe"
   surname: "de Albuquerque"
   company: "CESAR"
@@ -27,3 +27,16 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
     - {name: "github", link: "https://github.com/felipedealbuquerque"}
+-
+  id: 4
+  name: "Jonata"
+  surname: "Weber"
+  company: "WeberSchool"
+  title: "Software Engineer"
+  bio: "Além de empreendedor, programador e fã do Raul Seixas, Jonata acredita que a tecnologia pode mudar positivamente a vida das pessoas. Ele está sempre envolvido com comunidade e participa ativamente dos grupos DEVFSA, PHPBA e #horaextra. É bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software pela UNIFACS. É um apaixonado pelo trabalho home office, trabalhou com equipes distribuídas em Portugal e Estados Unidos. E trabalha com PHP desde 2009 e recentemente ganhou o título de Zend Certified PHP Engineer."
+  thumbnailUrl: jonataweber.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/jonata-weber-81a2bb17"}
+    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+    - {name: "github", link: "https://github.com/jonataa"}
