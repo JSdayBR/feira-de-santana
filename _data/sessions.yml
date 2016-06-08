@@ -82,7 +82,7 @@
   title: "Accessibility and JS: side-by-side"
   description: "Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps."
   subtype: presentation
-  speakers: [1]
+  speakers: []
   language: pt-BR
   complexity: "Intermediate"
 -
