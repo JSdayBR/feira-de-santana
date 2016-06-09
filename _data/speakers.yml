@@ -50,3 +50,16 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/romualdo-andre-3072237"}
     - {name: "twitter", link: "https://twitter.com/romualdoandre"}
     - {name: "github", link: "https://github.com/romualdoandre"}
+-
+  id: 5
+  name: "Rafael"
+  surname: "Verger"
+  company: "JusBrasil"
+  title: "Fullstack developer"
+  bio: "Full-stack developer na Jusbrasil, seguidor de Gonzagão, apaixonado por JavaScript e louco por novas tecnologias :)"
+  thumbnailUrl: rafaelverger.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/rafaelverger"}
+    - {name: "twitter", link: "https://twitter.com/rafaelverger"}
+    - {name: "github", link: "https://github.com/rafaelverger"}
