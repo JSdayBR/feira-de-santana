@@ -11,4 +11,4 @@
 -
   group: ""
   elements:    
-    - {name: "NPM", description: "npm is the package manager that installs JavaScript programs. npm, Inc. supports the JavaScript community by providing the registry where developers publish and share packaged open-source modules. We're keeping the registry running, and working on new tools make the JavaScript community even more powerful.", link: "https://www.npmjs.com/", imageUrl: "npm.png", width: "110px"}      
+    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
