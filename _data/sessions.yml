@@ -39,8 +39,8 @@
   complexity: "Intermediate"
 -
   id: 008
-  title: "JavaScript Robotics: O que acontece quando o Hardware se encontra com o JavaScript?"
-  description: "JavaScript, linguagem de programação feita para rodar apenas em browsers, mas hoje várias plataformas e coisas podem interagir com JS, e uma das coisas mais incríveis e divertidas que o JavaScript pode fazer, é se comunicar diretamente com o mundo real, é isso mesmo, podemos programar micro-controladores como o Arduino ou Raspberry pi usando JavaScript. Nesta palestra vamos conhecer a parte mais divertida e emocional sobre a programação de robos e conceitos de IoT. Apresentaremos para vocês o “Guide Dog”, que é um robozinho que estou construindo com um kit básico de Arduíno e com o framework JavaScript Johnny-five.io"
+  title: "JavaScript Robotics"
+  description: "O que acontece quando o Hardware se encontra com o JavaScript? Essa palestra é sobre mais um super poder do JavaScript, que é controlar robôs! Levarei experimentos robóticos controlados pelo framework JavaScript Johnny-five.io. Vamos nos divertir voando com Drones e falando sobre alta tecnologia. "
   subtype: presentation
   speakers: [2]
   language: pt-BR
