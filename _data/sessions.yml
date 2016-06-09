@@ -39,8 +39,8 @@
   complexity: "Intermediate"
 -
   id: 008
-  title: "JavaScript Robotics"
-  description: "O que acontece quando o Hardware se encontra com o JavaScript? Essa palestra é sobre mais um super poder do JavaScript, que é controlar robôs! Levarei experimentos robóticos controlados pelo framework JavaScript Johnny-five.io. Vamos nos divertir voando com Drones e falando sobre alta tecnologia. "
+  title: "O que acontece quando o Hardware se encontra com o JavaScript?"
+  description: "Essa palestra é sobre mais um super poder do JavaScript, que é controlar robôs! Levarei experimentos robóticos controlados pelo framework JavaScript Johnny-five.io. Vamos nos divertir voando com Drones e falando sobre JavaScript Robotics!"
   subtype: presentation
   speakers: [2]
   language: pt-BR
