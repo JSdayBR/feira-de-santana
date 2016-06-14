@@ -63,3 +63,14 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/rafaelverger"}
     - {name: "twitter", link: "https://twitter.com/rafaelverger"}
     - {name: "github", link: "https://github.com/rafaelverger"}
+-
+  id: 6
+  name: "Thiago"
+  surname: "Mascarenhas"
+  company: "Mederi"
+  title: "Analista de TI"
+  bio: "Apaixonado principalmente por PHP e Javascript, mas sempre antenado em tudo que cerceia a web e o mundo"
+  thumbnailUrl: ThiagoMascarenhas.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thiago-mascarenhas-oliveira-222960a0"}
