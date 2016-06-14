@@ -47,11 +47,9 @@ navigationLinks:
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
- - {link: "assets/mediakit.pdf", text: "Patrocinar o evento"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
 rightNavigationButtons:
- - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
- - {link: "assets/mediakit.pdf", text: "Patrocinar o evento"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +60,6 @@ typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
  - {link: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2", text: "Quero palestrar"}
- - {link: "assets/mediakit.pdf", text: "Patrocinar o evento :)"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
