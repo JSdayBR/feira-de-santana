@@ -63,9 +63,9 @@
   complexity: "Intermediate"
 -
   id: 011
-  title: "Usando ES6 no Polymer"
-  description: "ECMAScript2015, ou ES6, é a nova versão do JavaScript e apresenta diversas novas funcionalidades que podem ser úteis tanto em scripts simples quanto em aplicações complexas. Nessa talk, mostro algumas dessas funcionalidades e como elas podem ser integradas com o Polymer, uma biblioteca desenvolvida pela Google que tem como objetivo facilitar e acelerar a criação de componentes para a web."
+  title: "Básico de JavaScript"
+  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
   subtype: presentation
-  speakers: []
+  speakers: [4]
   language: pt-BR
   complexity: "Intermediate"
