@@ -66,6 +66,6 @@
   title: "Básico de JavaScript"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
   subtype: presentation
-  speakers: [4]
+  speakers: [4,6]
   language: pt-BR
   complexity: "Intermediate"
