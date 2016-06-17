@@ -69,8 +69,20 @@
   surname: "Mascarenhas"
   company: "Mederi"
   title: "Analista de TI"
-  bio: "Apaixonado principalmente por PHP e Javascript, mas sempre antenado em tudo que cerceia a web e o mundo"
+  bio: "Apaixonado principalmente por PHP e Javascript, mas sempre antenado em tudo que cerca a web e o mundo"
   thumbnailUrl: ThiagoMascarenhas.png
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/thiago-mascarenhas-oliveira-222960a0"}
+-
+  id: 7
+  name: "Clara"
+  surname: "Battesini"
+  company: "UFBA"
+  title: "Estudante"
+  bio: "Estudante de engenharia de computação da UFBA, entrei no mundo Front-end em 2013 e desde então procuro me aprofundar em Javascript e suas tecnologias."
+  thumbnailUrl: clarabattesini.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/clarabatt"}
+    - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}

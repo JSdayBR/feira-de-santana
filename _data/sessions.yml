@@ -69,3 +69,11 @@
   speakers: [4,6]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 012
+  title: "Primeiros Passos com RegExp"
+  description: "Busque, valide, identifique, formate e capture padrões de texto com poucas linhas de código, surpreenda-se com o mundo das expressões regulares e as suas possibilidades!"
+  subtype: presentation
+  speakers: [7]
+  language: pt-BR
+  complexity: "Beginner"
