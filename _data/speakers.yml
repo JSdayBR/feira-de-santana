@@ -86,3 +86,28 @@
   social:
     - {name: "github", link: "https://github.com/clarabatt"}
     - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
+-
+  id: 8
+  name: "Rodrigo"
+  surname: "Ribeiro"
+  company: "JusBrasil"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor na Jusbrasil há 4 anos, passando por inúmeros projetos (de search à machine-learning), é facilmente motivado por desafios de performance e escalabilidade. Hoje trabalha na nova arquitetura front-end do site, com foco em React e GraphQL."
+  thumbnailUrl: rodrigoribeiro.png
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/rodrigopr"}
+    - {name: "twitter", link: "https://twitter.com/rodrigoropr"}  
+-
+  id: 9
+  name: "Marla"
+  surname: "Dore"
+  company: "UniJorge"
+  title: "Professora"
+  bio: ""
+  thumbnailUrl: marladore.jpg
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/rodrigopr"}
+    - {name: "twitter", link: "https://twitter.com/rodrigoropr"}    
+
