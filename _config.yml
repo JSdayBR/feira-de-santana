@@ -132,6 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Inscreva-se.now()"
+ticketsSubtitle: "Desconto especial de <strong>50% para estudantes</strong> em qualquer lote."
 ticketsOffers:
  -
   name: "1º Lote"
