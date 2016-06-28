@@ -1,13 +1,14 @@
 -
   group: ""
   elements:
-    - {name: "UNIFACS", description: "A UNIFACS é uma das maiores instituições de ensino superior da Bahia e é reconhecida na comunidade principalmente pela sua vocação regional, formação com ênfase nas áreas tecnológica e de fomento ao empreendedorismo.", link: "http://unifacs.br", imageUrl: "unifacs.png", width: "545px"}    
+    - {name: "UNIFACS", description: "A UNIFACS é uma das maiores instituições de ensino superior da Bahia e é reconhecida na comunidade principalmente pela sua vocação regional, formação com ênfase nas áreas tecnológica e de fomento ao empreendedorismo.", link: "http://unifacs.br", imageUrl: "unifacs.png", width: "545px"}        
 -
   group: ""
   elements:
-    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "350px"}    
+    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "350px"}        
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "Romanick", description: "Camisas com preço de fábrica, com cores maravilhosas da estação e serviços de serigrafia, bordado e sublimação.", link: "http://romanick.com.br/", imageUrl: "romanick.png", width: "180px"}
+    - {name: "Stickers Devs", description: "Empresa especializada em stickers adesivos para Desenvolvedores.", link: "https://www.stickersdevs.com.br/", imageUrl: "logo_stickers.png", width: "260px"}    
 -
   group: ""
   elements:    
