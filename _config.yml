@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
  - {count: "2", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
 
 # Latest News Block
