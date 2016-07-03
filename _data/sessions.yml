@@ -1,44 +1,5 @@
 -
   id: 001
-  title: "Abertura / Check-in"
-  place: "Lounge"
-  service: true
--
-  id: 002
-  title: "Break com sorteio de brindes"
-  place: "Auditorium"
-  service: true
--
-  id: 003
-  title: "Almoço"
-  place: ""
-  service: true
--
-  id: 004
-  title: "Accessibility Break by Facebook"
-  place: "Auditorium"
-  service: true
--
-  id: 005
-  title: "Encerramento"
-  place: "Auditorium"
-  service: true
-  description: "Thank you and... Always bet on JS!"
--
-  id: 006
-  title: "Em breve"
-  place: "Auditorium"
-  service: true
--
-  id: 007
-  title: "Firebase Adventures - Real time platform for your apps"
-  description: "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app. Firebase Adventures is a talk about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps."
-  subtype: presentation
-  speakers: []
-  language: pt-BR
-  complexity: "Intermediate"
--
-  id: 008
   title: "O que acontece quando o Hardware se encontra com o JavaScript?"
   description: "Essa palestra é sobre mais um super poder do JavaScript, que é controlar robôs! Levarei experimentos robóticos controlados pelo framework JavaScript Johnny-five.io. Vamos nos divertir voando com Drones e falando sobre JavaScript Robotics!"
   subtype: presentation
@@ -46,34 +7,82 @@
   language: pt-BR
   complexity: "Intermediate"
 -
-  id: 009
-  title: "WTM JavaScript Codelab"
-  description: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
-  subtype: Codelab
-  speakers: []
+  id: 003
+  title: "Básico de JavaScript"
+  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
+  subtype: workshop
+  speakers: [4,6]
   language: pt-BR
   complexity: "Beginner"
 -
-  id: 010
-  title: "Getting started with Firebase"
-  description: "In this workshop you will learn how to use Firebase to empower your web applications using all features provided by Firebase like realtime database, authentication, hosting and much more."
-  subtype: Codelab
-  speakers: []
-  language: pt-BR
-  complexity: "Intermediate"
--
-  id: 011
-  title: "Básico de JavaScript"
-  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
-  subtype: presentation
-  speakers: [4,6]
-  language: pt-BR
-  complexity: "Intermediate"
--
-  id: 012
+  id: 004
   title: "Primeiros Passos com RegExp"
   description: "Busque, valide, identifique, formate e capture padrões de texto com poucas linhas de código, surpreenda-se com o mundo das expressões regulares e as suas possibilidades!"
   subtype: presentation
   speakers: [7]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 005
+  title: "'If you know Angular, now You know mobile'"
+  description: "Quando foi criado como ferramenta de prototipação, o Angular nem imaginava que se tornaria mainstream em desenvolvimento web e mobile. Ele foi o principal suporte para o Ionic, uma das principais SDKs que promoveram o Javascript como linguagem viável para criar aplicativos móveis para diferentes plataformas. Agora, mais um grande passo foi dado para trazer a web para o mobile: o Angular 2. Com o Angular 2, mais organizações estão apostando na Web Stack, para criar melhores aplicativos híbridos ou até aplicativos \"nativos\" usando Javascript. Eu vou te mostrar que o AngulasJS foi ótimo, mas o Angular 2 mudou o jogo. Se você sabe Angular, agora você sabe mobile."
+  subtype: presentation
+  speakers: [12]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 006
+  title: "Como o mundo do IoT será transformado com Javascript"
+  description: "Alguns anos atrás um rapaz me disse que JavaScript seria a linguagem de programação do futuro, pois ela é muito fácil de ensinar e você pode utilizá-la nos mais diferentes ambientes, como: em dispositivos móveis, no browser e até no servidor. O futuro que ele me falou está próximo e o JavaScript com toda certeza estará presente nele. Nessa palestra vamos falar sobre como o JavaScript transformará o mundo da Internet das Coisas e em especial o mundo de MATRIX."
+  subtype: presentation
+  speakers: [11]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Firebase Adventures v3"
+  description: "O Firebase disponibiliza a infraestrutura e ferramentas necessárias para que você possa desenvolver suas aplicações e ter o crescimento desejado em seu negócio. Use o Firebase para armazenar, sincronizar dados instantaneamente, autenticar usuários, enviar notificações, testar, analisar, integrar com outros produtos do Google e muito mais. Participe dessa aventura e aprenda como você pode usar o Firebase para construir aplicações extraordinárias."
+  subtype: presentation
+  speakers: [1]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Come to the Dart side!"
+  description: "Você é programador Javascript? Está cansado de escrever infinitos callbacks e criar classes de um jeito um tanto quanto \"esquisito\"? Então junte-se ao lado Dart da programação para a Web e veja como essa linguagem, criada pelo Google, vai revolucionar seu jeito de criar aplicações. Veremos as principais características desta linguagem, além de uma comparação com Javascript e Typescript que é um pouco \"marota\" e tendenciosa mas divertida!"
+  subtype: presentation
+  speakers: [10]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 009
+  title: "Codelab WTM - Criando sua Landing Page"
+  description: "Mas o que é uma Landing Page? A Landing page é otimizada estrategicamente para vender um produto ou serviço, o seu conteúdo é confeccionado de forma objetiva. Você tem algum serviço para divulgar? Quer fazer sua primeira página?. Neste workshop faremos práticas do conteúdo para desenvolvimento de sua página e ao final juntaremos o resultado aprendido nas práticas e faremos o projeto de sua página pessoal ou de serviços. Você decide..a página é sua!!! Teremos dicas valiosas para desenvolver um site com recursos de Html, CSS e JavaScript é claro..Venha menina e menino.. fazer sua Landing Page..."
+  subtype: workshop
+  speakers: [9,13]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 010
+  title: "Programação Funcional com JavaScript"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 011
+  title: "O jeito React.js"
+  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 012
+  title: "Precisamos falar do futuro"
+  description: "Aaah o futuro! Alguém sabe quando ele chega? E o que ele vai trazer? McFly e Dr. Brown acertaram o quê e quando, e você, sabe quando seu futuro chega? Vem comigo e aprenda a lidar com o futuro da melhor forma [callbacks] [promises] [generators / iterators] [async / await]"
+  subtype: presentation
+  speakers: [5]
+  language: pt-BR
+  complexity: "Intermediate"

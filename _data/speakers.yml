@@ -103,8 +103,8 @@
   name: "Marla"
   surname: "Dore"
   company: "UniJorge"
-  title: "Professora"
-  bio: ""
+  title: "Pesquisadora e Professora"
+  bio: "Analista de Sistemas. Pesquisadora e Professora da Unijorge. Consultora em TIC. Organizer do GDG SSA e Leader WTM Salvador. Entusiasta por tecnologia e inovação."
   thumbnailUrl: marladore.jpg
   rockstar: true
   social:    
@@ -137,5 +137,30 @@
     - {name: "github", link: "https://github.com/di3goleite"}
     - {name: "twitter", link: "https://twitter.com/di3goleite"}
     - {name: "facebook", link: "https://facebook.com/di3goleite"}
+-
+  id: 12
+  name: "Matheus"
+  surname: "Cardoso"
+  company: "Maqhin"
+  title: "Web and Mobile apps developer"
+  bio: "Passionate father, a truly researcher and enthusiastic software developer. I am building web services, mobile apps and a life for my son."
+  thumbnailUrl: matheuscardoso.jpeg
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/matheuscas"}
+    - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
+    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}
+-
+  id: 13
+  name: "Edely"
+  surname: "Gomes"
+  company: "UFBA"
+  title: "Jornalista e web designer"
+  bio: "Atualmente estuda Sistemas de Informação e é bolsista de automação de infraestrutura de TIC também na UFBA. Nas horas vagas gosta de misturar música com tecnologia."
+  thumbnailUrl: edelygomes.jpg
+  rockstar: true
+  social:        
+    - {name: "twitter", link: "https://twitter.com/edelyla"}
+    - {name: "facebook", link: "https://facebook.com/palhetasemdono"}
 
 
