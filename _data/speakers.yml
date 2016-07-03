@@ -108,8 +108,8 @@
   thumbnailUrl: marladore.jpg
   rockstar: true
   social:    
-    - {name: "github", link: "https://github.com/rodrigopr"}
-    - {name: "twitter", link: "https://twitter.com/rodrigoropr"}
+    - {name: "github", link: "https://github.com/marladore"}
+    - {name: "twitter", link: "https://twitter.com/marladore"}
 -
   id: 10
   name: "Marlon"
