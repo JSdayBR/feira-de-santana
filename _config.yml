@@ -60,8 +60,7 @@ eventDate: "23 de Julho, 2016"
 typeoutTextValues: '"", "JavaScript", "AngularJS", "Firebase", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"}
- - {link: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2", text: "Quero palestrar"}
+ - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
  - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016", text: "Seja um patrocinador"}
 
 # About Block
