@@ -98,6 +98,18 @@
     - {name: "github", link: "https://github.com/marladore"}
     - {name: "twitter", link: "https://twitter.com/marladore"}
 -
+  id: 13
+  name: "Edely"
+  surname: "Gomes"
+  company: "UFBA"
+  title: "Jornalista e web designer"
+  bio: "Atualmente estuda Sistemas de Informação e é bolsista de automação de infraestrutura de TIC também na UFBA. Nas horas vagas gosta de misturar música com tecnologia."
+  thumbnailUrl: edelygomes.jpg
+  rockstar: true
+  social:        
+    - {name: "twitter", link: "https://twitter.com/edelyla"}
+    - {name: "facebook", link: "https://facebook.com/palhetasemdono"}    
+-
   id: 10
   name: "Marlon"
   surname: "Silva Carvalho"
@@ -138,16 +150,17 @@
     - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
     - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}
 -
-  id: 13
-  name: "Edely"
-  surname: "Gomes"
-  company: "UFBA"
-  title: "Jornalista e web designer"
-  bio: "Atualmente estuda Sistemas de Informação e é bolsista de automação de infraestrutura de TIC também na UFBA. Nas horas vagas gosta de misturar música com tecnologia."
-  thumbnailUrl: edelygomes.jpg
+  id: 14
+  name: "Danielle"
+  surname: "Oliveira"
+  company: "Women Techmakers"
+  title: "Organizer"
+  bio: "Graduada em Engenharia de Computação pela Área 1 - Faculdade de Ciência e Tecnologia, pós graduada em Banco de Dados pela UNIFACS, pós graduanda em Desenvolvimento para Aplicativos Móveis pelo SENAI, em seu dia-a-dia é Analista de Requisitos e nas horas vagas se aventura em testes de ferramentas softwares. Membro do Woman Techmacker SSA, apaixonada por pesquisa na área de computação ubíqua, desenvolvimento mobile, eletrônica, educação e empreendedorismo."
+  thumbnailUrl: danielleoliveira.jpg
   rockstar: true
-  social:        
-    - {name: "twitter", link: "https://twitter.com/edelyla"}
-    - {name: "facebook", link: "https://facebook.com/palhetasemdono"}
+  social:    
+    - {name: "github", link: "https://github.com/dannyserena"}
+    - {name: "facebook", link: "https://facebook.com/dani.elle.75286"}
+    - {name: "linkedin", link: "https://facebook.com/danielle-teixeira-93493376"}
 
 

@@ -1,14 +1,6 @@
 -
-  id: 001
-  title: "O que acontece quando o Hardware se encontra com o JavaScript?"
-  description: "Essa palestra é sobre mais um super poder do JavaScript, que é controlar robôs! Levarei experimentos robóticos controlados pelo framework JavaScript Johnny-five.io. Vamos nos divertir voando com Drones e falando sobre JavaScript Robotics!"
-  subtype: presentation
-  speakers: [2]
-  language: pt-BR
-  complexity: "Intermediate"
--
   id: 003
-  title: "Básico de JavaScript"
+  title: "Workshop: Iniciando com JavaScript"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
   subtype: workshop
   speakers: [4,6]
@@ -86,3 +78,11 @@
   speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 013
+  title: "AngularJS, por que utilizar no seu projeto?"
+  description: "Serão abordados conceitos de porque utilizar este framework e como desenvolver uma aplicação, entendendo sua estrutura de formulários, validação por padrões, filtros, separação de responsabilidade, diretivas, injeção de dependência, reuso e testes."
+  subtype: presentation
+  speakers: [14]
+  language: pt-BR
+  complexity: "Beginner"
