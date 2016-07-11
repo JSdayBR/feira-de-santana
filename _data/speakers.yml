@@ -12,19 +12,6 @@
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 2
-  name: "Felipe"
-  surname: "de Albuquerque"
-  company: "CESAR"
-  title: "Front End Engineer"
-  bio: "Mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile, Tv Digital etc. Atualmente trabalha no maior instituto de inovação e pesquisa do Brasil, o CESAR. Onde participa de grandes projetos relevantes para clientes como a Samsung, Motorola, Coca-cola, FCA entre muitos outros. Também é professor da pós-graduação em Design de interação para dispositivos moveis."
-  thumbnailUrl: felipedeolinda.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/felipedealbuquerque"}
-    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
-    - {name: "github", link: "https://github.com/felipedealbuquerque"}
--
   id: 3
   name: "Jonata"
   surname: "Weber"
