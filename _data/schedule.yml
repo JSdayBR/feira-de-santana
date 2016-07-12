@@ -4,9 +4,8 @@
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Crockford", color: "#f7df1e", description: "Sala 6"}
-    - {title: "Stefanov", color: "#f7df1e", description: "Sala 5"}
-    - {title: "Maujor", color: "#f7df1e", description: "Sala 4"}
+    - {title: "Trilha 1", color: "#f7df1e", description: "Auditório Principal"}
+    - {title: "Trilha 2", color: "#f7df1e", description: "Auditório menor"}
   timeslots:
     - {
         startTime: "8:00",
