@@ -1,4 +1,21 @@
 -
+  id: 000
+  title: "Check in"
+-
+  id: 001
+  title: "Abertura"
+-
+  id: 002
+  title: "Coffee Break"
+-
+  id: 003
+  title: "Workshop: Iniciando com JavaScript"
+  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
+  subtype: workshop
+  speakers: [4,6]
+  language: pt-BR
+  complexity: "Beginner"
+-
   id: 004
   title: "Primeiros Passos com RegExp"
   description: "Busque, valide, identifique, formate e capture padrões de texto com poucas linhas de código, surpreenda-se com o mundo das expressões regulares e as suas possibilidades!"
@@ -39,6 +56,14 @@
   language: pt-BR
   complexity: "Beginner"
 -
+  id: 009
+  title: "Codelab WTM - Criando sua Landing Page"
+  description: "Mas o que é uma Landing Page? A Landing page é otimizada estrategicamente para vender um produto ou serviço, o seu conteúdo é confeccionado de forma objetiva. Você tem algum serviço para divulgar? Quer fazer sua primeira página?. Neste workshop faremos práticas do conteúdo para desenvolvimento de sua página e ao final juntaremos o resultado aprendido nas práticas e faremos o projeto de sua página pessoal ou de serviços. Você decide..a página é sua!!! Teremos dicas valiosas para desenvolver um site com recursos de Html, CSS e JavaScript é claro..Venha menina e menino.. fazer sua Landing Page..."
+  subtype: workshop
+  speakers: [9,13]
+  language: pt-BR
+  complexity: "Beginner"  
+-
   id: 010
   title: "Programação Funcional com JavaScript"
   description: ""
@@ -78,22 +103,7 @@
   speakers: [1]
   language: pt-BR
   complexity: "Intermediate"
--
-  id: 003
-  title: "Workshop: Iniciando com JavaScript"
-  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
-  subtype: workshop
-  speakers: [4,6]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 009
-  title: "Codelab WTM - Criando sua Landing Page"
-  description: "Mas o que é uma Landing Page? A Landing page é otimizada estrategicamente para vender um produto ou serviço, o seu conteúdo é confeccionado de forma objetiva. Você tem algum serviço para divulgar? Quer fazer sua primeira página?. Neste workshop faremos práticas do conteúdo para desenvolvimento de sua página e ao final juntaremos o resultado aprendido nas práticas e faremos o projeto de sua página pessoal ou de serviços. Você decide..a página é sua!!! Teremos dicas valiosas para desenvolver um site com recursos de Html, CSS e JavaScript é claro..Venha menina e menino.. fazer sua Landing Page..."
-  subtype: workshop
-  speakers: [9,13]
-  language: pt-BR
-  complexity: "Beginner"
+
 -
   id: 015
   title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
@@ -102,3 +112,6 @@
   speakers: [15]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 016
+  title: "Almoço"
