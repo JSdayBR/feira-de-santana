@@ -86,3 +86,10 @@
   speakers: [14]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 014
+  title: "Check-in"
+- id: 015
+  title: "Abertura"
+- id: 016
+  title: "Cofee break"
