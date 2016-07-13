@@ -1,4 +1,13 @@
 -
+  id: 000
+  title: "Check in"
+-
+  id: 001
+  title: "Abertura"
+-
+  id: 002
+  title: "Coffee Break"
+-
   id: 003
   title: "Workshop: Iniciando com JavaScript"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
@@ -53,7 +62,7 @@
   subtype: workshop
   speakers: [9,13]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Beginner"  
 -
   id: 010
   title: "Programação Funcional com JavaScript"
@@ -86,3 +95,29 @@
   speakers: [14]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 014
+  title: "Workshop: AngularJS 2.0"
+  description: ""
+  subtype: workshop
+  speakers: [1]
+  language: pt-BR
+  complexity: "Intermediate"
+
+-
+  id: 015
+  title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
+  description: "Desenvolver aplicações multi-plataforma sempre foi um desafio. Se tratando de desktops as dificuldades são ainda mais visíveis, já que a infinidade de APIs expostas em um sistema operacional raramente tem compatibilidades com outros sistemas. O Electron é um produto do Github que tenta entregar ao desenvolvedor o poder de produzir aplicações utilizando as mais novas tecnologias Web enquanto provê acesso às APIs nativas de cada plataforma, permitindo que uma única base de código possa servir para as mais diversas plataformas desktop existentes."
+  subtype: presentation
+  speakers: [15]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 016
+  title: "Almoço"
+-
+  id: 017
+  title: "Sorteios e atividades"
+-
+  id: 018
+  title: "Encerramento: Atenção, não esqueça da foto de familia jsday"  
