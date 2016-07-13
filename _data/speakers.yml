@@ -162,5 +162,17 @@
     - {name: "github", link: "https://github.com/dannyserena"}
     - {name: "facebook", link: "https://facebook.com/dani.elle.75286"}
     - {name: "linkedin", link: "https://facebook.com/danielle-teixeira-93493376"}
+-
+  id: 15
+  name: "Victor"
+  surname: "Nascimento"
+  company: "UEFS"
+  title: "Estudante de Graduação"
+  bio: "Estudante de graduação em Engenharia de Computação com período sanduíche na Hanze University of Applied Sciences (Holanda), apaixonado por tecnologia e gamer nas horas vagas. Atuou como coordenador e executor de um projeto eletrônico, mecânico e de sistema embarcado para realizar leitura do consumo energético de residências da Holanda. Hoje estuda tecnologias de desenvolvimento Web full-stack e tecnologias híbridas para desenvolvimento de aplicações mobile nativas. Realiza TCC na área de redes de sensores visuais sem fio com ênfase no Raspberry Pi."
+  thumbnailUrl: victornascimento.jpg
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/vjoao"}
+    - {name: "facebook", link: "https://facebook.com/vjoao"}    
 
 
