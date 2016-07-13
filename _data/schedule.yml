@@ -4,11 +4,11 @@
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Auditório Principal", color: "#f7df1e", description: "Sala 6"}
-    - {title: "Auditório 2", color: "#f7df1e", description: "Sala 5"}
-    - {title: "Workshop 1", color: "#f7df1e", description: "Sala 4"}
+    - {title: "Auditório 1", color: "#f7df1e", description: "Sala 1"}
+    - {title: "Auditório 2", color: "#f7df1e", description: "Sala 2"}
+    - {title: "Workshop 1", color: "#f7df1e", description: "Sala 3"}
     - {title: "Workshop 2", color: "#f7df1e", description: "Sala 4"}
-    - {title: "Workshop 3", color: "#f7df1e", description: "Sala 4"}
+    - {title: "Workshop 3", color: "#f7df1e", description: "Sala 5"}
   timeslots:
     - {
         startTime: "8:00",
