@@ -71,9 +71,6 @@
   language: pt-BR
   complexity: "Beginner"
 -
-  id: 015
-  title: ""
--
   id: 014
   title: "Workshop: AngularJS 2.0"
   description: ""
@@ -95,5 +92,13 @@
   description: "Mas o que é uma Landing Page? A Landing page é otimizada estrategicamente para vender um produto ou serviço, o seu conteúdo é confeccionado de forma objetiva. Você tem algum serviço para divulgar? Quer fazer sua primeira página?. Neste workshop faremos práticas do conteúdo para desenvolvimento de sua página e ao final juntaremos o resultado aprendido nas práticas e faremos o projeto de sua página pessoal ou de serviços. Você decide..a página é sua!!! Teremos dicas valiosas para desenvolver um site com recursos de Html, CSS e JavaScript é claro..Venha menina e menino.. fazer sua Landing Page..."
   subtype: workshop
   speakers: [9,13]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 015
+  title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
+  description: "Desenvolver aplicações multi-plataforma sempre foi um desafio. Se tratando de desktops as dificuldades são ainda mais visíveis, já que a infinidade de APIs expostas em um sistema operacional raramente tem compatibilidades com outros sistemas. O Electron é um produto do Github que tenta entregar ao desenvolvedor o poder de produzir aplicações utilizando as mais novas tecnologias Web enquanto provê acesso às APIs nativas de cada plataforma, permitindo que uma única base de código possa servir para as mais diversas plataformas desktop existentes."
+  subtype: presentation
+  speakers: [15]
   language: pt-BR
   complexity: "Beginner"
