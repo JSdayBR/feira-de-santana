@@ -137,10 +137,10 @@ ticketsOffers:
   name: "1º Lote"
   price: "60"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-feira-de-santana-2016"
-  buyButtonText: "{{Comprar}}"
+  buyButtonLink: ""
+  buyButtonText: "{{Esgotado}}"
   validFrom: "2016-06-04T10:00"
-  validThrough: "2016-07-23T23:59"
+  validThrough: "2016-07-12T23:59"
  -
   name: "2º Lote"
   price: "80"
