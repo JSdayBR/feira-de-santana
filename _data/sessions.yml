@@ -1,12 +1,15 @@
 -
   id: 000
   title: "Check in"
+  service: true
 -
   id: 001
   title: "Abertura"
+  service: true
 -
   id: 002
   title: "Coffee Break"
+  service: true
 -
   id: 003
   title: "Workshop: Iniciando com JavaScript"
@@ -115,9 +118,12 @@
 -
   id: 016
   title: "Almoço"
+  service: true
 -
   id: 017
   title: "Sorteios e atividades"
+  service: true
 -
   id: 018
   title: "Encerramento: Atenção, não esqueça da foto de familia jsday"  
+  service: true
