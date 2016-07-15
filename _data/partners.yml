@@ -21,9 +21,9 @@
     - {name: "Stickers Devs", description: "Empresa especializada em stickers adesivos para Desenvolvedores.", link: "https://www.stickersdevs.com.br/", imageUrl: "logo_stickers.png", width: "260px"}    
     -
 -
-group: "Apoio"
-elements:    
-  - {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "450px"}
+  group: "Apoio"
+  elements:    
+    - {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "450px"}
 -
   group: ""
   elements:    
