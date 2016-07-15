@@ -22,7 +22,7 @@
 -
   group: "Apoio"
   elements:    
+    - {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "450px"}
     - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
     - {name: "GDG Salvador", description: "Google Developer Group (GDG) Salvador é o primeiro grupo do nordeste brasileiro a surgir. ", link: "http://gdgssa.github.io/", imageUrl: "gdgssa.png", width: "209px"}
     - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}
-    - {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "450px"}
