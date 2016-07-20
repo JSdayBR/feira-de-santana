@@ -20,7 +20,7 @@
     - {
         startTime: "9:15",
         endTime: "10:00",
-        sessionIds: [007]
+        sessionIds: [007,999]
     }
     - {
         startTime: "10:00",
@@ -30,12 +30,12 @@
     - {
         startTime: "10:20",
         endTime: "11:10",
-        sessionIds: [004,010,]
+        sessionIds: [010,004]
     }
     - {
         startTime: "11:10",
         endTime: "12:00",
-        sessionIds: [008,012]
+        sessionIds: [012,008]
     }
     - {
         startTime: "12:00",
@@ -45,7 +45,7 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [011,015]
+        sessionIds: [015,011]
     }
     - {
         startTime: "14:45",
@@ -60,17 +60,17 @@
     - {
         startTime: "16:00",
         endTime: "16:45",
-        sessionIds: [006]
+        sessionIds: [006,999]
     }
     - {
         startTime: "16:45",
         endTime: "17:30",
-        sessionIds: [017]
+        sessionIds: [017,999]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [018]
+        sessionIds: [018,999]
     }
 -
   title: "Workshops"
@@ -90,5 +90,5 @@
     - {
         startTime: "14:20",
         endTime: "15:30",
-        sessionIds: [003,009,014]
+        sessionIds: [003,009,999]
     }
