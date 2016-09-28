@@ -1,0 +1,440 @@
+@import "_mixins.less";
+@import url(http://fonts.googleapis.com/css?family=Roboto:500,300,400);
+
+/* =============================================================================
+   MAIN LAYOUT
+   ========================================================================== */
+html {
+  background:#F6F6F6;
+  font-family: 'Roboto', sans-serif;
+  color:#777;
+}
+
+body {
+  background: url("../img/bg_body2.jpg");  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Roboto', sans-serif;
+  font-size: 62.5%; 
+}
+
+/* =============================================================================
+   BASIC STYLES
+   ========================================================================== */
+h1, h2, h3, h4, h5, h6 {color:#2b2b2b;}
+h2 {
+  font-weight: 300;
+}
+
+/* =============================================================================
+   NAVIGATION
+   ========================================================================== */
+nav {
+  background: #295A6A;
+  text-transform: uppercase;
+  text-align: center;
+}
+.nav-link {
+  color:#fff;  
+}
+
+.nav-link:active,
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.current {color:#fff;}
+
+.nav-item {
+  font-weight: 300;
+  margin-right: 10px;
+}
+.nav-item a {  
+  padding: 0.3em 0.6em;
+}
+
+.nav-item:hover {
+  background-color: #3C7284;
+  border-radius: 0.3em;
+}
+
+/* =============================================================================
+   HEADER
+   ========================================================================== */
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-patrocinador {
+  background-color: #F0DB50;
+}
+
+.header {    
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 100% auto;
+}
+.logo-link, .tagline, .call-action-area .price {
+  color:#fff;  
+}
+.tagline {
+  font-weight: 300;    
+  background-color: #F0DB50;
+  display: inline-block;
+  color: #295A6A;
+  text-align: center;
+  padding: 6px;
+}
+.call-action-area .price {color:#fddd52;}
+/*.call-action-area .call-action-link, .btn {  
+  background-color: #fddd52;
+  background-image: -moz-linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  background-image: -webkit-linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
+  background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  color:#2b2b2b;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
+  border-radius: 40px;
+}*/
+
+.call-action-area .call-action-link {
+  margin-right: 20px;
+}
+
+.github-link {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 11;
+}
+
+.github-link img {
+  border: 0;
+}
+
+/* =============================================================================
+   CONTENT
+   ========================================================================== */
+.content a {color: #02B1EB;}
+.content a:hover, .content a:focus {
+  color: #79CAEB;
+  text-decoration: underline;
+}
+.container {
+  display: table;
+  max-width: 1040px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+/* =============================================================================
+   ABOUT
+   ========================================================================== */
+.about {
+  background-color: #f7f7f7;  
+}
+
+.about blockquote {
+  font-size: 3.5em;
+}
+
+/* =============================================================================
+   LOCATION
+   ========================================================================== */
+.location-area {
+  background: #e7e7e7;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 500px;
+}
+
+.content section.location {
+  padding: 0px;
+}
+
+.map-location-image {
+  position: absolute;
+  right: 90px;
+  margin-top: -415px;
+  border: solid 7px #fff;
+}
+
+/* =============================================================================
+   SPEAKER
+   ========================================================================== */
+
+.speaker-photo .photo {
+  border-radius: 50%;
+  box-shadow: 0 0 0 8px rgba(0,0,0,.07);
+  .transition(all 0.3s ease-out);
+}
+
+.speaker-item-photo {
+  width: 16em;
+  height: 16em;
+  margin: 0 auto;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  text-align: center;
+  border: 10px solid rgba(105,121,126,0);
+  -webkit-box-shadow: 0 0 0 3px rgba(105,121,126,0.1);
+  box-shadow: 0 0 0 3px rgba(105,121,126,0.1);
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  position: absolute;
+  left: 0;
+}
+.speakers-item {
+    margin-bottom: 20px;
+    height: 210px;
+}
+.speakers-item:hover .speaker-photo .photo {box-shadow: 0 0 0 8px rgba(0,0,0,.3);}
+.speech-time {
+  color:#fff;
+  background:#2b2b2b;
+  border-radius: 8px;
+}
+
+.speaker-item-bio {
+  font-size: 1.4em;
+  color: #aaa;
+  margin: 1em 0 0 0;
+  padding: 0 5em 0 0;
+}
+
+.speakers-name {
+  font-size: 2.2em;
+  text-transform: uppercase;
+  color: #69797e;
+  font-weight: 300;
+  position: relative;
+  margin: 0.2em 0 0.3em;
+  letter-spacing: -0.02em;
+  position: relative;
+  display: inline-block;
+}
+
+.speaker-item-bio {
+  font-size: 1.4em;
+  color: #aaa;
+  margin: 1em 0 0 0;
+  padding: 0 5em 0 0;
+}
+
+.speakers .section-title {
+  margin-bottom: 63px;
+}
+
+/* =============================================================================
+   SCHEDULE
+   ========================================================================== */
+.schedule-tbl {
+  background:#fff;
+  border:1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.15);
+}
+.schedule-tbl table {background:#fff;}
+.schedule-tbl td, .schedule-tbl th {border-bottom:1px solid #e7e7e7;}
+.schedule-tbl tbody tr:nth-child(2n+1) {background:#f6f6f6;}
+.schedule-tbl th {color:#2b2b2b;}
+.schedule-tbl .speaker-photo .photo {box-shadow: 0 0 0 1px rgba(0,0,0,.3);}
+.speakers-company {color:#999;}
+.schedule-slot {color:#2b2b2b;}
+.schedule-tbl tbody tr:hover {background:#fffde1;}
+.schedule-coffee, .schedule-closing, .schedule-lunch, .schedule-other {color:#214f87;}
+
+.schedule-list {
+  padding: 1em 0;
+  margin: 3em 16em;
+  list-style: none;
+  border-left: 3px dotted #ddd;
+}
+
+.schedule-item {
+  position: relative;
+  padding: 0.1em 0 0 5em;
+  margin-bottom: 5em;
+  min-height: 7em;
+}
+
+.schedule-item-description {
+  color: #888;
+  font-size: 1.3em;
+  line-height: 1.8em;
+  margin: 0.5em 0 0 0.25em;
+  width: 90%;
+}
+
+.schedule-item-hour {
+  position: absolute;
+  left: -5.8em;
+  top: 0.6em;
+  text-align: right;
+  font-size: 3em;
+  font-weight: 300;
+  color: #69797e;
+  margin: 0;
+  line-height: 1;
+  width: 4em;
+}
+
+.schedule-item.other .schedule-item-type {
+  background: #a4afb3;
+  width: 30px;
+  height: 30px;
+  margin-left: 7px;
+}
+
+.schedule-item-title {
+  font-size: 2.4em;
+  line-height: 1;
+  margin: 0.84em 0 0;
+  font-weight: 300;
+  color: #4a5558;
+}
+
+.schedule-item-speaker {
+  line-height: 1;
+  font-size: 1.5em;
+  margin: 0.7em 0 0 0.1em;
+  color: #27ae60;
+  text-transform: uppercase;
+}
+
+.schedule-item-type {
+  position: absolute;
+  left: -3.4em;
+  top: 0.4em;
+  background: #69797e;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  padding: 1em;
+  text-align: center;
+}
+
+/* =============================================================================
+   SPONSORS
+   ========================================================================== */
+.sponsor--link, .partner-link {
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.15);
+  padding: 0px 10px;
+}
+.sponsor--link:hover, .sponsor--link:focus, .partner-link:hover, .partner-link:focus {border-color: #f0a303;}
+
+.sponsors-list, .partners-list {
+  margin: 50px;
+  padding: 0 0 3em 0;
+  list-style: none;
+  text-align: center;
+}
+
+.Prata {color: #C7C7C7;}
+.Ouro {color: #FED967;}
+.Bronze {color: #9B4E32;}
+
+#sponsors, #partners {
+  padding: 10px 0px;
+}
+
+
+/* =============================================================================
+   CONTACT
+   ========================================================================== */
+.form input[type=text], .form input[type=email], .form textarea{
+  color: #777;
+  border: 1px solid #e7e7e7;
+  background: #fff;
+  border-radius: 4px;
+}
+.form input[type=text]:focus, .form input[type=email]:focus, .form textarea:focus {border-color:#aaa;outline:0;}
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width : 1024px) {
+  .header {
+    background-size: auto 100%;
+  }
+}
+@media only screen and (max-width : 480px) {
+  /* speakers */
+  .speaker-photo .photo {box-shadow: 0 0 0 3px rgba(0,0,0,.07);}
+  .speech-title {font-weight: bolder;}
+  .speech-time {
+    color:#2b2b2b;
+    background: transparent;
+    font-weight: bolder;
+  }
+  .github-link { display: none; }
+}
+
+.section-title {
+  text-align: center;
+  color: #295A6A;  
+}
+
+.arrow {
+  position: absolute;
+  bottom: 3em;
+  left: 50%;
+  margin-left: -20px;
+  width: 3.8em;
+  height: 3.8em;
+  background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgi…yMC43NzIsNTMuNDkyLTAuNTk1LDczLjY3MUwyMjAuMjQ5LDQ1NS44Njh6Ii8+DQo8L3N2Zz4=");
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  opacity: 0.5;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+  -webkit-animation: bounce 2s infinite;
+  -moz-animation: bounce 2s infinite;
+  -o-animation: bounce 2s infinite;
+  -ms-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+.footer {
+  padding: 24px 100px;
+  height: 100px;
+  background-color: #295A6A;
+}
+
+blockquote {
+  /*background: #f9f9f9;*/
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
