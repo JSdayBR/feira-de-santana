@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSday Feira de Santana 2016"
+title: "JSday Feira de Santana 2017"
 email: "contato@jsday.com.br"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -56,11 +56,11 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
-eventDate: "23 de Julho, 2016"
+eventDate: "15 de Julho, 2017"
 typeoutTextValues: '"", "JavaScript", "AngularJS", "Firebase", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
+# - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
  - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016", text: "Seja um patrocinador"}
 
 # About Block
@@ -89,16 +89,16 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "UNIFACS"
-eventLocationLink: "http://www.unifacs.br/"
-eventStreetAddress: "Rua Rio Tinto, 152 - Santa Mônica"
+eventLocationName: "FTC"
+eventLocationLink: "http://www.ftc.br/"
+eventStreetAddress: "Rua Artêmia Pires Freitas, s/n, SIM. CEP: 44.085-370"
 eventAddressLocality: "Feira de Santana"
 eventAddressLocalityRegion: "BA"
-eventPostalCode: "44077-140"
+eventPostalCode: "44085-370"
 eventAddressCountry: "Brasil"
-eventStartTime: "2016-07-23T08:00"
+eventStartTime: "2016-07-15T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2016-07-23T18:00"
+eventEndTime: "2016-07-15T18:00"
 eventPlaceCoordinates: "-12.2585924,-38.9336747"
 mapCenterCoordinates: "-12.2585924,-38.9336747"
 mapMobileCenterCoordinates: "-12.2585924,-38.9336747"
@@ -109,7 +109,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "UNIFACS"
+venueTitle: "FTC"
 venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
 
 # Tweets Feed Block
