@@ -76,7 +76,7 @@ statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
  - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "2", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
+ - {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -99,9 +99,9 @@ eventAddressCountry: "Brasil"
 eventStartTime: "2016-07-15T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2016-07-15T18:00"
-eventPlaceCoordinates: "-12.2585924,-38.9336747"
-mapCenterCoordinates: "-12.2585924,-38.9336747"
-mapMobileCenterCoordinates: "-12.2585924,-38.9336747"
+eventPlaceCoordinates: "-12.246922,-38.924696"
+mapCenterCoordinates: "-12.246922,-38.924696"
+mapMobileCenterCoordinates: "-12.246922,-38.924696"
 
 # Venue Block
 venueBlockTitle: "Local"
