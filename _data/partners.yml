@@ -1,31 +1,31 @@
 -
   group: ""
   elements:
-    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "545px"}        
-    - {name: "ADMobilize", description: "", link: "http://admobilize.com", imageUrl: "admobilize.jpeg", width: "545px"}        
+    #- {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "545px"}        
+    #- {name: "ADMobilize", description: "", link: "http://admobilize.com", imageUrl: "admobilize.jpeg", width: "545px"}        
     - {name: "FTC", description: "Com atuação de destaque entre as Instituições de Ensino Superior particular do Estado e um projeto pedagógico inovador voltado para a interdisciplinaridade e o empreendedorismo.", link: "http://ftc.br", imageUrl: "ftc.png", width: "545px"}        
 -
   group: ""
   elements:
-    - {name: "Sensorial", description: "", link: "http://sensorial.com.br", imageUrl: "sensorial.png", width: "400px"}
+    #- {name: "Sensorial", description: "", link: "http://sensorial.com.br", imageUrl: "sensorial.png", width: "400px"}
 -
   group: ""
   elements:
-    - {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "350px"}        
-    - {name: "LinceWeb", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}        
+    #- {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "350px"}        
+    #- {name: "LinceWeb", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}        
 -
   group: ""
   elements:
     - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "350px"}        
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
-    - {name: "Stickers Devs", description: "Empresa especializada em stickers adesivos para Desenvolvedores.", link: "https://www.stickersdevs.com.br/", imageUrl: "logo_stickers.png", width: "260px"}    
+    #- {name: "Stickers Devs", description: "Empresa especializada em stickers adesivos para Desenvolvedores.", link: "https://www.stickersdevs.com.br/", imageUrl: "logo_stickers.png", width: "260px"}    
 -
   group: "Apoio"
   elements:    
-    - {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "350px"}
+    #- {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "350px"}
 -
   group: ""
   elements:    
     - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
-    - {name: "GDG Salvador", description: "Google Developer Group (GDG) Salvador é o primeiro grupo do nordeste brasileiro a surgir. ", link: "http://gdgssa.github.io/", imageUrl: "gdgssa.png", width: "209px"}
+    #- {name: "GDG Salvador", description: "Google Developer Group (GDG) Salvador é o primeiro grupo do nordeste brasileiro a surgir. ", link: "http://gdgssa.github.io/", imageUrl: "gdgssa.png", width: "209px"}
     - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
