@@ -1,6 +1,6 @@
 -
   title: "JSday Lineup"
-  date: "2016-7-23"
+  date: "2017-7-15"
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
@@ -78,9 +78,9 @@
   dateReadable: "Workshops"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Workshop 1", color: "#f7df1e", description: "Sala 3"}
-    - {title: "Workshop 2", color: "#f7df1e", description: "Sala 4"}
-    - {title: "Workshop 3", color: "#f7df1e", description: "Sala 5"}
+    - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
+    - {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
+    - {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
   timeslots:
     - {
         startTime: "10:20",
