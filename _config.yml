@@ -49,10 +49,12 @@ navigationLinks:
 
 bottomNavigationLinks:
  #- {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016", text: "Seja um patrocinador"}
+ - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+Santana 2017", text: "Seja um patrocinador"}
 rightNavigationButtons:
  #- {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016", text: "Seja um patrocinador"}
+ - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+Santana 2017", text: "Seja um patrocinador"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +64,8 @@ typeoutTextValues: '"", "JavaScript", "Angular", "Node", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
 # - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de Santana 2016", text: "Seja um patrocinador"}
+ - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+Santana 2017", text: "Seja um patrocinador"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
