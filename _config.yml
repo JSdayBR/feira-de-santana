@@ -29,11 +29,12 @@ organizerEmail: "contato@jsday.com.br"
 # organizerLink: "http://fb.com/caravanaweb"
 
 # Head
-metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
+metaKeywords: "event, javascript, js, angular, google maps, 
+ionic, firebase, aplicativos híbridos, nodebots"
 twitterAccount: "@jsdaybr"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus-fsa.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter-fsa.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2017.png"
+socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2017.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2017.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2"
