@@ -44,7 +44,7 @@ Feira de Santana 2017"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/speakers/", text: "JS Experts"}
+ - {permalink: "/speakers/", text: "JS Experts"}
  # - {permalink: "/schedule/", text: "Lineup"}
  # - {permalink: "/live/", text: "Live"}
 
