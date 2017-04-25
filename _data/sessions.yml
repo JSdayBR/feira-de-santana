@@ -28,8 +28,8 @@
   complexity: "Beginner"
 -
   id: 005
-  title: "'If you know Angular, now You know mobile'"
-  description: "Quando foi criado como ferramenta de prototipação, o Angular nem imaginava que se tornaria mainstream em desenvolvimento web e mobile. Ele foi o principal suporte para o Ionic, uma das principais SDKs que promoveram o Javascript como linguagem viável para criar aplicativos móveis para diferentes plataformas. Agora, mais um grande passo foi dado para trazer a web para o mobile: o Angular 2. Com o Angular 2, mais organizações estão apostando na Web Stack, para criar melhores aplicativos híbridos ou até aplicativos \"nativos\" usando Javascript. Eu vou te mostrar que o AngulasJS foi ótimo, mas o Angular 2 mudou o jogo. Se você sabe Angular, agora você sabe mobile."
+  title: "Change detection in Angular for Humans"
+  description: "It's not easy to understand change detection in Angular. Is about Zones, Observables, Threads that communicate among them, and some other dark matters. But for humans, we can talk about the how the different strategies works between components, pure and impure Pipes, how the components are connected to achieve a fast and predictable change detection and, of course, how to make an faster Angular application mixing these strategies. "
   subtype: presentation
   speakers: [12]
   language: pt-BR
