@@ -48,18 +48,18 @@
   # rockstar: false
   # social:
     # - {name: "linkedin", link: "https://www.linkedin.com/in/thiago-mascarenhas-oliveira-222960a0"}
-#-
-#  id: 7
-#  name: "Clara"
-#  surname: "Battesini"
-#  company: "Cubos.io"
-#  title: "Front End Developer"
-#  bio: "Estudante de engenharia de computação da UFBA, entrei no mundo Front-end em 2013 e desde então procuro me aprofundar em Javascript e suas tecnologias."
-#  thumbnailUrl: clarabattesini.jpg
-#  rockstar: true
-#  social:
-#    - {name: "github", link: "https://github.com/clarabatt"}
-#    - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
+-
+  id: 7
+  name: "Clara"
+  surname: "Battesini"
+  company: "Cubos.io"
+  title: "Front End Developer"
+  bio: "Estudante de engenharia de computação da UFBA, entrei no mundo Front-end em 2013 e desde então procuro me aprofundar em Javascript e suas tecnologias."
+  thumbnailUrl: clarabattesini.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/clarabatt"}
+    - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
 # -
   # id: 8
   # name: "Rodrigo"

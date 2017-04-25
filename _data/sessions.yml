@@ -20,9 +20,39 @@
   complexity: "Beginner"
 -
   id: 004
-  title: "Primeiros Passos com RegExp"
-  description: "Busque, valide, identifique, formate e capture padrões de texto com poucas linhas de código, surpreenda-se com o mundo das expressões regulares e as suas possibilidades!"
-  subtype: presentation
+  title: "Workshop: Transformando layouts em código"
+  description: "Colocando a Mão na Massa! Transformando layouts em código.
+<br>
+Você é aquela pessoa que quando tem um editor aberto da sua frente não sabe nem por onde começar? Tem dificuldade em colocar na prática tudo que aprendeu na parte teórica? Relaxe, você está no lugar certo! Nesse Workshop você vai colocar a mão na massa e desenvolver junto com a gente uma página do zero. 
+<br>
+Recomendações:
+<ul>
+<li> Se você não manja nada, recomendamos que comece com a Introdução ao Javascript.</li>
+<li> Aqui nós vamos usar Javascript Puro, nada de frameworks nem libs.</li>
+<li> Vamos falar apenas de front-end, ok?</li>
+</ul>
+Programação:
+<ul>
+<li> Apresentações da equipe.</li>
+<li> Softwares e ferramentas que vamos utilizar.</li>
+<li> Apresentação do Layout.</li>
+<li> Pensando na Modularização.</li>
+<li> Criando nossa estrutura de diretórios.</li>
+<li> Revisão sobre o DOM.</li>
+<li> Aprendendo sobre eventos.</li>
+<li> Criando as partes do projeto.</li>
+<li> Como usar libs quando precisar.</li>
+<li> Considerações finais.</li>
+</ul>
+Estruturas que vamos construir:
+<ul>
+<li> Menu Responsivo</li>
+<li> Uma modal</li>
+<li> Um botão que muda o texto de uma div</li>
+<li> Usando uma lib para slides ou scroll da página</li>
+</ul>
+"
+  subtype: workshop
   speakers: [7]
   language: pt-BR
   complexity: "Beginner"
