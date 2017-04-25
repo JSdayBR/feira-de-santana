@@ -11,19 +11,19 @@
     # - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     # - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     # - {name: "github", link: "https://github.com/juarezpaf"}
--
-  id: 3
-  name: "Jonata"
-  surname: "Weber"
-  company: "WeberSchool"
-  title: "Software Engineer"
-  bio: "Além de empreendedor, programador e fã do Raul Seixas, Jonata acredita que a tecnologia pode mudar positivamente a vida das pessoas. Ele está sempre envolvido com comunidade e participa ativamente dos grupos DEVFSA, PHPBA e #horaextra. É bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software pela UNIFACS. É um apaixonado pelo trabalho home office, já trabalhou com equipes distribuídas em Portugal e Estados Unidos. Além disso, trabalha com PHP desde 2009 e recentemente ganhou o título de Zend Certified PHP Engineer."
-  thumbnailUrl: jonataweber.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/jonata-weber-81a2bb17"}
-    - {name: "twitter", link: "https://twitter.com/jonataweber"}
-    - {name: "github", link: "https://github.com/jonataa"}
+#-
+#  id: 3
+#  name: "Jonata"
+#  surname: "Weber"
+#  company: "WeberSchool"
+#  title: "Software Engineer"
+#  bio: "Além de empreendedor, programador e fã do Raul Seixas, Jonata acredita que a tecnologia pode mudar positivamente a vida das pessoas. Ele está sempre envolvido com comunidade e participa ativamente dos grupos DEVFSA, PHPBA e #horaextra. É bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software pela UNIFACS. É um apaixonado pelo trabalho home office, já trabalhou com equipes distribuídas em Portugal e Estados Unidos. Além disso, trabalha com PHP desde 2009 e recentemente ganhou o título de Zend Certified PHP Engineer."
+#  thumbnailUrl: jonataweber.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://br.linkedin.com/in/jonata-weber-81a2bb17"}
+#    - {name: "twitter", link: "https://twitter.com/jonataweber"}
+#    - {name: "github", link: "https://github.com/jonataa"}
 -
   id: 4
   name: "Romualdo"
@@ -48,18 +48,18 @@
   # rockstar: false
   # social:
     # - {name: "linkedin", link: "https://www.linkedin.com/in/thiago-mascarenhas-oliveira-222960a0"}
--
-  id: 7
-  name: "Clara"
-  surname: "Battesini"
-  company: "Cubos.io"
-  title: "Front End Developer"
-  bio: "Estudante de engenharia de computação da UFBA, entrei no mundo Front-end em 2013 e desde então procuro me aprofundar em Javascript e suas tecnologias."
-  thumbnailUrl: clarabattesini.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/clarabatt"}
-    - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
+#-
+#  id: 7
+#  name: "Clara"
+#  surname: "Battesini"
+#  company: "Cubos.io"
+#  title: "Front End Developer"
+#  bio: "Estudante de engenharia de computação da UFBA, entrei no mundo Front-end em 2013 e desde então procuro me aprofundar em Javascript e suas tecnologias."
+#  thumbnailUrl: clarabattesini.jpg
+#  rockstar: true
+#  social:
+#    - {name: "github", link: "https://github.com/clarabatt"}
+#    - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
 # -
   # id: 8
   # name: "Rodrigo"
@@ -72,7 +72,7 @@
   # social:    
     # - {name: "github", link: "https://github.com/rodrigopr"}
     # - {name: "twitter", link: "https://twitter.com/rodrigoropr"}  
--
+#-
   # id: 9
   # name: "Marla"
   # surname: "Dore"
@@ -110,25 +110,25 @@
     # - {name: "twitter", link: "https://twitter.com/marlonscarvalho"}
     # - {name: "facebook", link: "https://facebook.com/marlon.silvacarvalho.net"}
     # - {name: "linkedin", link: "https://www.linkedin.com/in/marloncarvalho"}
--
-  id: 11
-  name: "Diego"
-  surname: "Leite"
-  company: "AdMobilize"
-  title: "Desenvolvedor de Software"
-  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
-  thumbnailUrl: diegoleite.jpg
-  rockstar: true
-  social:    
-    - {name: "github", link: "https://github.com/di3goleite"}
-    - {name: "twitter", link: "https://twitter.com/di3goleite"}
-    - {name: "facebook", link: "https://facebook.com/di3goleite"}
+#-
+#  id: 11
+#  name: "Diego"
+#  surname: "Leite"
+#  company: "AdMobilize"
+#  title: "Desenvolvedor de Software"
+#  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
+#  thumbnailUrl: diegoleite.jpg
+#  rockstar: true
+#  social:    
+#    - {name: "github", link: "https://github.com/di3goleite"}
+#    - {name: "twitter", link: "https://twitter.com/di3goleite"}
+#    - {name: "facebook", link: "https://facebook.com/di3goleite"}
 -
   id: 12
   name: "Matheus"
   surname: "Cardoso"
-  company: "Maqhin"
-  title: "Web and Mobile apps developer"
+  company: "Z3 Web"
+  title: "Freenlance Web Developer"
   bio: "Passionate father, a truly researcher and enthusiastic software developer. I am building web services, mobile apps and a life for my son."
   thumbnailUrl: matheuscardoso.jpeg
   rockstar: true
