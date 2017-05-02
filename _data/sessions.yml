@@ -66,9 +66,29 @@ Estruturas que vamos construir:
   complexity: "Intermediate"
 -
   id: 006
-  title: "Como o mundo do IoT será transformado com Javascript"
-  description: "Alguns anos atrás um rapaz me disse que JavaScript seria a linguagem de programação do futuro, pois ela é muito fácil de ensinar e você pode utilizá-la nos mais diferentes ambientes, como: em dispositivos móveis, no browser e até no servidor. O futuro que ele me falou está próximo e o JavaScript com toda certeza estará presente nele. Nessa palestra vamos falar sobre como o JavaScript transformará o mundo da Internet das Coisas e em especial o mundo de MATRIX."
-  subtype: presentation
+  title: "Desenvolvendo para Web utilizando NodeJS"
+  description: "<p>Vamos aprender sobre uma das plataformas que mais cresceu nos últimos anos através do desenvolvimento de aplicações web.</p>
+<p>Recomendações:</p>
+<ul>
+<li>Conhecimento básico de JavaScript</li>
+<li>Conhecimento de Desenvolvimento para Web</li>
+</ul>
+<p>Desejável:</p>
+<ul>
+<li>Ter conhecimento de MongoDB</li>
+</ul>
+<p>Programação:</p>
+<ul>
+<li>Apresentação da Equipe e do Objetivo do CursoIntrodução ao NodeJS</li>
+<li>Usando bibliotecas nativas do NodeJS para criar um serviço web</li>
+<li>Conhecendo o ExpressDê um ‘oi’ para o Mongoose</li>
+<li>Hora de misturar tudo junto (desenvolvimento de uma To Do List usando Express e Mongoose)</li>
+</ul>
+<p>O que vamos construir:</p>
+<ul>
+<li>Uma gerenciador de lista de tarefas (To Do List)</li>
+</ul>"
+  subtype: workshop
   speakers: [11]
   language: pt-BR
   complexity: "Intermediate"
