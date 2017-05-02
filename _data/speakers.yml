@@ -110,19 +110,19 @@
     # - {name: "twitter", link: "https://twitter.com/marlonscarvalho"}
     # - {name: "facebook", link: "https://facebook.com/marlon.silvacarvalho.net"}
     # - {name: "linkedin", link: "https://www.linkedin.com/in/marloncarvalho"}
-#-
-#  id: 11
-#  name: "Diego"
-#  surname: "Leite"
-#  company: "AdMobilize"
-#  title: "Desenvolvedor de Software"
-#  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
-#  thumbnailUrl: diegoleite.jpg
-#  rockstar: true
-#  social:    
-#    - {name: "github", link: "https://github.com/di3goleite"}
-#    - {name: "twitter", link: "https://twitter.com/di3goleite"}
-#    - {name: "facebook", link: "https://facebook.com/di3goleite"}
+-
+  id: 11
+  name: "Diego"
+  surname: "Leite"
+  company: "AdMobilize"
+  title: "Desenvolvedor de Software"
+  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
+  thumbnailUrl: diegoleite.jpg
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/di3goleite"}
+    - {name: "twitter", link: "https://twitter.com/di3goleite"}
+    - {name: "facebook", link: "https://facebook.com/di3goleite"}
 -
   id: 12
   name: "Matheus"
