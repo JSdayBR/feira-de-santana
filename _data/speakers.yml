@@ -70,7 +70,7 @@
   thumbnailUrl: victor.jpg
   rockstar: false
   social:    
-    - {name: "website", link: "https://cubos.io"}  
+    - {name: "github", link: "https://github.com/vhfmag"}  
 #-
   # id: 9
   # name: "Marla"
