@@ -66,8 +66,8 @@
   surname: "Magalhães"
   company: "Cubos.io"
   title: "Front End Developer"
-  bio: "Desenvolvedor front-end na Cubos, apesar de ter alma de Humanas, focado em React e typescript, além curioso por aprendizado de máquina. Mas, acima de tudo, amante de café e do Capão."
-  thumbnailUrl: victor.png
+  bio: "Desenvolvedor front-end na Cubos, apesar de ter alma de Humanas, focado em React e TypeScript, além de curioso por aprendizado de máquina. Mas, acima de tudo, amante de café e do Capão."
+  thumbnailUrl: victor.jpg
   rockstar: false
   social:    
     - {name: "website", link: "https://cubos.io"}  
