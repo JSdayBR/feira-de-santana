@@ -60,18 +60,17 @@
   social:
     - {name: "github", link: "https://github.com/clarabatt"}
     - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
-# -
-  # id: 8
-  # name: "Rodrigo"
-  # surname: "Ribeiro"
-  # company: "JusBrasil"
-  # title: "Desenvolvedor"
-  # bio: "Desenvolvedor na Jusbrasil há 4 anos, passando por inúmeros projetos (de search à machine-learning), é facilmente motivado por desafios de performance e escalabilidade. Hoje trabalha na nova arquitetura front-end do site, com foco em React e GraphQL."
-  # thumbnailUrl: rodrigoribeiro.png
-  # rockstar: true
-  # social:    
-    # - {name: "github", link: "https://github.com/rodrigopr"}
-    # - {name: "twitter", link: "https://twitter.com/rodrigoropr"}  
+-
+  id: 8
+  name: "Victor"
+  surname: "Magalhães"
+  company: "Cubos.io"
+  title: "Front End Developer"
+  bio: "Desenvolvedor front-end na Cubos, apesar de ter alma de Humanas, focado em React e typescript, além curioso por aprendizado de máquina. Mas, acima de tudo, amante de café e do Capão."
+  thumbnailUrl: victor.png
+  rockstar: false
+  social:    
+    - {name: "website", link: "https://cubos.io"}  
 #-
   # id: 9
   # name: "Marla"

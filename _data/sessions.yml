@@ -53,7 +53,7 @@ Estruturas que vamos construir:
 </ul>
 "
   subtype: workshop
-  speakers: [7]
+  speakers: [7,8]
   language: pt-BR
   complexity: "Beginner"
 -
@@ -124,14 +124,14 @@ Estruturas que vamos construir:
   speakers: [3]
   language: pt-BR
   complexity: "Beginner"
--
-  id: 011
-  title: "O jeito React.js"
-  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
-  subtype: presentation
-  speakers: [8]
-  language: pt-BR
-  complexity: "Intermediate"
+#-
+#  id: 011
+#  title: "O jeito React.js"
+#  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
+#  subtype: presentation
+#  speakers: [8]
+#  language: pt-BR
+#  complexity: "Intermediate"
 -
   id: 012
   title: "Precisamos falar do futuro"
