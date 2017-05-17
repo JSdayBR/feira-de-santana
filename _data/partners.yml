@@ -7,7 +7,7 @@
 -
   group: ""
   elements:
-    #- {name: "Sensorial", description: "", link: "http://sensorial.com.br", imageUrl: "sensorial.png", width: "400px"}
+    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "400px"}
 -
   group: ""
   elements:
