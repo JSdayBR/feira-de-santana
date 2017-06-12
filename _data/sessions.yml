@@ -94,8 +94,8 @@ Estruturas que vamos construir:
   complexity: "Intermediate"
 -
   id: 007
-  title: "Firebase Adventures v3"
-  description: "O Firebase disponibiliza a infraestrutura e ferramentas necessárias para que você possa desenvolver suas aplicações e ter o crescimento desejado em seu negócio. Use o Firebase para armazenar, sincronizar dados instantaneamente, autenticar usuários, enviar notificações, testar, analisar, integrar com outros produtos do Google e muito mais. Participe dessa aventura e aprenda como você pode usar o Firebase para construir aplicações extraordinárias."
+  title: "Vue.js, o primo pobre"
+  description: "React isso, Angular aquilo. Seria interessante dar um pouco de espaço ao vue (https://vuejs.org) Afinal, tudo na vida tem que ter uma alternativa asiática."
   subtype: presentation
   speakers: [1]
   language: pt-BR
