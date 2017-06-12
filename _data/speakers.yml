@@ -1,27 +1,14 @@
  -
-   id: 1
-   name: "Francisco"
-   surname: "Neto"
-   company: "Lince Web"
-   title: "Full Stack Developer"
-   bio: "O sagrado e o profano vão andando lado a lado. Autodidata, apaixonado por desenvolvimento web, amo javascript porque Javascript não é Python, e eu odeio Python."
-   thumbnailUrl: francisconeto.jpg
-   rockstar: false
-   social:
-     - {name: "facebook", link: "https://www.facebook.com/uifrancisco"}
-#-
-#  id: 3
-#  name: "Jonata"
-#  surname: "Weber"
-#  company: "WeberSchool"
-#  title: "Software Engineer"
-#  bio: "Além de empreendedor, programador e fã do Raul Seixas, Jonata acredita que a tecnologia pode mudar positivamente a vida das pessoas. Ele está sempre envolvido com comunidade e participa ativamente dos grupos DEVFSA, PHPBA e #horaextra. É bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software pela UNIFACS. É um apaixonado pelo trabalho home office, já trabalhou com equipes distribuídas em Portugal e Estados Unidos. Além disso, trabalha com PHP desde 2009 e recentemente ganhou o título de Zend Certified PHP Engineer."
-#  thumbnailUrl: jonataweber.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://br.linkedin.com/in/jonata-weber-81a2bb17"}
-#    - {name: "twitter", link: "https://twitter.com/jonataweber"}
-#    - {name: "github", link: "https://github.com/jonataa"}
+  id: 1
+  name: "Francisco"
+  surname: "Neto"
+  company: "Lince Web"
+  title: "Full Stack Developer"
+  bio: "O sagrado e o profano vão andando lado a lado. Autodidata, apaixonado por desenvolvimento web, amo javascript porque Javascript não é Python, e eu odeio Python."
+  thumbnailUrl: francisconeto.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/uifrancisco"}
 -
   id: 4
   name: "Romualdo"
