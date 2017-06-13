@@ -149,15 +149,6 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Beginner"
 -
-  id: 014
-  title: "Workshop: AngularJS 2.0"
-  description: ""
-  subtype: workshop
-  speakers: [1]
-  language: pt-BR
-  complexity: "Intermediate"
-
--
   id: 015
   title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
   description: "Desenvolver aplicações multi-plataforma sempre foi um desafio. Se tratando de desktops as dificuldades são ainda mais visíveis, já que a infinidade de APIs expostas em um sistema operacional raramente tem compatibilidades com outros sistemas. O Electron é um produto do Github que tenta entregar ao desenvolvedor o poder de produzir aplicações utilizando as mais novas tecnologias Web enquanto provê acesso às APIs nativas de cada plataforma, permitindo que uma única base de código possa servir para as mais diversas plataformas desktop existentes."
