@@ -12,7 +12,7 @@
   group: ""
   elements:
     #- {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "350px"}        
-    #- {name: "LinceWeb", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}        
+    - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}        
 -
   group: ""
   elements:
