@@ -94,7 +94,7 @@
     - {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
   timeslots:
     - {
-        startTime: "8:00",
-        endTime: "12:00",
+        startTime: "14:00",
+        endTime: "18:00",
         sessionIds: [003,004,006,008]
     }
