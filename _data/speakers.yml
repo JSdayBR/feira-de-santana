@@ -82,3 +82,25 @@
   rockstar: true
   social:    
     - {name: "twitter", link: "https://twitter.com/dilannery"}
+-
+  id: 8
+  name: "Lucas"
+  surname: "Carneiro"
+  company: "App2Sales"
+  title: "Desenvolvedor de Software"
+  bio: "Desenvolvedor, maratonista, leitor. Graduando em Engenharia de Computação pela UEFS. Desenvolvedor na App2Sales."
+  thumbnailUrl: lucascarneiro.jpg
+  rockstar: false
+  social:    
+    - {name: "facebook", link: "https://www.facebook.com/jkdrangel"}
+-
+  id: 8
+  name: "Cássio"
+  surname: "Silva"
+  company: "App2Sales"
+  title: "Desenvolvedor de Software"
+  bio: "Amante de tecnologia e atualmente se aprofundando no mundo JavaScript. Graduando em Engenharia de Computação pela UEFS .Desenvolvedor na App2Sales com foco em mobile. Atual vice-presidente na EcompJr."
+  thumbnailUrl: cassio.jpg
+  rockstar: false
+  social:    
+    - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
