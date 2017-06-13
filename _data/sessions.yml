@@ -89,7 +89,7 @@ Estruturas que vamos construir:
 <li>Uma gerenciador de lista de tarefas (To Do List)</li>
 </ul>"
   subtype: workshop
-  speakers: [5]
+  speakers: [5,7]
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -100,38 +100,6 @@ Estruturas que vamos construir:
   speakers: [1]
   language: pt-BR
   complexity: "Intermediate"
-#-
-#  id: 011
-#  title: "O jeito React.js"
-#  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
-#  subtype: presentation
-#  speakers: [8]
-#  language: pt-BR
-#  complexity: "Intermediate"
--
-  id: 012
-  title: "Precisamos falar do futuro"
-  description: "Aaah o futuro! Alguém sabe quando ele chega? E o que ele vai trazer? McFly e Dr. Brown acertaram o quê e quando, e você, sabe quando seu futuro chega? Vem comigo e aprenda a lidar com o futuro da melhor forma [callbacks] [promises] [generators / iterators] [async / await]"
-  subtype: presentation
-  speakers: [5]
-  language: pt-BR
-  complexity: "Intermediate"
--
-  id: 013
-  title: "AngularJS, por que utilizar no seu projeto?"
-  description: "Serão abordados conceitos de porque utilizar este framework e como desenvolver uma aplicação, entendendo sua estrutura de formulários, validação por padrões, filtros, separação de responsabilidade, diretivas, injeção de dependência, reuso e testes."
-  subtype: presentation
-  speakers: [14]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 015
-  title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
-  description: "Desenvolver aplicações multi-plataforma sempre foi um desafio. Se tratando de desktops as dificuldades são ainda mais visíveis, já que a infinidade de APIs expostas em um sistema operacional raramente tem compatibilidades com outros sistemas. O Electron é um produto do Github que tenta entregar ao desenvolvedor o poder de produzir aplicações utilizando as mais novas tecnologias Web enquanto provê acesso às APIs nativas de cada plataforma, permitindo que uma única base de código possa servir para as mais diversas plataformas desktop existentes."
-  subtype: presentation
-  speakers: [15]
-  language: pt-BR
-  complexity: "Beginner"
 -
   id: 016
   title: "Almoço"
