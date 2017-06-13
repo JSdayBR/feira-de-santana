@@ -71,5 +71,14 @@
     - {name: "github", link: "https://github.com/matheuscas"}
     - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
     - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}    
-
-
+-
+  id: 13
+  name: "Dilan"
+  surname: "Nery"
+  company: "AdMobilize"
+  title: "Desenvolvedor de Software"
+  bio: ""
+  thumbnailUrl: dilan.jpg
+  rockstar: true
+  social:    
+    - {name: "twitter", link: "https://twitter.com/dilannery"}
