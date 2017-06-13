@@ -49,11 +49,11 @@ navigationLinks:
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- #- {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 rightNavigationButtons:
- #- {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 
@@ -64,7 +64,7 @@ eventDate: "15 de Julho, 2017"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
-# - {link: "http://even.tc/jsday-feira-de-santana-2016", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 
