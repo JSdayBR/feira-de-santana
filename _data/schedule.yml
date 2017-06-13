@@ -4,38 +4,43 @@
   dateReadable: "Tracks"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Auditório 1", color: "#f7df1e", description: "Sala 1"}
-    - {title: "Auditório 2", color: "#f7df1e", description: "Sala 2"}
+    - {title: "Auditório 1", color: "#f7df1e", description: "Auditório Principal"}
+    - {title: "Auditório 2", color: "#f7df1e", description: "Sala a definir"}
   timeslots:
     - {
         startTime: "8:00",
-        endTime: "9:00",
+        endTime: "8:50",
         sessionIds: [000]
     }
     - {
-        startTime: "9:00",
-        endTime: "9:15",
+        startTime: "8:50",
+        endTime: "9:00",
         sessionIds: [001]
     }
     - {
-        startTime: "9:15",
-        endTime: "10:00",
-        sessionIds: [007,999]
+        startTime: "9:00",
+        endTime: "9:40",
+        sessionIds: [666,999]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:20",
-        sessionIds: [002]
+        startTime: "9:40",
+        endTime: "10:10",
+        sessionIds: [666,005]
     }
     - {
-        startTime: "10:20",
-        endTime: "11:10",
-        sessionIds: [010,004]
+        startTime: "10:10",
+        endTime: "10:40",
+        sessionIds: [666,007]
     }
     - {
-        startTime: "11:10",
+        startTime: "10:40",
+        endTime: "11:20",
+        sessionIds: [666,666]
+    }
+    - {
+        startTime: "11:20",
         endTime: "12:00",
-        sessionIds: [012,008]
+        sessionIds: [666]
     }
     - {
         startTime: "12:00",
@@ -44,51 +49,57 @@
     }
     - {
         startTime: "14:00",
-        endTime: "14:45",
-        sessionIds: [015,011]
+        endTime: "14:40",
+        sessionIds: [666]
     }
     - {
-        startTime: "14:45",
-        endTime: "15:30",
-        sessionIds: [013,005]
+        startTime: "14:40",
+        endTime: "15:20",
+        sessionIds: [666]
     }
     - {
-        startTime: "15:30",
+        startTime: "15:20",
         endTime: "16:00",
-        sessionIds: [002]
+        sessionIds: [666]
     }
     - {
         startTime: "16:00",
-        endTime: "16:45",
-        sessionIds: [006,999]
+        endTime: "16:20",
+        sessionIds: [002]
     }
     - {
-        startTime: "16:45",
-        endTime: "17:30",
-        sessionIds: [017,999]
+        startTime: "16:20",
+        endTime: "17:00",
+        sessionIds: [666]
     }
     - {
-        startTime: "17:30",
+        startTime: "17:00",
+        endTime: "17:45",
+        sessionIds: [017]
+    }
+    - {
+        startTime: "17:45",
         endTime: "18:00",
-        sessionIds: [018,999]
+        sessionIds: [018]
     }
 -
   title: "Workshops"
-  date: "2016-7-23"
+  date: "2017-7-14"
   dateReadable: "Workshops"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
     - {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
     - {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
+    - {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
   timeslots:
     - {
-        startTime: "10:20",
+        startTime: "8:00",
         endTime: "12:00",
-        sessionIds: [003,009,014]
+        sessionIds: [003,004,006,666]
     }
     - {
-        startTime: "14:20",
-        endTime: "15:30",
-        sessionIds: [003,009,999]
+        startTime: "8:00",
+        endTime: "12:00",
+        sessionIds: [003,004,006,666]
     }

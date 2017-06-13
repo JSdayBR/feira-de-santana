@@ -10,7 +10,7 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/uifrancisco"}
 -
-  id: 4
+  id: 2
   name: "Romualdo"
   surname: "André"
   company: "UFRB"
@@ -22,19 +22,8 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/romualdo-andre-3072237"}
     - {name: "twitter", link: "https://twitter.com/romualdoandre"}
     - {name: "github", link: "https://github.com/romualdoandre"}
-# -
-  # id: 6
-  # name: "Thiago"
-  # surname: "Mascarenhas"
-  # company: "Mederi"
-  # title: "Analista de TI"
-  # bio: "Apaixonado principalmente por PHP e Javascript, mas sempre antenado em tudo que cerca a web e o mundo"
-  # thumbnailUrl: ThiagoMascarenhas.png
-  # rockstar: false
-  # social:
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/thiago-mascarenhas-oliveira-222960a0"}
 -
-  id: 7
+  id: 3
   name: "Clara"
   surname: "Battesini"
   company: "Cubos.io"
@@ -46,7 +35,7 @@
     - {name: "github", link: "https://github.com/clarabatt"}
     - {name: "facebook", link: "https://www.facebook.com/clara.battesini"}
 -
-  id: 8
+  id: 4
   name: "Victor"
   surname: "Magalhães"
   company: "Cubos.io"
@@ -56,46 +45,8 @@
   rockstar: false
   social:    
     - {name: "github", link: "https://github.com/vhfmag"}  
-#-
-  # id: 9
-  # name: "Marla"
-  # surname: "Dore"
-  # company: "UniJorge"
-  # title: "Pesquisadora e Professora"
-  # bio: "Analista de Sistemas. Pesquisadora e Professora da Unijorge. Consultora em TIC. Organizer do GDG SSA e Leader WTM Salvador. Entusiasta por tecnologia e inovação."
-  # thumbnailUrl: marladore.jpg
-  # rockstar: true
-  # social:    
-    # - {name: "github", link: "https://github.com/marladore"}
-    # - {name: "twitter", link: "https://twitter.com/marladore"}
-# -
-  # id: 13
-  # name: "Edely"
-  # surname: "Gomes"
-  # company: "UFBA"
-  # title: "Jornalista e web designer"
-  # bio: "Atualmente estuda Sistemas de Informação e é bolsista de automação de infraestrutura de TIC também na UFBA. Nas horas vagas gosta de misturar música com tecnologia."
-  # thumbnailUrl: edelygomes.jpg
-  # rockstar: true
-  # social:        
-    # - {name: "twitter", link: "https://twitter.com/edelyla"}
-    # - {name: "facebook", link: "https://facebook.com/palhetasemdono"}    
-# -
-  # id: 10
-  # name: "Marlon"
-  # surname: "Silva Carvalho"
-  # company: "GDG Salvador e Docker Salvador"
-  # title: "Organizer"
-  # bio: "Desenvolvedor poliglota há 20 anos, hoje é entusiasta Ruby e fã de programação mobile. Tem na tecnologia sua paixão, na família sua motivação e na degustação de cervejas artesanais seu hobby predileto. Também é Bacharel pela Universidade Católica do Salvador, Pós-graduado em Sistemas Distribuídos pela Universidade Federal da Bahia, Organizer do Google Developers Group e Docker Community de Salvador."
-  # thumbnailUrl: marloncarvalho.jpg
-  # rockstar: true
-  # social:    
-    # - {name: "github", link: "https://github.com/marloncarvalho"}
-    # - {name: "twitter", link: "https://twitter.com/marlonscarvalho"}
-    # - {name: "facebook", link: "https://facebook.com/marlon.silvacarvalho.net"}
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/marloncarvalho"}
 -
-  id: 11
+  id: 5
   name: "Diego"
   surname: "Leite"
   company: "AdMobilize"
@@ -108,7 +59,7 @@
     - {name: "twitter", link: "https://twitter.com/di3goleite"}
     - {name: "facebook", link: "https://facebook.com/di3goleite"}
 -
-  id: 12
+  id: 6
   name: "Matheus"
   surname: "Cardoso"
   company: "Z3 Web"
@@ -119,31 +70,6 @@
   social:    
     - {name: "github", link: "https://github.com/matheuscas"}
     - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
-    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}
-# -
-  # id: 14
-  # name: "Danielle"
-  # surname: "Oliveira"
-  # company: "Women Techmakers"
-  # title: "Organizer"
-  # bio: "Graduada em Engenharia de Computação pela Área 1 - Faculdade de Ciência e Tecnologia, pós graduada em Banco de Dados pela UNIFACS, pós graduanda em Desenvolvimento para Aplicativos Móveis pelo SENAI, em seu dia-a-dia é Analista de Requisitos e nas horas vagas se aventura em testes de ferramentas softwares. Membro do Woman Techmacker SSA, apaixonada por pesquisa na área de computação ubíqua, desenvolvimento mobile, eletrônica, educação e empreendedorismo."
-  # thumbnailUrl: danielleoliveira.jpg
-  # rockstar: true
-  # social:    
-    # - {name: "github", link: "https://github.com/dannyserena"}
-    # - {name: "facebook", link: "https://facebook.com/dani.elle.75286"}
-    # - {name: "linkedin", link: "https://facebook.com/danielle-teixeira-93493376"}
-# -
-  # id: 15
-  # name: "Victor"
-  # surname: "Nascimento"
-  # company: "UEFS"
-  # title: "Estudante de Graduação"
-  # bio: "Estudante de graduação em Engenharia de Computação com período sanduíche na Hanze University of Applied Sciences (Holanda), apaixonado por tecnologia e gamer nas horas vagas. Atuou como coordenador e executor de um projeto eletrônico, mecânico e de sistema embarcado para realizar leitura do consumo energético de residências da Holanda. Hoje estuda tecnologias de desenvolvimento Web full-stack e tecnologias híbridas para desenvolvimento de aplicações mobile nativas. Realiza TCC na área de redes de sensores visuais sem fio com ênfase no Raspberry Pi."
-  # thumbnailUrl: victornascimento.jpg
-  # rockstar: true
-  # social:    
-    # - {name: "github", link: "https://github.com/vjoao"}
-    # - {name: "facebook", link: "https://facebook.com/vjoao"}    
+    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}    
 
 

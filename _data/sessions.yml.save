@@ -15,45 +15,15 @@
   title: "Workshop: Iniciando com JavaScript"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript"
   subtype: workshop
-  speakers: [2]
+  speakers: [4,6]
   language: pt-BR
   complexity: "Beginner"
 -
   id: 004
   title: "Workshop: Transformando layouts em código"
-  description: "Colocando a Mão na Massa! Transformando layouts em código.
-<br>
-Você é aquela pessoa que quando tem um editor aberto da sua frente não sabe nem por onde começar? Tem dificuldade em colocar na prática tudo que aprendeu na parte teórica? Relaxe, você está no lugar certo! Nesse Workshop você vai colocar a mão na massa e desenvolver junto com a gente uma página do zero. 
-<br>
-Recomendações:
-<ul>
-<li> Se você não manja nada, recomendamos que comece com a Introdução ao Javascript.</li>
-<li> Aqui nós vamos usar Javascript Puro, nada de frameworks nem libs.</li>
-<li> Vamos falar apenas de front-end, ok?</li>
-</ul>
-Programação:
-<ul>
-<li> Apresentações da equipe.</li>
-<li> Softwares e ferramentas que vamos utilizar.</li>
-<li> Apresentação do Layout.</li>
-<li> Pensando na Modularização.</li>
-<li> Criando nossa estrutura de diretórios.</li>
-<li> Revisão sobre o DOM.</li>
-<li> Aprendendo sobre eventos.</li>
-<li> Criando as partes do projeto.</li>
-<li> Como usar libs quando precisar.</li>
-<li> Considerações finais.</li>
-</ul>
-Estruturas que vamos construir:
-<ul>
-<li> Menu Responsivo</li>
-<li> Uma modal</li>
-<li> Um botão que muda o texto de uma div</li>
-<li> Usando uma lib para slides ou scroll da página</li>
-</ul>
-"
-  subtype: workshop
-  speakers: [3,4]
+  description: "Transformando layouts em código"
+  subtype: presentation
+  speakers: [7]
   language: pt-BR
   complexity: "Beginner"
 -
@@ -61,53 +31,57 @@ Estruturas que vamos construir:
   title: "Change detection in Angular for Humans"
   description: "It's not easy to understand change detection in Angular. Is about Zones, Observables, Threads that communicate among them, and some other dark matters. But for humans, we can talk about the how the different strategies works between components, pure and impure Pipes, how the components are connected to achieve a fast and predictable change detection and, of course, how to make an faster Angular application mixing these strategies. "
   subtype: presentation
-  speakers: [6]
+  speakers: [12]
   language: pt-BR
   complexity: "Intermediate"
 -
   id: 006
-  title: "Desenvolvendo para Web utilizando NodeJS"
-  description: "<p>Vamos aprender sobre uma das plataformas que mais cresceu nos últimos anos através do desenvolvimento de aplicações web.</p>
-<p>Recomendações:</p>
-<ul>
-<li>Conhecimento básico de JavaScript</li>
-<li>Conhecimento de Desenvolvimento para Web</li>
-</ul>
-<p>Desejável:</p>
-<ul>
-<li>Ter conhecimento de MongoDB</li>
-</ul>
-<p>Programação:</p>
-<ul>
-<li>Apresentação da Equipe e do Objetivo do CursoIntrodução ao NodeJS</li>
-<li>Usando bibliotecas nativas do NodeJS para criar um serviço web</li>
-<li>Conhecendo o ExpressDê um ‘oi’ para o Mongoose</li>
-<li>Hora de misturar tudo junto (desenvolvimento de uma To Do List usando Express e Mongoose)</li>
-</ul>
-<p>O que vamos construir:</p>
-<ul>
-<li>Uma gerenciador de lista de tarefas (To Do List)</li>
-</ul>"
-  subtype: workshop
-  speakers: [5]
+  title: "Como o mundo do IoT será transformado com Javascript"
+  description: "Alguns anos atrás um rapaz me disse que JavaScript seria a linguagem de programação do futuro, pois ela é muito fácil de ensinar e você pode utilizá-la nos mais diferentes ambientes, como: em dispositivos móveis, no browser e até no servidor. O futuro que ele me falou está próximo e o JavaScript com toda certeza estará presente nele. Nessa palestra vamos falar sobre como o JavaScript transformará o mundo da Internet das Coisas e em especial o mundo de MATRIX."
+  subtype: presentation
+  speakers: [11]
   language: pt-BR
   complexity: "Intermediate"
 -
   id: 007
-  title: "Vue.js, o primo pobre"
-  description: "React isso, Angular aquilo. Seria interessante dar um pouco de espaço ao vue (https://vuejs.org) Afinal, tudo na vida tem que ter uma alternativa asiática."
+  title: "Firebase Adventures v3"
+  description: "O Firebase disponibiliza a infraestrutura e ferramentas necessárias para que você possa desenvolver suas aplicações e ter o crescimento desejado em seu negócio. Use o Firebase para armazenar, sincronizar dados instantaneamente, autenticar usuários, enviar notificações, testar, analisar, integrar com outros produtos do Google e muito mais. Participe dessa aventura e aprenda como você pode usar o Firebase para construir aplicações extraordinárias."
   subtype: presentation
   speakers: [1]
   language: pt-BR
   complexity: "Intermediate"
-#-
-#  id: 011
-#  title: "O jeito React.js"
-#  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
-#  subtype: presentation
-#  speakers: [8]
-#  language: pt-BR
-#  complexity: "Intermediate"
+-
+  id: 008
+  title: "Come to the Dart side!"
+  description: "Você é programador Javascript? Está cansado de escrever infinitos callbacks e criar classes de um jeito um tanto quanto \"esquisito\"? Então junte-se ao lado Dart da programação para a Web e veja como essa linguagem, criada pelo Google, vai revolucionar seu jeito de criar aplicações. Veremos as principais características desta linguagem, além de uma comparação com Javascript e Typescript que é um pouco \"marota\" e tendenciosa mas divertida!"
+  subtype: presentation
+  speakers: [10]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 009
+  title: "Codelab WTM - Criando sua Landing Page"
+  description: "Mas o que é uma Landing Page? A Landing page é otimizada estrategicamente para vender um produto ou serviço, o seu conteúdo é confeccionado de forma objetiva. Você tem algum serviço para divulgar? Quer fazer sua primeira página?. Neste workshop faremos práticas do conteúdo para desenvolvimento de sua página e ao final juntaremos o resultado aprendido nas práticas e faremos o projeto de sua página pessoal ou de serviços. Você decide..a página é sua!!! Teremos dicas valiosas para desenvolver um site com recursos de Html, CSS e JavaScript é claro..Venha menina e menino.. fazer sua Landing Page..."
+  subtype: workshop
+  speakers: [9,13]
+  language: pt-BR
+  complexity: "Beginner"  
+-
+  id: 010
+  title: "Programação Funcional com JavaScript"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 011
+  title: "O jeito React.js"
+  description: "Aprenda os princípios que fazem React.js ser tão produtivo e eficiente, por onde começar e dicas de como evoluir em seguida, focando em boas práticas e problemas que encontramos ao adotá-lo no site Jusbrasil."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Intermediate"
 -
   id: 012
   title: "Precisamos falar do futuro"
@@ -124,6 +98,15 @@ Estruturas que vamos construir:
   speakers: [14]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 014
+  title: "Workshop: AngularJS 2.0"
+  description: ""
+  subtype: workshop
+  speakers: [1]
+  language: pt-BR
+  complexity: "Intermediate"
+
 -
   id: 015
   title: "Desenvolvendo aplicações desktop multiplataforma com o Electron"
@@ -147,8 +130,4 @@ Estruturas que vamos construir:
 -  
   id: 999
   title: ""
-  service: true
--
-  id: 666
-  title: "A definir"
   service: true
