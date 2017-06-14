@@ -111,14 +111,14 @@ Estruturas que vamos construir:
 -
   id: 009
   title: "Apps mobile performáticos com Javascript"
-  description: "Seria possível desenvolver apps mobile para iOS e Android a partir de um único código fonte com performance nativa (ou superior) utilizando apenas seus conhecimentos de Javascript para web ? Descubra todo o poder que React Native tem porque utiliza-lo no dia a dia da sua empresa."
+  description: "Seria possível desenvolver apps mobile para iOS e Android a partir de um único código fonte com performance nativa (ou superior) utilizando apenas seus conhecimentos de JavaScript para web? Descubra todo o poder que React Native tem e porque utilizá-lo no dia a dia da sua empresa."
   subtype: presentation
   speakers: [10]
   language: pt-BR
   complexity: "Intermediate"
 -
   id: 010
-  title: "Desenvolvimento Ágil com Javascript"
+  title: "Desenvolvimento Ágil com JavaScript"
   description: "Algumas ferramentas e dicas para aumentar a sua produtividade e diminuir o tempo de deploy da sua aplicação para produção."
   subtype: presentation
   speakers: [11]
