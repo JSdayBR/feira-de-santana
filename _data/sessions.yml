@@ -108,7 +108,14 @@ Estruturas que vamos construir:
   speakers: [8,9]
   language: pt-BR
   complexity: "Intermediate"
-
+-
+  id: 009
+  title: "Apps mobile performáticos com Javascript"
+  description: "Seria possível desenvolver apps mobile para iOS e Android a partir de um único código fonte com performance nativa (ou superior) utilizando apenas seus conhecimentos de Javascript para web ? Descubra todo o poder que React Native tem porque utiliza-lo no dia a dia da sua empresa."
+  subtype: presentation
+  speakers: [10]
+  language: pt-BR
+  complexity: "Intermediate"
 -
   id: 016
   title: "Almoço"
