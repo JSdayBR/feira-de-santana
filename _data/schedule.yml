@@ -1,4 +1,20 @@
 -
+  title: "Workshops"
+  date: "2017-7-14"
+  dateReadable: "14/07"
+  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
+  tracks:
+    - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
+    - {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
+    - {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
+    - {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
+  timeslots:
+    - {
+        startTime: "14:00",
+        endTime: "18:00",
+        sessionIds: [003,004,006,008]
+    }
+-
   title: "JSday Lineup"
   date: "2017-7-15"
   dateReadable: "15/07"
@@ -82,19 +98,4 @@
         endTime: "18:00",
         sessionIds: [018]
     }
--
-  title: "Workshops"
-  date: "2017-7-14"
-  dateReadable: "14/07"
-  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
-  tracks:
-    - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
-    - {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
-    - {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
-    - {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
-  timeslots:
-    - {
-        startTime: "14:00",
-        endTime: "18:00",
-        sessionIds: [003,004,006,008]
-    }
+
