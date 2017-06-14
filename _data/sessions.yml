@@ -117,6 +117,14 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Intermediate"
 -
+  id: 010
+  title: "Desenvolvimento Ágil com Javascript"
+  description: "Algumas ferramentas e dicas para aumentar a sua produtividade e diminuir o tempo de deploy da sua aplicação para produção."
+  subtype: presentation
+  speakers: [11]
+  language: pt-BR
+  complexity: "Beginner"  
+-
   id: 016
   title: "Almoço"
   service: true
