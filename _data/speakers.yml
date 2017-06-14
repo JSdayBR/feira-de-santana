@@ -111,7 +111,20 @@
   title: "Desenvolvedor de Software"
   bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo trabalha como desenvolvedor mobile na App2Sales e é presidente da Empresa Júnior de Engenharia de Computação, sempre que pode posta uma resposta no StackOverflow."
   thumbnailUrl: pedro.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
     - {name: "github", link: "https://github.com/Pedneri1"}
+- 
+  id: 11
+  name: "Paulo"
+  surname: "Duarte"
+  company: "JusBrasil"
+  title: "Front End Developer"
+  bio: "É desenvolvedor front-end no Jusbrasil, com experiência em diversas áreas como Telecom, E-commerce e E-learning, e trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack do Facebook React, Relay e Graphql."
+  thumbnailUrl: pauloduarte.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/paulopaquielli"}
+    - {name: "github", link: "https://github.com/paulopaquielli"}
+  
