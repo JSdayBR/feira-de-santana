@@ -104,3 +104,14 @@
   rockstar: false
   social:    
     - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
+- id: 10
+  name: "Pedro"
+  surname: "Neri"
+  company: "App2Sales"
+  title: "Apps mobile performáticos com Javascript"
+  bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo trabalha como desenvolvedor mobile na App2Sales e é presidente da Empresa Júnior de Engenharia de Computação, sempre que pode posta uma resposta no StackOverflow."
+  thumbnailUrl: pedro.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
+    - {name: "github", link: "https://github.com/Pedneri1"}
