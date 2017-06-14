@@ -1,7 +1,7 @@
 -
   title: "JSday Lineup"
   date: "2017-7-15"
-  dateReadable: "Tracks"
+  dateReadable: "15/07"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Auditório 1", color: "#f7df1e", description: "Auditório Principal"}
@@ -85,7 +85,7 @@
 -
   title: "Workshops"
   date: "2017-7-14"
-  dateReadable: "Workshops"
+  dateReadable: "14/07"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
