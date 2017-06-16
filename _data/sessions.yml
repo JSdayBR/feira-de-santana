@@ -123,6 +123,14 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [11]
   language: pt-BR
+  complexity: "Beginner"
+-
+  id: 011
+  title: "Node? JavaScript no servidor? WTF?"
+  description: "O que é Node.js? Por que utilizar JavaScript no lado do servidor? Como funciona? Escala? Qual a empresa por trás do projeto? É difícil? Onde posso aprender? Nesta palestra vamos entender melhor sobre essa plataforma de desenvolvimento que vem abrindo muitas portas no mercado e derrubando plataformas já consagradas."
+  subtype: presentation
+  speakers: [12]
+  language: pt-BR
   complexity: "Beginner"  
 -
   id: 016
