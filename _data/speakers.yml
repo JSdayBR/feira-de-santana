@@ -127,4 +127,18 @@
   social:
     - {name: "twitter", link: "https://www.twitter.com/paulopaquielli"}
     - {name: "github", link: "https://github.com/paulopaquielli"}
+- 
+  id: 12
+  name: "Mateus"
+  surname: "Malaquias"
+  company: "PRODEB"
+  title: "Fullstack Developer"
+  bio: "Sou Bacharel em Sistema de Informação pelo Centro Universitário Jorge Amado, líder da comunidade JavaBahia e FreeCodeCamp Salvador, membro ativo da comunidade SouJava e membro do JCP. Já participei de pesquisas na área de BioInformatica e hoje trabalho como um desenvolvedor Fullstack, participo da organizações de eventos, palestro, sou blogueiro e tenho me envolvido cada vez mais com JavaScript."
+  thumbnailUrl: mateusmalaquias.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/mmalaquias1"}
+    - {name: "github", link: "https://github.com/mmalaquias1"}
+    - {name: "facebook", link: "https://www.facebook.com/mateus.malaquias2"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mateus-malaquias-692532b5/"}
   
