@@ -141,4 +141,14 @@
     - {name: "github", link: "https://github.com/mmalaquias1"}
     - {name: "facebook", link: "https://www.facebook.com/mateus.malaquias2"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/mateus-malaquias-692532b5/"}
-  
+- 
+  id: 13
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Tampa Works"
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: joselito.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
