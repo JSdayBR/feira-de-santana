@@ -131,7 +131,16 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [12]
   language: pt-BR
-  complexity: "Beginner"  
+  complexity: "Beginner"
+
+-
+  id: 012
+  title: "Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP."
+  description: "Nessa talk você vai conhecer a fundo as Accelerated Mobile Pages, projeto Open Source endorsado pelo Google que permite a criação de páginas web com renderização praticamente instantânea. Saiba a fundo as novidades do projeto, como implementar no seu produto e as enormes vantagens que o AMP tem para o desenvolvimento de webapps."
+  subtype: presentation
+  speakers: [13]
+  language: pt-BR
+  complexity: "Intermediate"
 -
   id: 016
   title: "Almoço"
