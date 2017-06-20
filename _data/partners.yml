@@ -7,14 +7,14 @@
 -
   group: ""
   elements:
-    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "400px"}
     - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
     - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "400px"}
 -
   group: ""
   elements:
     #- {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "350px"}        
-    - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}        
+    - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}
+    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
 -
   group: ""
   elements:
