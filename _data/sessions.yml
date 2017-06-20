@@ -157,6 +157,14 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Intermediate"
 -
+  id: 015
+  title: "Progressive Web Apps: the much-hyped future"
+  description: "Progressive Web Apps(PWA) são páginas web vitaminadas que graças aos ServiceWorkers e ao App Shell possibilitam uma experiência semelhante a um aplicativo nativo. Nessa palestra iremos descobrir como fazer PWAs utilizando React e entender como podemos mudar a forma que entregamos conteúdo aos usuários."
+  subtype: presentation
+  speakers: [16]
+  language: pt-BR
+  complexity: "Beginner"
+-
   id: 016
   title: "Almoço"
   service: true
