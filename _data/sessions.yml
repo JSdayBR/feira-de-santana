@@ -149,6 +149,14 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Intermediate"
 -
+  id: 014
+  title: "Código Limpo"
+  description: "Escrever código é algo fácil o difícil é manter seu código limpo, legível por muito tempo sem transformá-lo em um código legado. Irei abordar várias práticas e princípios que nos ajudam a escrever e manter o código limpo."
+  subtype: presentation
+  speakers: [15]
+  language: pt-BR
+  complexity: "Intermediate"
+-
   id: 016
   title: "Almoço"
   service: true
