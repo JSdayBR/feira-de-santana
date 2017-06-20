@@ -1,3 +1,96 @@
+- 
+  id: 14
+  name: "Raphael"
+  surname: "Amorim"
+  company: "Globo.com"
+  title: "Software Developer"
+  bio: "Entusiasta da open web e software livre. Software Developer na globo.com e membro da JS foundation. Já trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Em 2015, foi um dos desenvolvedores de software mais notáveis no GitHub, tendo feito contribuições significativas para projetos de código aberto por 500 dias seguidos. Orador em mais de vinte conferências dando palestras sobre tecnologias web como JavaScript / ES6, Web Performance, React e Canvas / WebGL."
+  thumbnailUrl: raphael.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/raphamundi"}
+- 
+  id: 15
+  name: "Andrews"
+  surname: "Medina"
+  company: "Jusbrasil"
+  title: "Software Engineer"
+  bio: "Desenvolvedor na Jusbrasil, trabalha com Go, Python, Javascript, Kubernetes e outras tecnologias para construir aplicações performáticas e resilientes."
+  thumbnailUrl: medina.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/andrewsmedina"}
+- 
+  id: 13
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Tampa Works"
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: joselito.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
+- 
+  id: 11
+  name: "Paulo"
+  surname: "Duarte"
+  company: "JusBrasil"
+  title: "Front End Developer"
+  bio: "É desenvolvedor front-end no Jusbrasil, com experiência em diversas áreas como Telecom, E-commerce e E-learning, e trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack do Facebook React, Relay e Graphql."
+  thumbnailUrl: pauloduarte.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/paulopaquielli"}
+    - {name: "github", link: "https://github.com/paulopaquielli"}
+-
+  id: 5
+  name: "Diego"
+  surname: "Leite"
+  company: "AdMobilize"
+  title: "Desenvolvedor de Software"
+  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
+  thumbnailUrl: diegoleite.jpg
+  rockstar: false
+  social:    
+    - {name: "github", link: "https://github.com/di3goleite"}
+    - {name: "twitter", link: "https://twitter.com/di3goleite"}
+    - {name: "facebook", link: "https://facebook.com/di3goleite"}
+-
+  id: 6
+  name: "Matheus"
+  surname: "Cardoso"
+  company: "Z3 Web"
+  title: "Freenlance Web Developer"
+  bio: "Passionate father, a truly researcher and enthusiastic software developer. I am building web services, mobile apps and a life for my son."
+  thumbnailUrl: matheuscardoso.jpeg
+  rockstar: false
+  social:    
+    - {name: "github", link: "https://github.com/matheuscas"}
+    - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
+    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}  
+-
+  id: 9
+  name: "Cássio"
+  surname: "Silva"
+  company: "App2Sales"
+  title: "Desenvolvedor de Software"
+  bio: "Amante de tecnologia e atualmente se aprofundando no mundo JavaScript. Graduando em Engenharia de Computação pela UEFS .Desenvolvedor na App2Sales com foco em mobile. Atual vice-presidente na EcompJr."
+  thumbnailUrl: cassio.jpg
+  rockstar: false
+  social:    
+    - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
+- id: 10
+  name: "Pedro"
+  surname: "Neri"
+  company: "App2Sales"
+  title: "Desenvolvedor de Software"
+  bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo trabalha como desenvolvedor mobile na App2Sales e é presidente da Empresa Júnior de Engenharia de Computação, sempre que pode posta uma resposta no StackOverflow."
+  thumbnailUrl: pedro.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
+    - {name: "github", link: "https://github.com/Pedneri1"}
 -
   id: 1
   name: "Francisco"
@@ -44,33 +137,7 @@
   thumbnailUrl: victor.jpg
   rockstar: false
   social:    
-    - {name: "github", link: "https://github.com/vhfmag"}  
--
-  id: 5
-  name: "Diego"
-  surname: "Leite"
-  company: "AdMobilize"
-  title: "Desenvolvedor de Software"
-  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
-  thumbnailUrl: diegoleite.jpg
-  rockstar: false
-  social:    
-    - {name: "github", link: "https://github.com/di3goleite"}
-    - {name: "twitter", link: "https://twitter.com/di3goleite"}
-    - {name: "facebook", link: "https://facebook.com/di3goleite"}
--
-  id: 6
-  name: "Matheus"
-  surname: "Cardoso"
-  company: "Z3 Web"
-  title: "Freenlance Web Developer"
-  bio: "Passionate father, a truly researcher and enthusiastic software developer. I am building web services, mobile apps and a life for my son."
-  thumbnailUrl: matheuscardoso.jpeg
-  rockstar: false
-  social:    
-    - {name: "github", link: "https://github.com/matheuscas"}
-    - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
-    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}    
+    - {name: "github", link: "https://github.com/vhfmag"}    
 -
   id: 7
   name: "Dilan"
@@ -93,40 +160,6 @@
   rockstar: false
   social:    
     - {name: "facebook", link: "https://www.facebook.com/jkdrangel"}
--
-  id: 9
-  name: "Cássio"
-  surname: "Silva"
-  company: "App2Sales"
-  title: "Desenvolvedor de Software"
-  bio: "Amante de tecnologia e atualmente se aprofundando no mundo JavaScript. Graduando em Engenharia de Computação pela UEFS .Desenvolvedor na App2Sales com foco em mobile. Atual vice-presidente na EcompJr."
-  thumbnailUrl: cassio.jpg
-  rockstar: false
-  social:    
-    - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
-- id: 10
-  name: "Pedro"
-  surname: "Neri"
-  company: "App2Sales"
-  title: "Desenvolvedor de Software"
-  bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo trabalha como desenvolvedor mobile na App2Sales e é presidente da Empresa Júnior de Engenharia de Computação, sempre que pode posta uma resposta no StackOverflow."
-  thumbnailUrl: pedro.jpg
-  rockstar: false
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
-    - {name: "github", link: "https://github.com/Pedneri1"}
-- 
-  id: 11
-  name: "Paulo"
-  surname: "Duarte"
-  company: "JusBrasil"
-  title: "Front End Developer"
-  bio: "É desenvolvedor front-end no Jusbrasil, com experiência em diversas áreas como Telecom, E-commerce e E-learning, e trabalhou em diversos projetos em empresas como Oi, Vivo, Telebrás, Itaú, Hstern. É certificado Scrum Master, Product Owner e Developer pela Scrum Alliance e adora metodologias ágeis. Atualmente trabalha com Javascript utilizando a stack do Facebook React, Relay e Graphql."
-  thumbnailUrl: pauloduarte.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://www.twitter.com/paulopaquielli"}
-    - {name: "github", link: "https://github.com/paulopaquielli"}
 - 
   id: 12
   name: "Mateus"
@@ -141,39 +174,6 @@
     - {name: "github", link: "https://github.com/mmalaquias1"}
     - {name: "facebook", link: "https://www.facebook.com/mateus.malaquias2"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/mateus-malaquias-692532b5/"}
-- 
-  id: 13
-  name: "Joselito"
-  surname: "Júnior"
-  company: "Tampa Works"
-  title: "Developer"
-  bio: ""
-  thumbnailUrl: joselito.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
-- 
-  id: 14
-  name: "Raphael"
-  surname: "Amorim"
-  company: "Globo.com"
-  title: "Software Developer"
-  bio: "Entusiasta da open web e software livre. Software Developer na globo.com e membro da JS foundation. Já trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Em 2015, foi um dos desenvolvedores de software mais notáveis no GitHub, tendo feito contribuições significativas para projetos de código aberto por 500 dias seguidos. Orador em mais de vinte conferências dando palestras sobre tecnologias web como JavaScript / ES6, Web Performance, React e Canvas / WebGL."
-  thumbnailUrl: raphael.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/raphamundi"}
-- 
-  id: 15
-  name: "Andrews"
-  surname: "Medina"
-  company: "Jusbrasil"
-  title: "Software Engineer"
-  bio: "Desenvolvedor na Jusbrasil, trabalha com Go, Python, Javascript, Kubernetes e outras tecnologias para construir aplicações performáticas e resilientes."
-  thumbnailUrl: medina.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/andrewsmedina"}
 - 
   id: 16
   name: "Marcus"
