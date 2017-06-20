@@ -109,6 +109,13 @@
         transition: $base-transition;
         border-bottom: 2px solid #fff;
         background: #fff;
+        &.lily-bottom2 {
+            font-size: 19px;
+            // height: 120px;
+            .name {
+                font-size: 19px;
+            }
+        }
         h2 {
             font-size: 21px;
             font-weight: $regular;
