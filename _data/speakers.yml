@@ -174,3 +174,14 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/andrewsmedina"}
+- 
+  id: 16
+  name: "Marcus"
+  surname: "Silva"
+  company: "SENAI CIMATEC"
+  title: "Front End Developer"
+  bio: "Apaixonado por código, inovações e café. Gosta de trabalhar em projetos desafiadores e criativos, nas horas vagas curte jogar ou aprender algo novo."
+  thumbnailUrl: marcus.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/mvfsillva"}
