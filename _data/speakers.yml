@@ -163,3 +163,14 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/raphamundi"}
+- 
+  id: 15
+  name: "Andrews"
+  surname: "Medina"
+  company: "Jusbrasil"
+  title: "Software Engineer"
+  bio: "Desenvolvedor na Jusbrasil, trabalha com Go, Python, Javascript, Kubernetes e outras tecnologias para construir aplicações performáticas e resilientes."
+  thumbnailUrl: medina.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/andrewsmedina"}
