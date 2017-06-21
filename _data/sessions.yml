@@ -165,7 +165,7 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Beginner"
 -
-  id: 016
+  id: 123
   title: "Por que Stanford trocou Java por Node.js?"
   description: "Uma palestra de provocação para que a platéia pense sobre como ensinamos software hoje e como deveríamos estar ensinando amanhã, se quisermos que mais pessoas se interessem por programação (e porque isso é importante para o futuro)."
   subtype: presentation
@@ -182,7 +182,7 @@ Estruturas que vamos construir:
   service: true
 -
   id: 018
-  title: "Encerramento: Atenção, não esqueça da foto de familia jsday"  
+  title: "Encerramento: Foto da família jsday"  
   service: true
 -  
   id: 999
