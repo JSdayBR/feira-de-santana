@@ -166,7 +166,7 @@ Estruturas que vamos construir:
   complexity: "Beginner"
 -
   id: 123
-  title: "Por que Stanford trocou Java por Node.js?"
+  title: "Por que Stanford trocou Java por JavaScript?"
   description: "Uma palestra de provocação para que a platéia pense sobre como ensinamos software hoje e como deveríamos estar ensinando amanhã, se quisermos que mais pessoas se interessem por programação (e porque isso é importante para o futuro)."
   subtype: presentation
   speakers: [17]
