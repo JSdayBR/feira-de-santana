@@ -220,3 +220,16 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/geisasantos"}
+- 
+  id: 19
+  name: "Roselma"
+  surname: "Mendes"
+  company: ""ThoughtWorks
+  title: "Consultora Desenvolvedora"
+  bio: "Feminista Negra que ama programação. Baiana. Familia de Irará. Uma ThoughtWorker com quase 7 anos de experiência na área de desenvolvimento. Curte programação Web, fullstack, backend. Se interessa por Arquitetura de Sistemas: Entrega de Software, um pouco de Infra, design de aplicações, segurança, e por ai vai."
+  thumbnailUrl: roselma.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/roselmamendes"}
+    - {name: "github", link: "https://twitter.com/roselmamendes"}
+    - {name: "medium", link: "https://medium.com/@roselmamendes"}
