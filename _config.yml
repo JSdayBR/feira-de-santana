@@ -60,7 +60,7 @@ Santana 2017", text: "Seja um patrocinador"}
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
-eventDate: "15 de Julho, 2017"
+eventDate: "14 e 15 de Julho, 2017"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
