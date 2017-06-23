@@ -54,6 +54,19 @@
   social:
     - {name: "twitter", link: "https://www.twitter.com/paulopaquielli"}
     - {name: "github", link: "https://github.com/paulopaquielli"}
+- 
+  id: 19
+  name: "Roselma"
+  surname: "Mendes"
+  company: ""ThoughtWorks
+  title: "Consultora Desenvolvedora"
+  bio: "Feminista Negra que ama programação. Baiana. Familia de Irará. Uma ThoughtWorker com quase 7 anos de experiência na área de desenvolvimento. Curte programação Web, fullstack, backend. Se interessa por Arquitetura de Sistemas: Entrega de Software, um pouco de Infra, design de aplicações, segurança, e por ai vai."
+  thumbnailUrl: roselma.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/roselmamendes"}
+    - {name: "github", link: "https://twitter.com/roselmamendes"}
+    - {name: "medium", link: "https://medium.com/@roselmamendes"}
 -
   id: 5
   name: "Diego"
@@ -102,6 +115,17 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
     - {name: "github", link: "https://github.com/Pedneri1"}
+- 
+  id: 18
+  name: "Geisa"
+  surname: "Santos"
+  company: ""
+  title: "Agitadora sócio-edu-biz-cultural"
+  bio: "Agitadora sócio-edu-biz-cultural em Salvador, promove e incentiva diversos projetos e inciativas para o empreendedorismo feminino, protagonismo de jovens de periferia, literatura e educação. Fundadora do Periféricas, têm estimulado mais participações de mulheres e meninas na tecnologia através de eventos e workshops de programação."
+  thumbnailUrl: geisa.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/geisasantos"}
 -
   id: 1
   name: "Francisco"
@@ -209,27 +233,3 @@
 #   social:
 #     - {name: "twitter", link: "https://twitter.com/gabriel_micko"}
 #     - {name: "facebook", link: "https://facebook.com/gabriel.micko"}
-- 
-  id: 18
-  name: "Geisa"
-  surname: "Santos"
-  company: ""
-  title: "Agitadora sócio-edu-biz-cultural"
-  bio: "Agitadora sócio-edu-biz-cultural em Salvador, promove e incentiva diversos projetos e inciativas para o empreendedorismo feminino, protagonismo de jovens de periferia, literatura e educação. Fundadora do Periféricas, têm estimulado mais participações de mulheres e meninas na tecnologia através de eventos e workshops de programação."
-  thumbnailUrl: geisa.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/geisasantos"}
-- 
-  id: 19
-  name: "Roselma"
-  surname: "Mendes"
-  company: ""ThoughtWorks
-  title: "Consultora Desenvolvedora"
-  bio: "Feminista Negra que ama programação. Baiana. Familia de Irará. Uma ThoughtWorker com quase 7 anos de experiência na área de desenvolvimento. Curte programação Web, fullstack, backend. Se interessa por Arquitetura de Sistemas: Entrega de Software, um pouco de Infra, design de aplicações, segurança, e por ai vai."
-  thumbnailUrl: roselma.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/roselmamendes"}
-    - {name: "github", link: "https://twitter.com/roselmamendes"}
-    - {name: "medium", link: "https://medium.com/@roselmamendes"}
