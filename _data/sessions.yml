@@ -173,6 +173,14 @@ Estruturas que vamos construir:
   language: pt-BR
   complexity: "Beginner"
 -
+  id: 124
+  title: "Experiências interativas com p5.js"
+  description: "p5js é uma biblioteca JS que fornece um ambiente interativo e gráfico baseado nos princípios do Processing, linguaguem de programação voltada para criativos e artistas. Nesta talk você vai conhecer um case que une jogos, interatividade e ativismo."
+  subtype: presentation
+  speakers: [18]
+  language: pt-BR
+  complexity: "Beginner"
+-
   id: 016
   title: "Almoço"
   service: true

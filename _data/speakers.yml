@@ -196,3 +196,27 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/mvfsillva"}
+
+# - 
+#   id: 17
+#   name: "Gabriel"
+#   surname: "Mičko"
+#   company: "Mozilla"
+#   title: "Front-end developer Specialist"
+#   bio: "He is enthusiastic front-end developer who loves the web and new technologies around it. He is tech speaker, contributor, volunteer at Mozilla. He believes in the mission to ensure the Internet is a global public resource, open and accessible to all."
+#   thumbnailUrl: gabriel_micko.jpg
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/gabriel_micko"}
+#     - {name: "facebook", link: "https://facebook.com/gabriel.micko"}
+- 
+  id: 18
+  name: "Geisa"
+  surname: "Santos"
+  company: ""
+  title: "Agitadora sócio-edu-biz-cultural"
+  bio: "Agitadora sócio-edu-biz-cultural em Salvador, promove e incentiva diversos projetos e inciativas para o empreendedorismo feminino, protagonismo de jovens de periferia, literatura e educação. Fundadora do Periféricas, têm estimulado mais participações de mulheres e meninas na tecnologia através de eventos e workshops de programação."
+  thumbnailUrl: geisa.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/geisasantos"}
