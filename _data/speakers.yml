@@ -77,8 +77,20 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/roselmamendes"}
-    - {name: "github", link: "https://twitter.com/roselmamendes"}
+    - {name: "github", link: "https://github.com/roselmamendes"}
     - {name: "medium", link: "https://medium.com/@roselmamendes"}
+- 
+  id: 20
+  name: "Caio"
+  surname: "Alcântara"
+  company: "Sciensa"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: caio.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/clucasalcantara"}
+    - {name: "github", link: "https://github.com/clucasalcantara"}
 -
   id: 5
   name: "Diego"
