@@ -193,7 +193,7 @@ Estruturas que vamos construir:
   title: "WebRTC From Zero to Hero"
   description: "The presentation covers the main pillars of WebRTC which is video - audio calling and file sharing. It includes a well prepared demo with interaction with the audience, top-notch news and help to get started."
   subtype: presentation
-  speakers: [19]
+  speakers: [21]
   language: en
   complexity: "Advanced"
 -
