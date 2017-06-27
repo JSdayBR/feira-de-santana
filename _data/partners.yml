@@ -27,6 +27,8 @@
   elements:
     - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
     - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "260px"}        
+    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "260px"}
+    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "260px"}    
 -
   group: "Apoio"
   elements:    
