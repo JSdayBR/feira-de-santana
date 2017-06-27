@@ -8,35 +8,31 @@
   elements:
     - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
     - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "400px"}
+    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "400px"}    
+-    
+  group: ""
+  elements:
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
+    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "400px"}
 -
   group: ""
   elements:
-    - {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "350px"}        
+    - {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "250px"}        
     - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}
     - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
-    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
     - {name: "Sensorial", description: "Sensorial", link: "http://www.sensorial.com.br", imageUrl: "sensorial.png", width: "250px"}        
 -
   group: ""
   elements:
-    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
-    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "260px"}    
-    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "260px"}    
-    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "260px"}
--
-  group: ""
-  elements:
+    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
+    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
+    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
     - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
-    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "260px"}        
-    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "260px"}
-    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "260px"}    
 -
   group: "Apoio"
   elements:    
-    #- {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "350px"}
--
-  group: ""
-  elements:    
-    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
-    - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "209px"}
+    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "160px"}
+    - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "160px"}
     - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
+    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "170px"}        
+    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
