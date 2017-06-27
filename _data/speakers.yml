@@ -1,15 +1,15 @@
-# - 
-#   id: 17
-#   name: "Gabriel"
-#   surname: "Mičko"
-#   company: "Mozilla"
-#   title: "Front-end developer Specialist"
-#   bio: "He is enthusiastic front-end developer who loves the web and new technologies around it. He is tech speaker, contributor, volunteer at Mozilla. He believes in the mission to ensure the Internet is a global public resource, open and accessible to all."
-#   thumbnailUrl: gabriel_micko.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/gabriel_micko"}
-#     - {name: "facebook", link: "https://facebook.com/gabriel.micko"}
+- 
+  id: 17
+  name: "Gabriel"
+  surname: "Mičko"
+  company: "Mozilla"
+  title: "Front-end developer Specialist"
+  bio: "He is enthusiastic front-end developer who loves the web and new technologies around it. He is tech speaker, contributor, volunteer at Mozilla. He believes in the mission to ensure the Internet is a global public resource, open and accessible to all."
+  thumbnailUrl: gabriel_micko.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gabriel_micko"}
+    - {name: "facebook", link: "https://facebook.com/gabriel.micko"}
 - 
   id: 14
   name: "Raphael"
