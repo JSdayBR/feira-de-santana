@@ -18,14 +18,15 @@
 -
   group: ""
   elements:
-    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "350px"}        
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "260px"}    
     - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "260px"}    
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "260px"}
 -
   group: ""
   elements:
-    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "260px"}    
+    - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.jpg", width: "260px"}    
+    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "260px"}        
 -
   group: "Apoio"
   elements:    
