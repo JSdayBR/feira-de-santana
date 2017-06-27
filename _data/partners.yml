@@ -15,6 +15,7 @@
     - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}
     - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
     - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
+    - {name: "Sensorial", description: "Sensorial", link: "http://www.sensorial.com.br", imageUrl: "sensorial.png", width: "250px"}        
 -
   group: ""
   elements:
