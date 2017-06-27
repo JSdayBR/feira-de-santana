@@ -23,6 +23,10 @@
     - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "260px"}    
     - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "260px"}    
 -
+  group: ""
+  elements:
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "260px"}    
+-
   group: "Apoio"
   elements:    
     #- {name: "WTM Salvador", description: "Women Techmakers (WTM) Salvador? O WTM é uma iniciativa do Google cujo o objetivo é atrair e fomentar a participação das mulheres no mundo da tecnologia e o GDG.", link: "https://www.facebook.com/WTMSSA", imageUrl: "wtm.png", width: "350px"}
