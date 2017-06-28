@@ -197,6 +197,14 @@ Estruturas que vamos construir:
   language: en
   complexity: "Advanced"
 -
+  id: 021
+  title: "GraphQL beyond the limit"
+  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding)."
+  subtype: workshop
+  speakers: [21]
+  language: en
+  complexity: "Advanced"
+-
   id: 016
   title: "Almoço"
   service: true
