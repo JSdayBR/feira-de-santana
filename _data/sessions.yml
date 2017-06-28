@@ -205,6 +205,14 @@ Estruturas que vamos construir:
   language: en
   complexity: "Advanced"
 -
+  id: 022
+  title: "Transformação Digital e IoT com sistemas cognitivos"
+  description: ""
+  subtype: presentation
+  speakers: [22]
+  language: pt-BR
+  complexity: "Intermediate"
+-
   id: 016
   title: "Almoço"
   service: true
