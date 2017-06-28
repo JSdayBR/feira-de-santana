@@ -11,6 +11,17 @@
     - {name: "twitter", link: "https://twitter.com/gabriel_micko"}
     - {name: "facebook", link: "https://facebook.com/gabriel.micko"}
 - 
+  id: 22
+  name: "Sérgio"
+  surname: "Gama"
+  company: "IBM"
+  title: "Developer Advocate Leader for Latin America"
+  bio: "Since 2009 at IBM as Cloud Technology Leader for Latin America, specialist in cloud computing, cognitive computing and Internet of Things. Today is the main evangelist of IBM Latin America for platform of digital innovation, acting as speaker in the main events, conferences and congress in Brazil and abroad, in companies and universities, also acts as mentor for hackathons, accelerators and incubators in Latin America."
+  thumbnailUrl: sergiogama.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiogama/"}
+- 
   id: 14
   name: "Raphael"
   surname: "Amorim"
