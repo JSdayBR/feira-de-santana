@@ -103,7 +103,7 @@ Estruturas que vamos construir:
 -
   id: 008
   title: "Workshop: Iniciando no mundo mobile com React-Native"
-  description: "Nesse workshop aprenderemos os princípios do React-Native e como a programação mobile está a um passo de distância para quem tem conhecimento em js e front-end para web. Para treinar as suas habilidades, faremos um app parecido com o Instagram usando os conceitos aprendidos."
+  description: "Nesse workshop aprenderemos os princípios do React-Native e como a programação mobile está a um passo de distância para quem tem conhecimento em js e front-end para web. Para treinar as suas habilidades, faremos um app parecido com o Instagram usando os conceitos aprendidos. O workshop será dividido em duas partes, uma pela manhã e outra pela tarde."
   subtype: workshop
   speakers: [8,9]
   language: pt-BR
