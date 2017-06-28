@@ -27,6 +27,10 @@
     - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
     - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
     - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
+-
+  group: ""
+  elements:
+    - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
     - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
 -
   group: "Apoio"
