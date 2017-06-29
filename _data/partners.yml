@@ -20,7 +20,7 @@
     - {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "250px"}        
     - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}
     - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
-    - {name: "Sensorial", description: "Sensorial", link: "http://www.sensorial.com.br", imageUrl: "sensorial.png", width: "250px"}        
+    - {name: "meuesporte.com", description: "meuesporte.com", link: "http://www.meuesporte.com", imageUrl: "meuesporte.png", width: "250px"}        
 -
   group: ""
   elements:
