@@ -155,14 +155,6 @@ ticketsOffers:
   validFrom: "2017-06-03T00:00"
   validThrough: "2017-07-04T23:59"
  -
-  name: "Workshop GraphQL"
-  price: "50"
-  priceCurrency: "R$"
-  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234"
-  buyButtonText: "Inscreva-se"
-  validFrom: "2017-06-03T00:00"
-  validThrough: "2017-07-14T00:00"
- -
   name: "3º Lote"
   price: "120"
   priceCurrency: "R$"
@@ -170,6 +162,14 @@ ticketsOffers:
   buyButtonText: "Inscreva-se"
   validFrom: "2017-07-05T00:00"
   validThrough: "2017-07-15T06:00"
+ -
+  name: "Workshop GraphQL"
+  price: "50"
+  priceCurrency: "R$"
+  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234"
+  buyButtonText: "Inscreva-se"
+  validFrom: "2017-06-03T00:00"
+  validThrough: "2017-07-14T00:00"
 
 # Footer
 socialLinks:
