@@ -232,3 +232,11 @@ Estruturas que vamos construir:
   id: 666
   title: "A definir"
   service: true
+-
+  id: 023
+  title: "Benefícios da Programação Funcional em Softwares de Larga Escala"
+  description: ""
+  subtype: presentation
+  speakers: [20]
+  language: pt-BR
+  complexity: "Intermediate"
