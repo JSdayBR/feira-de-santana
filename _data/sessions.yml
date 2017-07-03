@@ -12,7 +12,15 @@
   service: true
 -
   id: 003
-  title: "Workshop: Iniciando com JavaScript"
+  title: "Workshop: Iniciando com JavaScript (Turma 01)"
+  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript. <em>Teremos duas turmas, uma pela manhã e outra pela tarde.</em>"
+  subtype: workshop
+  speakers: [2]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 0033
+  title: "Workshop: Iniciando com JavaScript (Turma 02)"
   description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript. <em>Teremos duas turmas, uma pela manhã e outra pela tarde.</em>"
   subtype: workshop
   speakers: [2]

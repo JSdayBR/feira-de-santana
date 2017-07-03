@@ -17,7 +17,7 @@
     - {
         startTime: "14:00",
         endTime: "18:00",
-        sessionIds: [003,004,021,008]
+        sessionIds: [0033,004,021,008]
     }
 -
   title: "JSday Lineup"
