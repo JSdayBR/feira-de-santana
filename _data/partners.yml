@@ -13,7 +13,12 @@
   elements:
     - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
     - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "400px"}
+-    
+  group: ""
+  elements:
+    - {name: "MATRIX Labs", description: "The complete creation platform to connect and sense the physical world.", link: "http://www.matrixlabs.ai/", imageUrl: "matrixlabs.png", width: "400px"}
     - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "350px"}
+
 -
   group: ""
   elements:
