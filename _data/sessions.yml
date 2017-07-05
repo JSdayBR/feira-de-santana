@@ -207,7 +207,7 @@ Estruturas que vamos construir:
 -
   id: 021
   title: "GraphQL beyond the limit"
-  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding)."
+  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding). <p>Please have your own laptop with npm / yarn, node, RethinkDB pre-installed.</p> <p>Schedule.js</p> <ol> <li>What is GraphQL, why is it good?</li> <li> Running Graphiql and writing your first schema. </li><li> Learning Sequelize and connecting to the RethinkDB database. </li><li> Merging Sequelize with GraphQL. </li><li> Writing Mutations.</li></ol>"
   subtype: workshop
   speakers: [21]
   language: en
