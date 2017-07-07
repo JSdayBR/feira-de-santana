@@ -16,11 +16,14 @@
   surname: "Gama"
   company: "IBM"
   title: "Developer Advocate Leader for Latin America"
-  bio: "Since 2009 at IBM as Cloud Technology Leader for Latin America, specialist in cloud computing, cognitive computing and Internet of Things. Today is the main evangelist of IBM Latin America for platform of digital innovation, acting as speaker in the main events, conferences and congress in Brazil and abroad, in companies and universities, also acts as mentor for hackathons, accelerators and incubators in Latin America."
+  bio: "Desde 2009, na IBM, como líder em tecnologia da nuvem para a América Latina, especialista em computação em nuvem, computação cognitiva e Internet das coisas. Hoje é o principal evangelista da IBM Latin America para a plataforma de inovação digital, atuando como palestrante nos principais eventos, conferências e congressos no Brasil e no exterior, em empresas e universidades, também atua como mentor para hackathons,aceleradores e incubadoras na América Latina"
   thumbnailUrl: sergiogama.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergiogama/"}
+    - {name: "facebook", link: "https://facebook.com/sergiogama1967"}
+    - {name: "twitter", link: "https://twitter.com/sergiorggama"}
+    - {name: "github", link: "github.com/sergiogama"}
 - 
   id: 14
   name: "Raphael"
