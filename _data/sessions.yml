@@ -215,7 +215,7 @@ Estruturas que vamos construir:
 -
   id: 022
   title: "Transformação Digital e IoT com sistemas cognitivos"
-  description: ""
+  description: "Será abordada o impacto da transformação digital na vida das pessoas e nos negócios, e como os sitemas de inteligência artificial melhoram exponencialmente a experiência do usuário / cliente. Além disso como é possível capturar dados em real time e na ponta através de IoT. Por fim, ChatBots, o que é, para que serve o que desenvolver um?"
   subtype: presentation
   speakers: [22]
   language: pt-BR
