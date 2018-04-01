@@ -181,7 +181,7 @@ footerBlocks:
    - {link: "http://rec.jsday.com.br", text: "JSday Recife"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
-   - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+   - {link: "http://fsa.jsday.com.br/2017", text: "JSday Feira de Santana 2017"}
  -
   title: "Contato"
   links:
