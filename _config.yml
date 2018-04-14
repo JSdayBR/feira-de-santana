@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSday Feira de Santana 2017"
-email: "contato@jsday.com.br"
+title: "JSday Feira de Santana 2018"
+email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://fsa.jsday.com.br"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "JSday Feira de Santana"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-organizerEmail: "contato@jsday.com.br"
+organizerEmail: "jsdaybr@gmail.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
 
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2017.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2"
-c4sponsorsUrl: "mailto:contato@jsday.com.br?subject=Patrocínio JSday 
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday 
 Feira de Santana 2017"
 
 # Navigation
@@ -50,11 +50,11 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 
 # Hero Block
@@ -65,7 +65,7 @@ typeoutTextValues: '"", "JavaScript", "Angular", "Node", "Electron"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
- - {link: "mailto:contato@jsday.com.br?subject=Patrocínio JSday Feira de 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2017", text: "Seja um patrocinador"}
 
 # About Block
@@ -185,7 +185,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:contato@jsday.com.br", text: "contato@jsday.com.br"}
+   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
  -
   title: "FAQ"
   links:
