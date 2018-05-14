@@ -32,47 +32,47 @@ organizerEmail: "jsdaybr@gmail.com"
 metaKeywords: "event, javascript, js, angular, google maps, 
 ionic, firebase, aplicativos híbridos, nodebots"
 twitterAccount: "@jsdaybr"
-socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2017.png"
-socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2017.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2017.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2018.png"
+socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2018.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2018.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/vKgUCUyE3iTJe4lo2"
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday 
-Feira de Santana 2017"
+Feira de Santana 2018"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "JS Experts"}
+ #- {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+ #- {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
-Santana 2017", text: "Seja um patrocinador"}
+Santana 2018", text: "Seja um patrocinador"}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+ #- {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
-Santana 2017", text: "Seja um patrocinador"}
+Santana 2018", text: "Seja um patrocinador"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
-eventDate: "14 e 15 de Julho, 2017"
-typeoutTextValues: '"", "JavaScript", "Angular", "Node", "Electron"'
+eventDate: "11 de Agosto, 2018"
+typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
-Santana 2017", text: "Seja um patrocinador"}
+Santana 2018", text: "Seja um patrocinador"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
 aboutBlock:
  - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
- - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
+ - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do JavaScript" }
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
 # Statistic Block
@@ -80,8 +80,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "2", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
+ #- {count: "15", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ #- {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -94,19 +94,19 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "FTC"
-eventLocationLink: "http://www.ftc.br/"
-eventStreetAddress: "Rua Artêmia Pires Freitas, s/n, SIM. CEP: 44.085-370"
+eventLocationName: "FAT"
+eventLocationLink: "http://www.fat.edu.br/"
+eventStreetAddress: "Rua Gov. Juracy Magalhães, 222, Ponto Central. CEP: 44032-620"
 eventAddressLocality: "Feira de Santana"
 eventAddressLocalityRegion: "BA"
-eventPostalCode: "44085-370"
+eventPostalCode: "44032-620"
 eventAddressCountry: "Brasil"
-eventStartTime: "2017-07-15T08:00"
+eventStartTime: "2018-08-11T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2017-07-15T18:00"
-eventPlaceCoordinates: "-12.246922,-38.924696"
-mapCenterCoordinates: "-12.246922,-38.924696"
-mapMobileCenterCoordinates: "-12.246922,-38.924696"
+eventEndTime: "2018-08-11T18:00"
+eventPlaceCoordinates: "-12.258185,-38.924696"
+mapCenterCoordinates: "-12.258185,-38.924696"
+mapMobileCenterCoordinates: "-12.258185,-38.924696"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -114,8 +114,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "FTC"
-venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
+venueTitle: "FAT"
+venueFeatures: ["Localizado próximo à Avenida Maria Quitéria", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -167,13 +167,7 @@ socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
  - {link: "https://www.facebook.com/jsdaybr/", icon: "facebook"}
 
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://cesar.org.br", text: "C.E.S.A.R"}
-   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}   
-   - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}    
+footerBlocks:    
  -
   title: "Edições Anteriores"
   links:
