@@ -72,7 +72,7 @@ Santana 2018", text: "Seja um patrocinador"}
 aboutTitle: "Sobre o JSday Feira de Santana"
 aboutBlock:
  - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
- - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do JavaScript" }
+ - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades" }
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
 # Statistic Block
