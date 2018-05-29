@@ -32,12 +32,13 @@
 #    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
 #    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
 #    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
-#-
-#  group: ""
-#  elements:
+-
+  group: "Bronze"
+  elements:
 #    - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
 #    - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
 #    - {name: "app2sales", description: "Criando aplicativos incríveis", link: "http://www.app2sales.com.br/", imageUrl: "app2sales.png", width: "260px"}    
+     - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl: "caroli.png", width: "260px"}
 -
   group: "Apoio"
   elements:    
