@@ -1,7 +1,7 @@
 -
   title: "Workshops"
-  date: "2017-7-14"
-  dateReadable: "14/07"
+  date: "2017-8-11"
+  dateReadable: "11/08"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
