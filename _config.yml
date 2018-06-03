@@ -49,12 +49,12 @@ navigationLinks:
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- #- {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
- #- {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
@@ -66,7 +66,7 @@ eventDate: "11 de Agosto, 2018"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React"'
 typeoutFallback: "JavaScript"
 heroButtons:
-# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234", text: "Garantir minha vaga"} 
+ - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
@@ -82,9 +82,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "24", specialCharacter: "+", info: "horas", detail: "de puro código"}
- #- {count: "15", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- #- {count: "1", specialCharacter: "", info: "trilha", detail: "foco total em JavaScript"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "1", specialCharacter: "", info: "dia", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -145,26 +145,26 @@ ticketsOffers:
   name: "1º Lote"
   price: "60"
   priceCurrency: "R$"
-  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234"
-  buyButtonText: "Esgotado!"
-  validFrom: "2017-05-09T10:00"
-  validThrough: "2017-06-01T23:59"
+  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612"
+  buyButtonText: "Participe!"
+  validFrom: "2018-06-04T00:00"
+  validThrough: "2017-07-06T23:59"
  -
   name: "2º Lote"
   price: "100"
   priceCurrency: "R$"
-  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234"
-  buyButtonText: "Esgotado!"
-  validFrom: "2017-06-03T00:00"
-  validThrough: "2017-07-04T23:59"
+  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612"
+  buyButtonText: "Em breve!"
+  validFrom: "2017-07-07T00:00"
+  validThrough: "2017-07-28T23:59"
  -
   name: "3º Lote"
   price: "120"
   priceCurrency: "R$"
-  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2017__140234"
-  buyButtonText: "Esgotado!"
-  validFrom: "2017-07-05T00:00"
-  validThrough: "2017-07-15T06:00" 
+  buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612"
+  buyButtonText: "Em breve!"
+  validFrom: "2017-07-29T00:00"
+  validThrough: "2017-07-11T00:00" 
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}

@@ -5,28 +5,24 @@
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Workshop 1", color: "#f7df1e", description: "Laboratório 1"}
-    - {title: "Workshop 2", color: "#f7df1e", description: "Laboratório 2"}
-    - {title: "Workshop 3", color: "#f7df1e", description: "Laboratório 3"}
-    - {title: "Workshop 4", color: "#f7df1e", description: "Laboratório 4"}
   timeslots:
     - {
         startTime: "08:30",
         endTime: "12:00",
-        sessionIds: [003,006,999,008]
+        sessionIds: [003]
     }
     - {
         startTime: "14:00",
         endTime: "18:00",
-        sessionIds: [0033,004,021,008]
+        sessionIds: [006]
     }
 -
   title: "JSday Lineup"
-  date: "2017-7-15"
-  dateReadable: "15/07"
+  date: "2018-8-11"
+  dateReadable: "11/08"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Auditório 1", color: "#f7df1e", description: "Auditório Principal"}
-    - {title: "Auditório 2", color: "#f7df1e", description: "Sala a definir"}
   timeslots:
     - {
         startTime: "8:00",
@@ -46,17 +42,17 @@
     - {
         startTime: "9:40",
         endTime: "10:10",
-        sessionIds: [011,005]
+        sessionIds: [011]
     }
     - {
         startTime: "10:10",
         endTime: "10:40",
-        sessionIds: [015,007]
+        sessionIds: [015]
     }
     - {
         startTime: "10:40",
         endTime: "11:20",
-        sessionIds: [012,009]
+        sessionIds: [012]
     }
     - {
         startTime: "11:20",
@@ -71,7 +67,7 @@
     - {
         startTime: "14:00",
         endTime: "14:40",
-        sessionIds: [010, 124]
+        sessionIds: [010]
     }
     - {
         startTime: "14:40",
