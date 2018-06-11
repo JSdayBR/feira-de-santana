@@ -9,9 +9,9 @@
 #    - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
 #    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "400px"}    
 #-    
-#  group: ""
-#  elements:
-#    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
+  group: ""
+  elements:
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
 #    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "400px"}
 #-    
 #  group: ""
