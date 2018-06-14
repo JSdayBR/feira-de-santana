@@ -106,19 +106,17 @@
 #    - {name: "github", link: "https://github.com/di3goleite"}
 #    - {name: "twitter", link: "https://twitter.com/di3goleite"}
 #    - {name: "facebook", link: "https://facebook.com/di3goleite"}
-#-
-#  id: 6
-#  name: "Matheus"
-#  surname: "Cardoso"
-#  company: "Z3 Web"
-#  title: "Freenlance Web Developer"
-#  bio: "Passionate father, a truly researcher and enthusiastic software developer. I am building web services, mobile apps and a life for my son."
-#  thumbnailUrl: matheuscardoso.jpeg
-#  rockstar: false
-#  social:    
-#    - {name: "github", link: "https://github.com/matheuscas"}
-#    - {name: "twitter", link: "https://twitter.com/MatheusCAS"}
-#    - {name: "linkedin", link: "https://facebook.com/matheuscardoso"}  
+-
+   id: 6
+   name: "Matheus"
+   surname: "Cardoso"
+   company: ""
+   title: "Freelancer Full Stack Web and Mobile apps Developer"
+   bio: "I'm Matheus Cardoso, a passionate father, a truly researcher and enthusiastic software engineer. I am building web and mobile applications and a life for my son."
+   thumbnailUrl: matheuscardoso.jpeg
+   rockstar: false
+   social:    
+     - {name: "site", link: "https://matheuscas.github.io"}
 #-
 #  id: 9
 #  name: "Cássio"
