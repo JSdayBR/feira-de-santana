@@ -44,7 +44,7 @@ Feira de Santana 2018"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/speakers/", text: "JS Experts"}
+ - {permalink: "/speakers/", text: "JS Experts"}
  #- {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/live/", text: "Live"}
 
