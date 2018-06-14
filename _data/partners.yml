@@ -36,7 +36,7 @@
   group: "Bronze"
   elements:
     - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
-#    - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
+    - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io/", imageUrl: "cubos.svg", width: "260px"}    
 #    - {name: "app2sales", description: "Criando aplicativos incríveis", link: "http://www.app2sales.com.br/", imageUrl: "app2sales.png", width: "260px"}    
     - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl: "caroli.png", width: "260px"}
 -
