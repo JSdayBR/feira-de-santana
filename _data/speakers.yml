@@ -74,22 +74,22 @@ Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
     - {name: "twitter", link: "https://twitter.com/vhfmag"}
     - {name: "github", link: "https://github.com/vhfmag"}
     - {name: "linkedin", link: "https://linkedin.com/in/vhfmag"}
-- 
-  id: 11
-  name: "Álvaro"
-  surname: "Viebrantz"
-  company: "Leverege"
-  title: "Product Engineer"
-  bio: "Google Developer Expert em IoT, organizador dos grupos DevMT e Google Developers Group Cuiabá. Palestrante sobre temas como desenvolvimento móvel, internet das coisas e computação em nuvem. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT.  Product Engineer na Leverege.com."
-  thumbnailUrl: alvaro.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://www.twitter.com/alvaroviebrantz"}
-    - {name: "github", link: "https://github.com/alvarowolfx"}
-    - {name: "linkedin", link: "https://linkedin.com/in/alvaro-viebrantz-55119048"}
-    - {name: "site", link: "https://developers.google.com/experts/people/alvaro-viebrantz"}
-    - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
-    - {name: "site", link: "https://aviebrantz.com.br/"}
+#- 
+#  id: 11
+#  name: "Álvaro"
+#  surname: "Viebrantz"
+#  company: "Leverege"
+#  title: "Product Engineer"
+#  bio: "Google Developer Expert em IoT, organizador dos grupos DevMT e Google Developers Group Cuiabá. Palestrante sobre temas como desenvolvimento móvel, internet das coisas e computação em nuvem. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT.  Product Engineer na Leverege.com."
+#  thumbnailUrl: alvaro.png
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://www.twitter.com/alvaroviebrantz"}
+#    - {name: "github", link: "https://github.com/alvarowolfx"}
+#    - {name: "linkedin", link: "https://linkedin.com/in/alvaro-viebrantz-55119048"}
+#    - {name: "site", link: "https://developers.google.com/experts/people/alvaro-viebrantz"}
+#    - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
+#    - {name: "site", link: "https://aviebrantz.com.br/"}
 #- 
 #  id: 19
 #  name: "Roselma"
