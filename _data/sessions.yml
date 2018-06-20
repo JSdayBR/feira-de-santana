@@ -30,7 +30,7 @@ Você nunca viu JavaScript? Esse Workshop é para você! Nele você vai aprender
   complexity: "Intermediário"
 -
   id: 005
-  title: ""Crawleando o incrawleável" com Puppeteer"
+  title: "\"Crawleando o incrawleável\" com Puppeteer"
   description: "Introduzir o Puppeteer para a comunidade apresentando um caso de crawler sobre páginas não amigáveis. Uma alternativa ao Scrapy + terceiros, Selenium, etc."
   subtype: presentation
   speakers: [6]
@@ -193,11 +193,3 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   id: 666
   title: "A definir"
   service: true
-#-
-#  id: 023
-#  title: "Benefícios da Programação Funcional em Softwares de Larga Escala"
-#  description: ""
-#  subtype: presentation
-#  speakers: [20]
-#  language: pt-BR
-#  complexity: "Intermediário"
