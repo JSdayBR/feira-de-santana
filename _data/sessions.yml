@@ -12,142 +12,95 @@
   service: true
 -
   id: 003
-  title: "Workshop: Iniciando com JavaScript (Turma 01)"
-  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript. <em>Teremos duas turmas, uma pela manhã e outra pela tarde.</em>"
+  title: "Introdução ao JavaScript"
+  description: "Você já navegou na Web e percebeu efeitos incríveis em algumas páginas enquanto outras são bem simples? Pois bem, o profissional responsável por desenvolver esses efeitos e melhorar a experiência do usuário é o Front-End e ele tem um poderoso aliado, a linguagem de programação JavaScript. 
+Você nunca viu JavaScript? Esse Workshop é para você! Nele você vai aprender os conceitos básicos do JS e escrever suas primeiras linhas de código :3"
   subtype: workshop
-  speakers: [2]
+  speakers: [21,14]
   language: pt-BR
-  complexity: "Beginner"
--
-  id: 0033
-  title: "Workshop: Iniciando com JavaScript (Turma 02)"
-  description: "O Curso Básico de JavaScript ajudará os alunos com os seus primeiros passos na linguagem mais utilizada do mundo. Será um momento de muito aprendizado e muita \"mão na massa\". Com esse curso, os participantes estarão aptos a trabalhar com desenvolvimento de aplicações web e manipulação do DOM com JavaScript. <em>Teremos duas turmas, uma pela manhã e outra pela tarde.</em>"
-  subtype: workshop
-  speakers: [2]
-  language: pt-BR
-  complexity: "Beginner"
+  complexity: "Iniciante"
 -
   id: 004
-  title: "Workshop: Transformando layouts em código"
-  description: "Colocando a Mão na Massa! Transformando layouts em código.
-<br>
-Você é aquela pessoa que quando tem um editor aberto da sua frente não sabe nem por onde começar? Tem dificuldade em colocar na prática tudo que aprendeu na parte teórica? Relaxe, você está no lugar certo! Nesse Workshop você vai colocar a mão na massa e desenvolver junto com a gente uma página do zero. 
-<br>
-Recomendações:
-<ul>
-<li> Se você não manja nada, recomendamos que comece com a Introdução ao Javascript.</li>
-<li> Aqui nós vamos usar Javascript Puro, nada de frameworks nem libs.</li>
-<li> Vamos falar apenas de front-end, ok?</li>
-</ul>
-Programação:
-<ul>
-<li> Apresentações da equipe.</li>
-<li> Softwares e ferramentas que vamos utilizar.</li>
-<li> Apresentação do Layout.</li>
-<li> Pensando na Modularização.</li>
-<li> Criando nossa estrutura de diretórios.</li>
-<li> Revisão sobre o DOM.</li>
-<li> Aprendendo sobre eventos.</li>
-<li> Criando as partes do projeto.</li>
-<li> Como usar libs quando precisar.</li>
-<li> Considerações finais.</li>
-</ul>
-Estruturas que vamos construir:
-<ul>
-<li> Menu Responsivo</li>
-<li> Uma modal</li>
-<li> Um botão que muda o texto de uma div</li>
-<li> Usando uma lib para slides ou scroll da página</li>
-</ul>
+  title: "Do zero ao npm - Publicando seus componentes react-native"
+  description: "Já pensou em criar o seu componente e disponibilizar para que outros possam reutilizar através dos repositórios do npm ? Se você deseja sair do zero e criar um componente pronto para ser npm installed, nesse workshop você vai aprender todos os truques de como fazer isso da melhor maneira possível.
 "
   subtype: workshop
-  speakers: [3,4]
+  speakers: [9,10]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Intermediário"
 -
   id: 005
-  title: "Change detection in Angular for Humans"
-  description: "It's not easy to understand change detection in Angular. Is about Zones, Observables, Threads that communicate among them, and some other dark matters. But for humans, we can talk about the how the different strategies works between components, pure and impure Pipes, how the components are connected to achieve a fast and predictable change detection and, of course, how to make an faster Angular application mixing these strategies. "
+  title: ""Crawleando o incrawleável" com Puppeteer"
+  description: "Introduzir o Puppeteer para a comunidade apresentando um caso de crawler sobre páginas não amigáveis. Uma alternativa ao Scrapy + terceiros, Selenium, etc."
   subtype: presentation
   speakers: [6]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Iniciante"
 -
   id: 006
-  title: "Desenvolvendo para Web utilizando NodeJS"
-  description: "<p>Vamos aprender sobre uma das plataformas que mais cresceu nos últimos anos através do desenvolvimento de aplicações web.</p>
-<p>Recomendações:</p>
-<ul>
-<li>Conhecimento básico de JavaScript</li>
-<li>Conhecimento de Desenvolvimento para Web</li>
-</ul>
-<p>Desejável:</p>
-<ul>
-<li>Ter conhecimento de MongoDB</li>
-</ul>
-<p>Programação:</p>
-<ul>
-<li>Apresentação da Equipe e do Objetivo do CursoIntrodução ao NodeJS</li>
-<li>Usando bibliotecas nativas do NodeJS para criar um serviço web</li>
-<li>Conhecendo o ExpressDê um ‘oi’ para o Mongoose</li>
-<li>Hora de misturar tudo junto (desenvolvimento de uma To Do List usando Express e Mongoose)</li>
-</ul>
-<p>O que vamos construir:</p>
-<ul>
-<li>Uma gerenciador de lista de tarefas (To Do List)</li>
-</ul>"
-  subtype: workshop
-  speakers: [5,7]
+  title: "Dominando o Ionic Framework"
+  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
+  subtype: presentation
+  speakers: [15]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário" 
 -
   id: 007
-  title: "Vue.js, o primo pobre"
-  description: "React isso, Angular aquilo. Seria interessante dar um pouco de espaço ao vue (https://vuejs.org) Afinal, tudo na vida tem que ter uma alternativa asiática."
+  title: "Descomplicando seu código JavaScript"
+  description: "Trazer aos ouvintes dicas para um código mais limpo e apresentar o Google JavaScript Style Guide."
   subtype: presentation
-  speakers: [1]
+  speakers: [17]
   language: pt-BR
-  complexity: "Intermediate" 
+  complexity: "Iniciante"
 -
   id: 008
-  title: "Workshop: Iniciando no mundo mobile com React-Native"
-  description: "Nesse workshop aprenderemos os princípios do React-Native e como a programação mobile está a um passo de distância para quem tem conhecimento em js e front-end para web. Para treinar as suas habilidades, faremos um app parecido com o Instagram usando os conceitos aprendidos. O workshop será dividido em duas partes, uma pela manhã e outra pela tarde."
-  subtype: workshop
-  speakers: [8,9]
+  title: "Inteligência Artificial com IBM Watson em Node.js"
+  description: "A proposta é mostrar como treinar os serviços de Inteligência Artificial do IBM Watson para desenvolver um ChatBot e consumí-lo em aplicação desenvolvida em Node.js"
+  subtype: presentation
+  speakers: [22]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Iniciante"
 -
   id: 009
-  title: "Apps mobile performáticos com Javascript"
-  description: "Seria possível desenvolver apps mobile para iOS e Android a partir de um único código fonte com performance nativa (ou superior) utilizando apenas seus conhecimentos de JavaScript para web? Descubra todo o poder que React Native tem e porque utilizá-lo no dia a dia da sua empresa."
+  title: "O presente e o futuro de apps na web"
+  description: "<p>A web evoluiu muito desde seu surgimento, quando foi pensada como uma teia de documentos interconectados. Nesse tempo, surgiram os smartphones e, com eles, as plataformas de aplicativos. Os apps atendiam demandas que a web, focada em documentos, não podia: acessavam sensores e câmeras para produzir UIs dinâmicas e com excelente performance.
+
+Mas muito mudou desde então, e muitos dos casos de uso de apps nativos são atendidos pela Web, sem abrir mão de sua acessibilidade e interoperabilidade. Alguns exemplos das muitas funcionalidades que foram incorporadas desde então são:</p>
+<ul>
+<li> Melhorias de performance: WebGL e WebAssembly</li>
+<li> Novas mídias: WebVR e WebMIDI</li>
+<li> Comunicação: WebRTC</li>
+<li> Paralelismo: Web worker, Shared worker</li>
+<li> Acesso a periféricos e sensores: geolocalização, câmeras, microfones, acelerômetro e gamepad</li>
+<li> Persistência de dados: IndexedDB, Local e Session Storages</li>
+<li> Inspiradas em apps nativos: sincronização em background, web apps instaláveis (PWA) e notificações</li>
+</ul>
+<p>
+O que quer dizer que talvez você não precise de plataformas como o Android e o iOS para desenvolver seu próximo aplicativo. Mas, se seu caso de uso ainda não é atendido, a Web continua crescendo. Alguns exemplos de funcionalidades em fase de consideração, especificação ou implementação são:</p>
+<ul>
+<li> PWAs no desktop</li>
+<li> WebAuthn</li>
+<li> Payment Request API</li>
+<li> WebXR (augmented and virtual reality)</li>
+<li> Web Bluetooth</li>
+<li> Web Share</li>
+<li> Hard links</li>
+<li> Web USB</li>
+</ul>
+<p>
+Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   subtype: presentation
-  speakers: [10]
+  speakers: [13]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Iniciante"
 -
   id: 010
-  title: "Desenvolvimento Ágil com JavaScript"
-  description: "Algumas ferramentas e dicas para aumentar a sua produtividade e diminuir o tempo de deploy da sua aplicação para produção."
-  subtype: presentation
-  speakers: [11]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 011
-  title: "Node? JavaScript no servidor? WTF?"
-  description: "O que é Node.js? Por que utilizar JavaScript no lado do servidor? Como funciona? Escala? Qual a empresa por trás do projeto? É difícil? Onde posso aprender? Nesta palestra vamos entender melhor sobre essa plataforma de desenvolvimento que vem abrindo muitas portas no mercado e derrubando plataformas já consagradas."
-  subtype: presentation
-  speakers: [12]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 012
   title: "Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP."
   description: "Nessa talk você vai conhecer a fundo as Accelerated Mobile Pages, projeto Open Source endorsado pelo Google que permite a criação de páginas web com renderização praticamente instantânea. Saiba a fundo as novidades do projeto, como implementar no seu produto e as enormes vantagens que o AMP tem para o desenvolvimento de webapps."
   subtype: presentation
   speakers: [13]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"
 -
   id: 013
   title: "Understanding Memory Behavior on NodeJS"
@@ -155,7 +108,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [14]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"
 -
   id: 014
   title: "Código Limpo"
@@ -163,7 +116,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [15]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"
 -
   id: 015
   title: "Progressive Web Apps: the much-hyped future"
@@ -171,7 +124,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [16]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Iniciante"
 -
   id: 123
   title: "Por que Stanford trocou Java por JavaScript?"
@@ -179,7 +132,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [17]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Iniciante"
 -
   id: 124
   title: "Experiências interativas com p5.js"
@@ -187,7 +140,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [18]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Iniciante"
 -
   id: 019
   title: "Docker no desenvolvimento Web"
@@ -195,7 +148,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [19]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"
 -
   id: 020
   title: "WebRTC From Zero to Hero"
@@ -219,7 +172,7 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [22]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"
 -
   id: 016
   title: "Almoço"
@@ -247,4 +200,4 @@ Estruturas que vamos construir:
   subtype: presentation
   speakers: [20]
   language: pt-BR
-  complexity: "Intermediate"
+  complexity: "Intermediário"

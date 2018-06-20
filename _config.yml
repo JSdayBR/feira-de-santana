@@ -30,7 +30,7 @@ organizerEmail: "jsdaybr@gmail.com"
 
 # Head
 metaKeywords: "event, javascript, js, angular, google maps, 
-ionic, firebase, aplicativos híbridos, nodebots"
+ionic, firebase, aplicativos híbridos, node"
 twitterAccount: "@jsdaybr"
 socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2018.png"
 socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2018.png"
@@ -45,7 +45,7 @@ Feira de Santana 2018"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
