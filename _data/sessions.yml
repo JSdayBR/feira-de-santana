@@ -93,86 +93,86 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   speakers: [13]
   language: pt-BR
   complexity: "Iniciante"
--
-  id: 010
-  title: "Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP."
-  description: "Nessa talk você vai conhecer a fundo as Accelerated Mobile Pages, projeto Open Source endorsado pelo Google que permite a criação de páginas web com renderização praticamente instantânea. Saiba a fundo as novidades do projeto, como implementar no seu produto e as enormes vantagens que o AMP tem para o desenvolvimento de webapps."
-  subtype: presentation
-  speakers: [13]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 013
-  title: "Understanding Memory Behavior on NodeJS"
-  description: "A ideia a palestra é falar sobre memória no nodejs (V8) e também sobre o spidermonkey[Firefox]), problemas comuns e mais complexos de leaks. Apresentando como debugar, detectar e resolver problemas com memória, além de mostrar casos reais de memory leaks da globo.com."
-  subtype: presentation
-  speakers: [14]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 014
-  title: "Código Limpo"
-  description: "Escrever código é algo fácil o difícil é manter seu código limpo, legível por muito tempo sem transformá-lo em um código legado. Irei abordar várias práticas e princípios que nos ajudam a escrever e manter o código limpo."
-  subtype: presentation
-  speakers: [15]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 015
-  title: "Progressive Web Apps: the much-hyped future"
-  description: "Progressive Web Apps(PWA) são páginas web vitaminadas que graças aos ServiceWorkers e ao App Shell possibilitam uma experiência semelhante a um aplicativo nativo. Nessa palestra iremos descobrir como fazer PWAs utilizando React e entender como podemos mudar a forma que entregamos conteúdo aos usuários."
-  subtype: presentation
-  speakers: [16]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 123
-  title: "Por que Stanford trocou Java por JavaScript?"
-  description: "Uma palestra de provocação para que a platéia pense sobre como ensinamos software hoje e como deveríamos estar ensinando amanhã, se quisermos que mais pessoas se interessem por programação (e porque isso é importante para o futuro)."
-  subtype: presentation
-  speakers: [17]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 124
-  title: "Experiências interativas com p5.js"
-  description: "p5js é uma biblioteca JS que fornece um ambiente interativo e gráfico baseado nos princípios do Processing, linguaguem de programação voltada para criativos e artistas. Nesta talk você vai conhecer um case que une jogos, interatividade e ativismo."
-  subtype: presentation
-  speakers: [18]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 019
-  title: "Docker no desenvolvimento Web"
-  description: "Cada vez mais vemos a comunidade de desenvolvimento de software falar mais e mais sobre como entregar software de maneira rápida e com qualidade, onde DevOps, Entrega e Integração Contínua fazem parte dessas discussões. Baseado nisso, Docker se tornou uma das palavras do momento. Depois do uso das máquinas virtuais, atualmente tem se falado muito da conteinerização das aplicações. A idéia é mostrar como usar docker em uma aplicação React com um servidor ExpressJS. Serão abordados temas de \"mount volume\", docker-compose, testes em containers, deploy com docker, práticas para dockerizar aplicações web. E a pergunta de 1 milhão de dólares para que serve esse Docker e quais as vantagens de usar ele. Entenda em como \"dockerizar\" uma aplicação pode ajudar no desenvolvimento e na entrega dela."
-  subtype: presentation
-  speakers: [19]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 020
-  title: "WebRTC From Zero to Hero"
-  description: "The presentation covers the main pillars of WebRTC which is video - audio calling and file sharing. It includes a well prepared demo with interaction with the audience, top-notch news and help to get started."
-  subtype: presentation
-  speakers: [21]
-  language: en
-  complexity: "Advanced"
--
-  id: 021
-  title: "GraphQL beyond the limit"
-  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding). <p>Please have your own laptop with npm / yarn, node, RethinkDB pre-installed.</p> <p>Schedule.js</p> <ol> <li>What is GraphQL, why is it good?</li> <li> Running Graphiql and writing your first schema. </li><li> Learning Sequelize and connecting to the RethinkDB database. </li><li> Merging Sequelize with GraphQL. </li><li> Writing Mutations.</li></ol>"
-  subtype: workshop
-  speakers: [21]
-  language: en
-  complexity: "Advanced"
--
-  id: 022
-  title: "Transformação Digital e IoT com sistemas cognitivos"
-  description: "Será abordada o impacto da transformação digital na vida das pessoas e nos negócios, e como os sitemas de inteligência artificial melhoram exponencialmente a experiência do usuário / cliente. Além disso como é possível capturar dados em real time e na ponta através de IoT. Por fim, ChatBots, o que é, para que serve o que desenvolver um?"
-  subtype: presentation
-  speakers: [22]
-  language: pt-BR
-  complexity: "Intermediário"
+#-
+#  id: 010
+#  title: "Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP."
+#  description: "Nessa talk você vai conhecer a fundo as Accelerated Mobile Pages, projeto Open Source endorsado pelo Google que permite a criação de páginas web com renderização praticamente instantânea. Saiba a fundo as novidades do projeto, como implementar no seu produto e as enormes vantagens que o AMP tem para o desenvolvimento de webapps."
+#  subtype: presentation
+#  speakers: [13]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 013
+#  title: "Understanding Memory Behavior on NodeJS"
+#  description: "A ideia a palestra é falar sobre memória no nodejs (V8) e também sobre o spidermonkey[Firefox]), problemas comuns e mais complexos de leaks. Apresentando como debugar, detectar e resolver problemas com memória, além de mostrar casos reais de memory leaks da globo.com."
+#  subtype: presentation
+#  speakers: [14]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 014
+#  title: "Código Limpo"
+#  description: "Escrever código é algo fácil o difícil é manter seu código limpo, legível por muito tempo sem transformá-lo em um código legado. Irei abordar várias práticas e princípios que nos ajudam a escrever e manter o código limpo."
+#  subtype: presentation
+#  speakers: [15]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 015
+#  title: "Progressive Web Apps: the much-hyped future"
+#  description: "Progressive Web Apps(PWA) são páginas web vitaminadas que graças aos ServiceWorkers e ao App Shell possibilitam uma experiência semelhante a um aplicativo nativo. Nessa palestra iremos descobrir como fazer PWAs utilizando React e entender como podemos mudar a forma que entregamos conteúdo aos usuários."
+#  subtype: presentation
+#  speakers: [16]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 123
+#  title: "Por que Stanford trocou Java por JavaScript?"
+#  description: "Uma palestra de provocação para que a platéia pense sobre como ensinamos software hoje e como deveríamos estar ensinando amanhã, se quisermos que mais pessoas se interessem por programação (e porque isso é importante para o futuro)."
+#  subtype: presentation
+#  speakers: [17]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 124
+#  title: "Experiências interativas com p5.js"
+#  description: "p5js é uma biblioteca JS que fornece um ambiente interativo e gráfico baseado nos princípios do Processing, linguaguem de programação voltada para criativos e artistas. Nesta talk você vai conhecer um case que une jogos, interatividade e ativismo."
+#  subtype: presentation
+#  speakers: [18]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 019
+#  title: "Docker no desenvolvimento Web"
+#  description: "Cada vez mais vemos a comunidade de desenvolvimento de software falar mais e mais sobre como entregar software de maneira rápida e com qualidade, onde DevOps, Entrega e Integração Contínua fazem parte dessas discussões. Baseado nisso, Docker se tornou uma das palavras do momento. Depois do uso das máquinas virtuais, atualmente tem se falado muito da conteinerização das aplicações. A idéia é mostrar como usar docker em uma aplicação React com um servidor ExpressJS. Serão abordados temas de \"mount volume\", docker-compose, testes em containers, deploy com docker, práticas para dockerizar aplicações web. E a pergunta de 1 milhão de dólares para que serve esse Docker e quais as vantagens de usar ele. Entenda em como \"dockerizar\" uma aplicação pode ajudar no desenvolvimento e na entrega dela."
+#  subtype: presentation
+#  speakers: [19]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 020
+#  title: "WebRTC From Zero to Hero"
+#  description: "The presentation covers the main pillars of WebRTC which is video - audio calling and file sharing. It includes a well prepared demo with interaction with the audience, top-notch news and help to get started."
+#  subtype: presentation
+#  speakers: [21]
+#  language: en
+#  complexity: "Advanced"
+#-
+#  id: 021
+#  title: "GraphQL beyond the limit"
+#  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding). <p>Please have your own laptop with npm / yarn, node, RethinkDB pre-installed.</p> <p>Schedule.js</p> <ol> <li>What is GraphQL, why is it good?</li> <li> Running Graphiql and writing your first schema. </li><li> Learning Sequelize and connecting to the RethinkDB database. </li><li> Merging Sequelize with GraphQL. </li><li> Writing Mutations.</li></ol>"
+#  subtype: workshop
+#  speakers: [21]
+#  language: en
+#  complexity: "Advanced"
+#-
+#  id: 022
+#  title: "Transformação Digital e IoT com sistemas cognitivos"
+#  description: "Será abordada o impacto da transformação digital na vida das pessoas e nos negócios, e como os sitemas de inteligência artificial melhoram exponencialmente a experiência do usuário / cliente. Além disso como é possível capturar dados em real time e na ponta através de IoT. Por fim, ChatBots, o que é, para que serve o que desenvolver um?"
+#  subtype: presentation
+#  speakers: [22]
+#  language: pt-BR
+#  complexity: "Intermediário"
 -
   id: 016
   title: "Almoço"
@@ -193,11 +193,11 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   id: 666
   title: "A definir"
   service: true
--
-  id: 023
-  title: "Benefícios da Programação Funcional em Softwares de Larga Escala"
-  description: ""
-  subtype: presentation
-  speakers: [20]
-  language: pt-BR
-  complexity: "Intermediário"
+#-
+#  id: 023
+#  title: "Benefícios da Programação Funcional em Softwares de Larga Escala"
+#  description: ""
+#  subtype: presentation
+#  speakers: [20]
+#  language: pt-BR
+#  complexity: "Intermediário"
