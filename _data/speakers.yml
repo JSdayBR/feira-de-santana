@@ -74,48 +74,46 @@ Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
     - {name: "twitter", link: "https://twitter.com/vhfmag"}
     - {name: "github", link: "https://github.com/vhfmag"}
     - {name: "linkedin", link: "https://linkedin.com/in/vhfmag"}
-#- 
-#  id: 11
-#  name: "Álvaro"
-#  surname: "Viebrantz"
-#  company: "Leverege"
-#  title: "Product Engineer"
-#  bio: "Google Developer Expert em IoT, organizador dos grupos DevMT e Google Developers Group Cuiabá. Palestrante sobre temas como desenvolvimento móvel, internet das coisas e computação em nuvem. Tem experiência como desenvolvedor na startup Procurix e no Estuda.com. Formado em Ciência da Computação pela UFMT.  Product Engineer na Leverege.com."
-#  thumbnailUrl: alvaro.png
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://www.twitter.com/alvaroviebrantz"}
-#    - {name: "github", link: "https://github.com/alvarowolfx"}
-#    - {name: "linkedin", link: "https://linkedin.com/in/alvaro-viebrantz-55119048"}
-#    - {name: "site", link: "https://developers.google.com/experts/people/alvaro-viebrantz"}
-#    - {name: "facebook", link: "https://facebook.com/alvarowolfx"}
-#    - {name: "site", link: "https://aviebrantz.com.br/"}
-#- 
-#  id: 19
-#  name: "Roselma"
-#  surname: "Mendes"
-#  company: "ThoughtWorks"
-#  title: "Consultora Desenvolvedora"
-#  bio: "Feminista Negra que ama programação. Baiana. Familia de Irará. Uma ThoughtWorker com quase 7 anos de experiência na área de desenvolvimento. Curte programação Web, fullstack, backend. Se interessa por Arquitetura de Sistemas: Entrega de Software, um pouco de Infra, design de aplicações, segurança, e por ai vai."
-#  thumbnailUrl: roselma.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/roselmamendes"}
-#    - {name: "github", link: "https://github.com/roselmamendes"}
-#    - {name: "medium", link: "https://medium.com/@roselmamendes"}
-#-
-#  id: 5
-#  name: "Diego"
-#  surname: "Leite"
-#  company: "AdMobilize"
-#  title: "Desenvolvedor de Software"
-#  bio: "Apaixonado por software livre, em especial JavaScript. Graduando em Engenharia de Computação pela UEFS. Trabalha no time de processamento de imagens de uma startup de Miami chamada AdMobilize. Desenvolvedor Node.js em uma startup de Feira de Santana chamada Tamse."
-#  thumbnailUrl: diegoleite.jpg
-#  rockstar: false
-#  social:    
-#    - {name: "github", link: "https://github.com/di3goleite"}
-#    - {name: "twitter", link: "https://twitter.com/di3goleite"}
-#    - {name: "facebook", link: "https://facebook.com/di3goleite"}
+- 
+  id: 11
+  name: "Walter"
+  surname: "Gandarella"
+  company: "Clínica da Obesidade"
+  title: "Analista de Sistemas"
+  bio: "Desenvolvedor web desde 2002, quando começou trabalhando com ASP 3.0, hoje se especializou em desenvolver para web usando Angular, Node e MongoDB como tecnologias preferidas."
+  thumbnailUrl: walter.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/jebinha"}
+    - {name: "github", link: "https://github.com/wgbn"}
+- 
+  id: 19
+  name: "Victor"
+  surname: "Nascimento"
+  company: ""
+  title: ""
+  bio: "Engenheiro de Computação apaixonado por novas tecnologias, desenvolvo pra Web há mais de 4 anos. Vivi a universidade, fiz intercâmbio na Holanda e atualmente trabalho como Dev fullstack e professor de inglês / coding. Curto eletrônica, robótica, projetos open-source / open-hardware e, claro, desenvolvimento web com tecnologia de ponta."
+  thumbnailUrl: victornascimento.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/vjoao"}
+    - {name: "facebook", link: "https://www.facebook.com/vmjoao"}
+-
+  id: 5
+  name: "Rodrigo"
+  surname: "Alves"
+  company: "NativApps"
+  title: "Tutor Web"
+  bio: "Tenho 31 anos, casado e pai de autista super gente fina e 3 lindas princesas. Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente. Ama comer comida baiana, muita carne, cuscuz, tapioca e claro, pizza! Hobby predileto é tocar violão e passear com a família. E autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
+  thumbnailUrl: rodrigoalves.jpg
+  rockstar: false
+  social:    
+    - {name: "github", link: "https://github.com/profalves"}
+    - {name: "twitter", link: "https://twitter.com/prof_alves"}
+    - {name: "facebook", link: "https://facebook.com/professoralves"}
+    - {name: "site", link: "http://rodrigoalves.hol.es"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
+    - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
 -
    id: 6
    name: "Matheus"
