@@ -93,38 +93,38 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   speakers: [13]
   language: pt-BR
   complexity: "Iniciante"
-#-
-#  id: 010
-#  title: "Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP."
-#  description: "Nessa talk você vai conhecer a fundo as Accelerated Mobile Pages, projeto Open Source endorsado pelo Google que permite a criação de páginas web com renderização praticamente instantânea. Saiba a fundo as novidades do projeto, como implementar no seu produto e as enormes vantagens que o AMP tem para o desenvolvimento de webapps."
-#  subtype: presentation
-#  speakers: [13]
-#  language: pt-BR
-#  complexity: "Intermediário"
-#-
-#  id: 013
-#  title: "Understanding Memory Behavior on NodeJS"
-#  description: "A ideia a palestra é falar sobre memória no nodejs (V8) e também sobre o spidermonkey[Firefox]), problemas comuns e mais complexos de leaks. Apresentando como debugar, detectar e resolver problemas com memória, além de mostrar casos reais de memory leaks da globo.com."
-#  subtype: presentation
-#  speakers: [14]
-#  language: pt-BR
-#  complexity: "Intermediário"
-#-
-#  id: 014
-#  title: "Código Limpo"
-#  description: "Escrever código é algo fácil o difícil é manter seu código limpo, legível por muito tempo sem transformá-lo em um código legado. Irei abordar várias práticas e princípios que nos ajudam a escrever e manter o código limpo."
-#  subtype: presentation
-#  speakers: [15]
-#  language: pt-BR
-#  complexity: "Intermediário"
-#-
-#  id: 015
-#  title: "Progressive Web Apps: the much-hyped future"
-#  description: "Progressive Web Apps(PWA) são páginas web vitaminadas que graças aos ServiceWorkers e ao App Shell possibilitam uma experiência semelhante a um aplicativo nativo. Nessa palestra iremos descobrir como fazer PWAs utilizando React e entender como podemos mudar a forma que entregamos conteúdo aos usuários."
-#  subtype: presentation
-#  speakers: [16]
-#  language: pt-BR
-#  complexity: "Iniciante"
+-
+  id: 010
+  title: "Produtividade e Agilidade com Sails.js 1.0"
+  description: "Frameworks são polêmicos. Há que os ame, há quem os odeie e há quem sabe extrair o melhor deles. Sails.js torna sua tarefa de montar um backend Node muito mais produtiva e lhe deixa mais tempo para desenvolver sua regra de negócio sem se preocupar muito com a administração do seu ecossistema."
+  subtype: presentation
+  speakers: [11]
+  language: pt-BR
+  complexity: "Intermediário"
+-
+  id: 011
+  title: "Gerenciamento do fluxo de dados no Vue"
+  description: "A preocupação com o fluxo de dados em aplicações web de crescente complexidade sempre esteve presente. Com o Vue não é diferente e o próprio time pensou nisso nos presenteando com o vuex: sua implementação da arquitetura flux para facilitar a vida para nós, meros mortais. Com o vuex é possível saber, a cada momento, todas as ações que causaram mudanças de estado na sua aplicação, o que a torna muito mais previsível, fácil de debugar e até permite viajar no tempo."
+  subtype: presentation
+  speakers: [19]
+  language: pt-BR
+  complexity: "Intermediário"
+-
+  id: 012
+  title: "Quasar framework, o IONIC do Vuejs"
+  description: "Comparável ao Angular, o VueJS vem crescendo muito como lib javascript. Também pode ser usado como um framework progressivo e é conhecido pela sua incrível reatividade. O Quasar framework que se equipara muito com o Ionic Framework, porém trabalha com o VueJS ao invés do Angular. Ele permite um desenvolvimento mais ágil e produtivo com componentes pré-desenvolvidos onde podem ser encontrados na sua documentação oficial. Será abordado o Quasar Framework e sua wrapper do Córdova e Eléctron. Mostrarei como é tão pequena a curva de aprendizado do VueJS e a facilidade de se usar o Quasar Framework, principalmente para quem nunca teve contato ainda com algum framework Javascript antes."
+  subtype: presentation
+  speakers: [5]
+  language: pt-BR
+  complexity: "Iniciante"
+-
+  id: 013
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [16]
+  language: pt-BR
+  complexity: "Iniciante"
 #-
 #  id: 123
 #  title: "Por que Stanford trocou Java por JavaScript?"
