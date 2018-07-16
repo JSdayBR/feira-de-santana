@@ -52,12 +52,12 @@ bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -69,7 +69,7 @@ heroButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612", text: "Participe!"} 
  - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de 
 Santana 2018", text: "Seja um patrocinador"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
