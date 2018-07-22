@@ -125,14 +125,14 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   speakers: [16]
   language: pt-BR
   complexity: "Iniciante"
-#-
-#  id: 123
-#  title: "Por que Stanford trocou Java por JavaScript?"
-#  description: "Uma palestra de provocação para que a platéia pense sobre como ensinamos software hoje e como deveríamos estar ensinando amanhã, se quisermos que mais pessoas se interessem por programação (e porque isso é importante para o futuro)."
-#  subtype: presentation
-#  speakers: [17]
-#  language: pt-BR
-#  complexity: "Iniciante"
+-
+  id: 014
+  title: "Lightning talks"
+  description: "Uma lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores (Wikipedia). Os palestrantes terão <em>5 minutos</em> e deverão se cadastrar no dia do evento até o horário do coffee break da tarde. Todos deverão entregar suas apresentações (em PDF) previamente para a organização e usarão o mesmo equipamento. Mais informações serão dadas no dia."
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  complexity: "Iniciante"
 #-
 #  id: 124
 #  title: "Experiências interativas com p5.js"
