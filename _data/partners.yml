@@ -12,7 +12,7 @@
   group: ""
   elements:
     - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
-#    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "400px"}
+    - {name: "Editora Sanar", description: "Editora Sanar", link: "https://www.editorasanar.com.br/", imageUrl: "sanar.png", width: "400px"}
 #-    
 #  group: ""
 #  elements:
