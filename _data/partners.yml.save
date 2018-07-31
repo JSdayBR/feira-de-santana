@@ -1,0 +1,53 @@
+-
+  group: ""
+  elements:
+#    - {name: "ADMobilize", description: "", link: "http://admobilize.com", imageUrl: "admobilize.jpeg", width: "545px"}        
+    - {name: "FAT", description: "Conheça a FAT, uma das melhores Instituições de ensino da Bahia.", link: "http://www.fat.edu.br/index", imageUrl: "fat.png", width: "545px"}        
+#-
+#  group: ""
+#  elements:
+#    - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
+#    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "400px"}    
+#-    
+#  group: ""
+#  elements:
+#    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
+#    - {name: "ThoughtWorks", description: "Sempre criando, sempre entregando", link: "https://www.thoughtworks.com/", imageUrl: "tw.png", width: "400px"}
+#-    
+#  group: ""
+#  elements:
+#    - {name: "MATRIX Labs", description: "The complete creation platform to connect and sense the physical world.", link: "http://www.matrixlabs.ai/", imageUrl: "matrixlabs.png", width: "400px"}
+#    - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "350px"}
+
+#-
+#  group: ""
+#  elements:
+#    - {name: "PowerZAP", description: "", link: "http://powerzap.com.br", imageUrl: "powerzap.png", width: "250px"}        
+#    - {name: "Lince Web", description: "", link: "http://linceweb.com.br", imageUrl: "linceweb.png", width: "250px"}
+#    - {name: "Artics", description: "Artics - Aplicativos Educacionais", link: "http://artics.com.br/", imageUrl: "artics.png", width: "250px"}
+#    - {name: "meuesporte.com", description: "meuesporte.com", link: "http://www.meuesporte.com", imageUrl: "meuesporte.png", width: "250px"}        
+#-
+#  group: ""
+#  elements:
+#    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
+#    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
+#    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
+-
+  group: "Bronze"
+  elements:
+#    - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
+#    - {name: "Unixstickers", description: "Unixstickers", link: "http://www.unixstickers.com/", imageUrl: "unixstickers.png", width: "260px"}    
+#    - {name: "app2sales", description: "Criando aplicativos incríveis", link: "http://www.app2sales.com.br/", imageUrl: "app2sales.png", width: "260px"}    
+     - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl:"caroli.png", width: "260px"}
+-
+  group: "Apoio"
+  elements:    
+#    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "160px"}
+#    - {name: "Club4Work", description: "Coworking: Clube de Trabalho feito para programadores e startups de tecnologia.", link: "https://www.facebook.com/club4work/", imageUrl: "club4work.jpg", width: "160px"}
+    - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
+-
+  group: ""
+  elements:
+    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "170px"}        
+#    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
+    - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "160px"}

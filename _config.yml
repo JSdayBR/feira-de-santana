@@ -154,7 +154,7 @@ ticketsOffers:
   price: "80"
   priceCurrency: "R$"
   buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612"
-  buyButtonText: "Participe!"
+  buyButtonText: "Esgotado!"
   validFrom: "2017-07-07T00:00"
   validThrough: "2017-07-28T23:59"
  -
@@ -162,7 +162,7 @@ ticketsOffers:
   price: "120"
   priceCurrency: "R$"
   buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2018__255612"
-  buyButtonText: "Em breve!"
+  buyButtonText: "Participe!"
   validFrom: "2017-07-29T00:00"
   validThrough: "2017-07-11T00:00" 
 # Footer
