@@ -42,7 +42,7 @@
   group: "Apoio"
   elements:    
 #    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "160px"}
-#    - {name: "Club4Work", description: "Coworking: Clube de Trabalho feito para programadores e startups de tecnologia.", link: "https://www.facebook.com/club4work/", imageUrl: "club4work.jpg", width: "160px"}
+    - {name: "Atelier Piu Bella", description: "Convites e papelaria para casamento. Encadernação e bottons personalizados.", link: "https://www.instagram.com/atelierpiubella/", imageUrl: "piubella.png", width: "160px"}
     - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
 -
   group: ""
