@@ -2,17 +2,17 @@
   group: ""
   elements:
 #    - {name: "ADMobilize", description: "", link: "http://admobilize.com", imageUrl: "admobilize.jpeg", width: "545px"}        
-    - {name: "FAT", description: "Conheça a FAT, uma das melhores Instituições de ensino da Bahia.", link: "http://www.fat.edu.br/index", imageUrl: "fat.png", width: "545px"}        
+#    - {name: "FAT", description: "Conheça a FAT, uma das melhores Instituições de ensino da Bahia.", link: "http://www.fat.edu.br/index", imageUrl: "fat.png", width: "545px"}        
 #-
 #  group: ""
 #  elements:
 #    - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
 #    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "400px"}    
--    
-  group: ""
-  elements:
-    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
-    - {name: "Editora Sanar", description: "Editora Sanar", link: "https://www.editorasanar.com.br/", imageUrl: "sanar.png", width: "400px"}
+#-    
+#  group: ""
+#  elements:
+#    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/br-pt/", imageUrl: "ibm.jpg", width: "400px"}
+#    - {name: "Editora Sanar", description: "Editora Sanar", link: "https://www.editorasanar.com.br/", imageUrl: "sanar.png", width: "400px"}
 #-    
 #  group: ""
 #  elements:
@@ -31,18 +31,18 @@
 #    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
 #    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
 #    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
--
-  group: ""
-  elements:
-    - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
-    - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io/", imageUrl: "cubos.svg", width: "260px"}    
-    - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "260px"}    
-    - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl: "caroli.png", width: "260px"}
+#-
+#  group: ""
+#  elements:
+#    - {name: "Novatec", description: "Livros de Informática, Marketing Digital e Negócios", link: "https://www.novatec.com.br/", imageUrl: "novatec.jpg", width: "250px"}    
+#    - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io/", imageUrl: "cubos.svg", width: "260px"}    
+#    - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "260px"}    
+#    - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl: "caroli.png", width: "260px"}
 -
   group: "Apoio"
   elements:    
 #    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "160px"}
-    - {name: "Atelier Piu Bella", description: "Convites e papelaria para casamento. Encadernação e bottons personalizados.", link: "https://www.instagram.com/atelierpiubella/", imageUrl: "piubella.png", width: "160px"}
+#    - {name: "Atelier Piu Bella", description: "Convites e papelaria para casamento. Encadernação e bottons personalizados.", link: "https://www.instagram.com/atelierpiubella/", imageUrl: "piubella.png", width: "160px"}
     - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
 -
   group: ""
