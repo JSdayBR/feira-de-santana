@@ -93,19 +93,19 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Auditório Ernestina Silva Lima"
-eventLocationLink: "http://www.fat.edu.br/"
-eventStreetAddress: "R. Gen. João Costa, 122 - Ponto Central, Feira de Santana - BA"
+eventLocationName: "FTC"
+eventLocationLink: "http://ftc.edu.br/"
+eventStreetAddress: "Rua Artêmia Pires Freitas, s/n, SIM. CEP: 44.085-370, SIM"
 eventAddressLocality: "Feira de Santana"
-eventAddressLocalityRegion: "BA"
-eventPostalCode: "44075-505"
+eventAddressLocalityRegion: "Bahia"
+eventPostalCode: "44085-370"
 eventAddressCountry: "Brasil"
-eventStartTime: "2018-08-11T08:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-08-11T18:00"
-eventPlaceCoordinates: "-12.2588564,-38.9535472,21"
-mapCenterCoordinates: "-12.2588564,-38.9535472,21"
-mapMobileCenterCoordinates: "-12.2588564,-38.9535472,21"
+eventStartTime: "2018-12-08T08:00"
+eventDoorTime: "08:30"
+eventEndTime: "2018-12-08T18:30"
+eventPlaceCoordinates: "-12.2468695, -38.9247064"
+mapCenterCoordinates: "-12.2468695, -38.9247064"
+mapMobileCenterCoordinates: "-12.2468695, -38.9247064"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -113,8 +113,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "FAT"
-venueFeatures: ["Localizado próximo à Avenida Maria Quitéria", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
+venueTitle: "FTC"
+venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
