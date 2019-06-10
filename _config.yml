@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2019.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link"
-c4sponsorsUrl: "https://docs.google.com/presentation/d/13l96BhaRf12rlKHk4cYSjiEh61mohUfnlJN3mhjedYI/edit?usp=sharing"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana"
 
 # Navigation
 navigationLinks:
@@ -49,11 +49,11 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "https://docs.google.com/presentation/d/13l96BhaRf12rlKHk4cYSjiEh61mohUfnlJN3mhjedYI/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "https://docs.google.com/presentation/d/13l96BhaRf12rlKHk4cYSjiEh61mohUfnlJN3mhjedYI/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # Hero Block
