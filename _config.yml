@@ -64,7 +64,7 @@ typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "https://docs.google.com/presentation/d/13l96BhaRf12rlKHk4cYSjiEh61mohUfnlJN3mhjedYI/edit#slide=id.g1d6cff5b06_0_0", text: "Seja um patrocinador"}
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JS Day Feira de Santana 2019", text: "Seja um patrocinador"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # About Block
