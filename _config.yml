@@ -142,18 +142,18 @@ ticketsOffers:
   price: "25"
   priceCurrency: "R$"
   buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715"
-  buyButtonText: "Participe!"
+  buyButtonText: "Esgotado!"
   validFrom: "2019-06-04T00:00"
   validThrough: "2017-07-06T23:59"
-  featured: true
  -
   name: "1º Lote"
   price: "40"
   priceCurrency: "R$"
   buyButtonLink: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715"
-  buyButtonText: "Em breve!"
+  buyButtonText: "Participe!"
   validFrom: "2018-06-04T00:00"
   validThrough: "2017-07-06T23:59"
+  featured: true
  -
   name: "2º Lote"
   price: "50"
