@@ -1,103 +1,103 @@
-- 
-  id: 21
-  name: "Marília"
-  surname: "Suzart"
-  company: "Cron Soluções"
-  title: "Developer"
-  bio: "Sou uma noob apaixonada por programação desde o primeiro contato no curso técnico de informática e amo ensinar, sou recém graduada em Análise e Desenvolvimento de Sistemas. Tenho experiência com os setores de desenvolvimento web, testes, suporte técnico e atuei como instrutora de informática em projetos da prefeitura e governo. Atualmente busco aprimorar minhas habilidades e fortalecer a comunidade."
-  thumbnailUrl: marilia.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
-    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
-    - {name: "github", link: "https://github.com/gabrielesuzart"}
-- 
-  id: 22
-  name: "Sérgio"
-  surname: "Gama"
-  company: "IBM"
-  title: "Developer Advocate Leader for Latin America"
-  bio: "Engenheiro mecatrônico com mais de 25 anos de experiência em TI, apaixonado por tecnologia e inovação, trabalhou como desenvolvedor, consultor, arquiteto de soluções e gerente de projetos para banco e seguradoras no Brasil, China e Índia. Desde 2009, na IBM, atualmente é Senior Developer Advocate Leader para a América Latina, especialista em desenvolvimento de software, inteligência artificial, Big Data e IoT. É o principal evangelizador da IBM na América Latina, atuando como palestrante em grandes eventos, conferências e congressos no Brasil e no exterior."
-  thumbnailUrl: sergiogama.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiogama/"}
-    - {name: "facebook", link: "https://facebook.com/sergiogama1967"}
-    - {name: "twitter", link: "https://twitter.com/sergiorggama"}
-    - {name: "github", link: "github.com/sergiogama"}
-- 
-  id: 14
-  name: "Ariana"
-  surname: "Pereira"
-  company: "UEFS"
-  title: "Estudante"
-  bio: "Imigrante da Física para a Computação. Entusiasta de tecnologias e ideias além das fronteiras. Atualmente cursa Engenharia de Computação na Universidade Estadual de Feira de Santana e ocupa o cargo de Gerente de redes sociais na Empresa Junior de Computação."
-  thumbnailUrl: ariana.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/arimphysicist"}
-- 
-  id: 15
-  name: "Júnior"
-  surname: "Abranches"
-  company: "i9 Desenvolvimento"
-  title: "Founder e Analista"
-  bio: "Apaixonado por tecnologia focada em desenvolvimento mobile, amante de Futebol (flamenguista), pai e desenvolvedor de aplicativos.
-Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
-  thumbnailUrl: junior.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
-    - {name: "github", link: "https://github.com/juniorabranches"}
-- 
-  id: 17
-  name: "Rabelo"
-  surname: "Filho"
-  company: "IFBA"
-  title: "Professor"
-  bio: "Iniciei carreira como desenvolvedor web em 2004 em uma empresa de comunicação, formado em Engenharia de Computação atuei como profissional liberal no produção e gestão de sistemas web. Atualmente sou professor na área de Informática pelo IFBA."
-  thumbnailUrl: rabelo.jpg
-  rockstar: false
-  social:
-    - {}
-- 
-  id: 13
-  name: "Victor"
-  surname: "Magalhães"
-  company: "Cubos Tecnologia"
-  title: "Head de Front-end"
-  bio: "Desenvolvedor Javascript, eu crio aplicações web responsivas, dinâmicas e responsivas usando tecnologias como Typescript, React, Node e RethinkDB para a Cubos e também escrevo artigos técnicos e de opinião no meu blog. Também experimento as fronteiras da Web com suas mais novas tecnologias, como WebAssembly (com Rust)."
-  thumbnailUrl: victor.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/vhfmag"}
-    - {name: "github", link: "https://github.com/vhfmag"}
-    - {name: "linkedin", link: "https://linkedin.com/in/vhfmag"}
-- 
-  id: 11
-  name: "Walter"
-  surname: "Gandarella"
-  company: "Clínica da Obesidade"
-  title: "Analista de Sistemas"
-  bio: "Desenvolvedor web desde 2002, quando começou trabalhando com ASP 3.0, hoje se especializou em desenvolver para web usando Angular, Node e MongoDB como tecnologias preferidas."
-  thumbnailUrl: walter.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://www.twitter.com/jebinha"}
-    - {name: "github", link: "https://github.com/wgbn"}
-- 
-  id: 19
-  name: "Victor"
-  surname: "Nascimento"
-  company: ""
-  title: ""
-  bio: "Engenheiro de Computação apaixonado por novas tecnologias, desenvolvo pra Web há mais de 4 anos. Vivi a universidade, fiz intercâmbio na Holanda e atualmente trabalho como Dev fullstack e professor de inglês / coding. Curto eletrônica, robótica, projetos open-source / open-hardware e, claro, desenvolvimento web com tecnologia de ponta."
-  thumbnailUrl: victornascimento.jpg
-  rockstar: false
-  social:
-    - {name: "github", link: "https://github.com/vjoao"}
-    - {name: "facebook", link: "https://www.facebook.com/vmjoao"}
+#- 
+#  id: 21
+#  name: "Marília"
+#  surname: "Suzart"
+#  company: "Cron Soluções"
+#  title: "Developer"
+#  bio: "Sou uma noob apaixonada por programação desde o primeiro contato no curso técnico de informática e amo ensinar, sou recém graduada em Análise e Desenvolvimento de Sistemas. Tenho experiência com os setores de desenvolvimento web, testes, suporte técnico e atuei como instrutora de informática em projetos da prefeitura e governo. Atualmente busco aprimorar minhas habilidades e fortalecer a comunidade."
+#  thumbnailUrl: marilia.jpg
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
+#    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
+#    - {name: "github", link: "https://github.com/gabrielesuzart"}
+#- 
+#  id: 22
+#  name: "Sérgio"
+#  surname: "Gama"
+#  company: "IBM"
+#  title: "Developer Advocate Leader for Latin America"
+#  bio: "Engenheiro mecatrônico com mais de 25 anos de experiência em TI, apaixonado por tecnologia e inovação, trabalhou como desenvolvedor, consultor, arquiteto de soluções e gerente de projetos para banco e seguradoras no Brasil, China e Índia. Desde 2009, na IBM, atualmente é Senior Developer Advocate Leader para a América Latina, especialista em desenvolvimento de software, inteligência artificial, Big Data e IoT. É o principal evangelizador da IBM na América Latina, atuando como palestrante em grandes eventos, conferências e congressos no Brasil e no exterior."
+#  thumbnailUrl: sergiogama.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiogama/"}
+#    - {name: "facebook", link: "https://facebook.com/sergiogama1967"}
+#    - {name: "twitter", link: "https://twitter.com/sergiorggama"}
+#    - {name: "github", link: "github.com/sergiogama"}
+#- 
+#  id: 14
+#  name: "Ariana"
+#  surname: "Pereira"
+#  company: "UEFS"
+#  title: "Estudante"
+#  bio: "Imigrante da Física para a Computação. Entusiasta de tecnologias e ideias além das fronteiras. Atualmente cursa Engenharia de Computação na Universidade Estadual de Feira de Santana e ocupa o cargo de Gerente de redes sociais na Empresa Junior de Computação."
+#  thumbnailUrl: ariana.jpg
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/arimphysicist"}
+#- 
+#  id: 15
+#  name: "Júnior"
+#  surname: "Abranches"
+#  company: "i9 Desenvolvimento"
+#  title: "Founder e Analista"
+#  bio: "Apaixonado por tecnologia focada em desenvolvimento mobile, amante de Futebol (flamenguista), pai e desenvolvedor de aplicativos.
+#Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
+#  thumbnailUrl: junior.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
+#    - {name: "github", link: "https://github.com/juniorabranches"}
+#- 
+#  id: 17
+#  name: "Rabelo"
+#  surname: "Filho"
+#  company: "IFBA"
+#  title: "Professor"
+#  bio: "Iniciei carreira como desenvolvedor web em 2004 em uma empresa de comunicação, formado em Engenharia de Computação atuei como profissional liberal no produção e gestão de sistemas web. Atualmente sou professor na área de Informática pelo IFBA."
+#  thumbnailUrl: rabelo.jpg
+#  rockstar: false
+#  social:
+#    - {}
+#- 
+#  id: 13
+#  name: "Victor"
+#  surname: "Magalhães"
+#  company: "Cubos Tecnologia"
+#  title: "Head de Front-end"
+#  bio: "Desenvolvedor Javascript, eu crio aplicações web responsivas, dinâmicas e responsivas usando tecnologias como Typescript, React, Node e RethinkDB para a Cubos e também escrevo artigos técnicos e de opinião no meu blog. Também experimento as fronteiras da Web com suas mais novas tecnologias, como WebAssembly (com Rust)."
+#  thumbnailUrl: victor.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/vhfmag"}
+#    - {name: "github", link: "https://github.com/vhfmag"}
+#    - {name: "linkedin", link: "https://linkedin.com/in/vhfmag"}
+#- 
+#  id: 11
+#  name: "Walter"
+#  surname: "Gandarella"
+#  company: "Clínica da Obesidade"
+#  title: "Analista de Sistemas"
+#  bio: "Desenvolvedor web desde 2002, quando começou trabalhando com ASP 3.0, hoje se especializou em desenvolver para web usando Angular, Node e MongoDB como tecnologias preferidas."
+#  thumbnailUrl: walter.jpg
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link: "https://www.twitter.com/jebinha"}
+#    - {name: "github", link: "https://github.com/wgbn"}
+#- 
+#  id: 19
+#  name: "Victor"
+#  surname: "Nascimento"
+#  company: ""
+#  title: ""
+#  bio: "Engenheiro de Computação apaixonado por novas tecnologias, desenvolvo pra Web há mais de 4 anos. Vivi a universidade, fiz intercâmbio na Holanda e atualmente trabalho como Dev fullstack e professor de inglês / coding. Curto eletrônica, robótica, projetos open-source / open-hardware e, claro, desenvolvimento web com tecnologia de ponta."
+#  thumbnailUrl: victornascimento.jpg
+#  rockstar: false
+#  social:
+#    - {name: "github", link: "https://github.com/vjoao"}
+#    - {name: "facebook", link: "https://www.facebook.com/vmjoao"}
 -
   id: 5
   name: "Rodrigo"
@@ -106,7 +106,7 @@ Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
   title: "CTO"
   bio: "Trabalho na área de computação desde 2011. Trabalhei como Analista de dados, Professor de Informática, Consultor de TI e Desenvolvedor web e mobile. Sou casado e tenho 4 filhos, gosto de comer cuscuz e pizza! Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente, hoje atuo como tutor de cursos de tecnologia para a NextU. Sou autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
   thumbnailUrl: rodrigoalves.jpg
-  rockstar: false
+  rockstar: true
   social:    
     - {name: "github", link: "https://github.com/profalves"}
     - {name: "twitter", link: "https://twitter.com/prof_alves"}
@@ -114,40 +114,40 @@ Trabalho com JS, TS, HTML, CSS, Angular, Ionic, Rails, Delphi, Swift."
     - {name: "site", link: "http://rodrigoalves.hol.es"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
     - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
--
-   id: 6
-   name: "Matheus"
-   surname: "Cardoso"
-   company: ""
-   title: "Freelancer Full Stack Web and Mobile apps Developer"
-   bio: "I'm Matheus Cardoso, a passionate father, a truly researcher and enthusiastic software engineer. I am building web and mobile applications and a life for my son."
-   thumbnailUrl: matheuscardoso.jpeg
-   rockstar: true
-   social:    
-     - {name: "site", link: "https://matheuscas.github.io"}
--
-   id: 9
-   name: "Cássio"
-   surname: "Silva"
-   company: "App2Sales"
-   title: "Desenvolvedor de Software"
-   bio: "Graduando em Engenharia de Computação pela UEFS. Amante de tecnologia e atualmente se aprofundando no mundo JavaScript, da ciência de dados e inteligência artificial."
-   thumbnailUrl: cassio.jpg
-   rockstar: false
-   social:    
-    - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
-- 
-   id: 10
-   name: "Pedro"
-   surname: "Neri"
-   company: "App2Sales"
-   title: "Desenvolvedor de Software"
-   bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo, sempre que pode posta uma resposta no StackOverflow."
-   thumbnailUrl: pedro.jpg
-   rockstar: false
-   social:
-    - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
-    - {name: "github", link: "https://github.com/Pedneri1"}
+#-
+#   id: 6
+#   name: "Matheus"
+#   surname: "Cardoso"
+#   company: ""
+#   title: "Freelancer Full Stack Web and Mobile apps Developer"
+#   bio: "I'm Matheus Cardoso, a passionate father, a truly researcher and enthusiastic software engineer. I am building web and mobile applications and a life for my son."
+#   thumbnailUrl: matheuscardoso.jpeg
+#   rockstar: true
+#   social:    
+#     - {name: "site", link: "https://matheuscas.github.io"}
+#-
+#   id: 9
+#   name: "Cássio"
+#   surname: "Silva"
+#   company: "App2Sales"
+#   title: "Desenvolvedor de Software"
+#   bio: "Graduando em Engenharia de Computação pela UEFS. Amante de tecnologia e atualmente se aprofundando no mundo JavaScript, da ciência de dados e inteligência artificial."
+#   thumbnailUrl: cassio.jpg
+#   rockstar: false
+#   social:    
+#    - {name: "facebook", link: "https://www.facebook.com/ssscassio"}
+#- 
+#   id: 10
+#   name: "Pedro"
+#   surname: "Neri"
+#   company: "App2Sales"
+#   title: "Desenvolvedor de Software"
+#   bio: "Estudante de engenharia de computação na UEFS, apaixonado por tecnologia e empreendedorismo, sempre que pode posta uma resposta no StackOverflow."
+#   thumbnailUrl: pedro.jpg
+#   rockstar: false
+#   social:
+#    - {name: "facebook", link: "https://www.facebook.com/pedrolympio"}
+#    - {name: "github", link: "https://github.com/Pedneri1"}
 #- 
 #  id: 18
 #  name: "Geisa"
