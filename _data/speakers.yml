@@ -12,20 +12,18 @@
 #    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
 #    - {name: "github", link: "https://github.com/gabrielesuzart"}
-#- 
-#  id: 22
-#  name: "Sérgio"
-#  surname: "Gama"
-#  company: "IBM"
-#  title: "Developer Advocate Leader for Latin America"
-#  bio: "Engenheiro mecatrônico com mais de 25 anos de experiência em TI, apaixonado por tecnologia e inovação, trabalhou como desenvolvedor, consultor, arquiteto de soluções e gerente de projetos para banco e seguradoras no Brasil, China e Índia. Desde 2009, na IBM, atualmente é Senior Developer Advocate Leader para a América Latina, especialista em desenvolvimento de software, inteligência artificial, Big Data e IoT. É o principal evangelizador da IBM na América Latina, atuando como palestrante em grandes eventos, conferências e congressos no Brasil e no exterior."
-#  thumbnailUrl: sergiogama.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/sergiogama/"}
-#    - {name: "facebook", link: "https://facebook.com/sergiogama1967"}
-#    - {name: "twitter", link: "https://twitter.com/sergiorggama"}
-#    - {name: "github", link: "github.com/sergiogama"}
+- 
+  id: 1
+  name: "Ruanderson"
+  surname: "Vieira"
+  company: "Huggy"
+  title: "Atendimento Digital, Full-Stack Developer"
+  bio: "Graduando em Sistema de Informação (FTC) e Engenharia Mecatrônica (UNIFACS). Desenvolvedor na Huggy - Atendimento Digital e integrante do GREAT (Grupo de Robótica e Estudos Avançado em Tecnologia) e Alumia (Laboratório Maker). Apaixonado pelo universo de desenvolvimento, automação e robótica, dedicado a criar ideias e protótipos de Internet das Coisas."
+  thumbnailUrl: ruanderson.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ruandersonvieira/"}
+    - {name: "instagram", link: "https://instagram.com/ruandersonvieira"}
 #- 
 #  id: 14
 #  name: "Ariana"
