@@ -10,109 +10,109 @@
   id: 002
   title: "Coffee Break"
   service: true
--
-  id: 003
-  title: "Introdução ao JavaScript"
-  description: "Você já navegou na Web e percebeu efeitos incríveis em algumas páginas enquanto outras são bem simples? Pois bem, o profissional responsável por desenvolver esses efeitos e melhorar a experiência do usuário é o Front-End e ele tem um poderoso aliado, a linguagem de programação JavaScript. 
-Você nunca viu JavaScript? Esse Workshop é para você! Nele você vai aprender os conceitos básicos do JS e escrever suas primeiras linhas de código :3"
-  subtype: workshop
-  speakers: [21,14]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 004
-  title: "Do zero ao npm - Publicando seus componentes react-native"
-  description: "Já pensou em criar o seu componente e disponibilizar para que outros possam reutilizar através dos repositórios do npm ? Se você deseja sair do zero e criar um componente pronto para ser npm installed, nesse workshop você vai aprender todos os truques de como fazer isso da melhor maneira possível.
-"
-  subtype: workshop
-  speakers: [9,10]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 005
-  title: "\"Crawleando o incrawleável\" com Puppeteer"
-  description: "Introduzir o Puppeteer para a comunidade apresentando um caso de crawler sobre páginas não amigáveis. Uma alternativa ao Scrapy + terceiros, Selenium, etc."
-  subtype: presentation
-  speakers: [6]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 006
-  title: "Dominando o Ionic Framework"
-  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
-  subtype: presentation
-  speakers: [15]
-  language: pt-BR
-  complexity: "Intermediário" 
--
-  id: 007
-  title: "Descomplicando seu código JavaScript"
-  description: "Trazer aos ouvintes dicas para um código mais limpo e apresentar o Google JavaScript Style Guide."
-  subtype: presentation
-  speakers: [17]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 008
-  title: "Inteligência Artificial com IBM Watson em Node.js"
-  description: "A proposta é mostrar como treinar os serviços de Inteligência Artificial do IBM Watson para desenvolver um ChatBot e consumí-lo em aplicação desenvolvida em Node.js"
-  subtype: presentation
-  speakers: [22]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 009
-  title: "O presente e o futuro de apps na web"
-  description: "<p>A web evoluiu muito desde seu surgimento, quando foi pensada como uma teia de documentos interconectados. Nesse tempo, surgiram os smartphones e, com eles, as plataformas de aplicativos. Os apps atendiam demandas que a web, focada em documentos, não podia: acessavam sensores e câmeras para produzir UIs dinâmicas e com excelente performance.
-
-Mas muito mudou desde então, e muitos dos casos de uso de apps nativos são atendidos pela Web, sem abrir mão de sua acessibilidade e interoperabilidade. Alguns exemplos das muitas funcionalidades que foram incorporadas desde então são:</p>
-<ul>
-<li> Melhorias de performance: WebGL e WebAssembly</li>
-<li> Novas mídias: WebVR e WebMIDI</li>
-<li> Comunicação: WebRTC</li>
-<li> Paralelismo: Web worker, Shared worker</li>
-<li> Acesso a periféricos e sensores: geolocalização, câmeras, microfones, acelerômetro e gamepad</li>
-<li> Persistência de dados: IndexedDB, Local e Session Storages</li>
-<li> Inspiradas em apps nativos: sincronização em background, web apps instaláveis (PWA) e notificações</li>
-</ul>
-<p>
-O que quer dizer que talvez você não precise de plataformas como o Android e o iOS para desenvolver seu próximo aplicativo. Mas, se seu caso de uso ainda não é atendido, a Web continua crescendo. Alguns exemplos de funcionalidades em fase de consideração, especificação ou implementação são:</p>
-<ul>
-<li> PWAs no desktop</li>
-<li> WebAuthn</li>
-<li> Payment Request API</li>
-<li> WebXR (augmented and virtual reality)</li>
-<li> Web Bluetooth</li>
-<li> Web Share</li>
-<li> Hard links</li>
-<li> Web USB</li>
-</ul>
-<p>
-Nessa talk, exploraremos as novas fronteiras da Web!</p>"
-  subtype: presentation
-  speakers: [13]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 010
-  title: "Produtividade e Agilidade com Sails.js 1.0"
-  description: "Frameworks são polêmicos. Há que os ame, há quem os odeie e há quem sabe extrair o melhor deles. Sails.js torna sua tarefa de montar um backend Node muito mais produtiva e lhe deixa mais tempo para desenvolver sua regra de negócio sem se preocupar muito com a administração do seu ecossistema."
-  subtype: presentation
-  speakers: [11]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 011
-  title: "Gerenciamento do fluxo de dados no Vue"
-  description: "A preocupação com o fluxo de dados em aplicações web de crescente complexidade sempre esteve presente. Com o Vue não é diferente e o próprio time pensou nisso nos presenteando com o vuex: sua implementação da arquitetura flux para facilitar a vida para nós, meros mortais. Com o vuex é possível saber, a cada momento, todas as ações que causaram mudanças de estado na sua aplicação, o que a torna muito mais previsível, fácil de debugar e até permite viajar no tempo."
-  subtype: presentation
-  speakers: [19]
-  language: pt-BR
-  complexity: "Intermediário"
+#-
+#  id: 003
+#  title: "Introdução ao JavaScript"
+#  description: "Você já navegou na Web e percebeu efeitos incríveis em algumas páginas enquanto outras são bem simples? Pois bem, o profissional responsável por desenvolver esses efeitos e melhorar a experiência do usuário é o Front-End e ele tem um poderoso aliado, a linguagem de programação JavaScript. 
+#Você nunca viu JavaScript? Esse Workshop é para você! Nele você vai aprender os conceitos básicos do JS e escrever suas primeiras linhas de código :3"
+#  subtype: workshop
+#  speakers: [21,14]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 004
+#  title: "Do zero ao npm - Publicando seus componentes react-native"
+#  description: "Já pensou em criar o seu componente e disponibilizar para que outros possam reutilizar através dos repositórios do npm ? Se você deseja sair do zero e criar um componente pronto para ser npm installed, nesse workshop você vai aprender todos os truques de como fazer isso da melhor maneira possível.
+#"
+#  subtype: workshop
+#  speakers: [9,10]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 005
+#  title: "\"Crawleando o incrawleável\" com Puppeteer"
+#  description: "Introduzir o Puppeteer para a comunidade apresentando um caso de crawler sobre páginas não amigáveis. Uma alternativa ao Scrapy + terceiros, Selenium, etc."
+#  subtype: presentation
+#  speakers: [6]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 006
+#  title: "Dominando o Ionic Framework"
+#  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
+#  subtype: presentation
+#  speakers: [15]
+#  language: pt-BR
+#  complexity: "Intermediário" 
+#-
+#  id: 007
+#  title: "Descomplicando seu código JavaScript"
+#  description: "Trazer aos ouvintes dicas para um código mais limpo e apresentar o Google JavaScript Style Guide."
+#  subtype: presentation
+#  speakers: [17]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 008
+#  title: "Inteligência Artificial com IBM Watson em Node.js"
+#  description: "A proposta é mostrar como treinar os serviços de Inteligência Artificial do IBM Watson para #desenvolver um ChatBot e consumí-lo em aplicação desenvolvida em Node.js"
+#  subtype: presentation
+#  speakers: [22]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 009
+#  title: "O presente e o futuro de apps na web"
+#  description: "<p>A web evoluiu muito desde seu surgimento, quando foi pensada como uma teia de documentos interconectados. Nesse tempo, surgiram os smartphones e, com eles, as plataformas de aplicativos. Os apps atendiam demandas que a web, focada em documentos, não podia: acessavam sensores e câmeras para produzir UIs dinâmicas e com excelente performance.
+#
+#Mas muito mudou desde então, e muitos dos casos de uso de apps nativos são atendidos pela Web, sem abrir mão #de sua acessibilidade e interoperabilidade. Alguns exemplos das muitas funcionalidades que foram incorporadas desde então são:</p>
+#<ul>
+#<li> Melhorias de performance: WebGL e WebAssembly</li>
+#<li> Novas mídias: WebVR e WebMIDI</li>
+#<li> Comunicação: WebRTC</li>
+#<li> Paralelismo: Web worker, Shared worker</li>
+#<li> Acesso a periféricos e sensores: geolocalização, câmeras, microfones, acelerômetro e gamepad</li>
+#<li> Persistência de dados: IndexedDB, Local e Session Storages</li>
+#<li> Inspiradas em apps nativos: sincronização em background, web apps instaláveis (PWA) e notificações</li>
+#</ul>
+#<p>
+#O que quer dizer que talvez você não precise de plataformas como o Android e o iOS para desenvolver seu #próximo aplicativo. Mas, se seu caso de uso ainda não é atendido, a Web continua crescendo. Alguns exemplos #de funcionalidades em fase de consideração, especificação ou implementação são:</p>
+#<ul>
+#<li> PWAs no desktop</li>
+#<li> WebAuthn</li>
+#<li> Payment Request API</li>
+#<li> WebXR (augmented and virtual reality)</li>
+#<li> Web Bluetooth</li>
+#<li> Web Share</li>
+#<li> Hard links</li>
+#<li> Web USB</li>
+#</ul>
+#<p>
+#Nessa talk, exploraremos as novas fronteiras da Web!</p>"
+#  subtype: presentation
+#  speakers: [13]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 010
+#  title: "Produtividade e Agilidade com Sails.js 1.0"
+#  description: "Frameworks são polêmicos. Há que os ame, há quem os odeie e há quem sabe extrair o melhor deles. Sails.js torna sua tarefa de montar um backend Node muito mais produtiva e lhe deixa mais tempo para desenvolver sua regra de negócio sem se preocupar muito com a administração do seu ecossistema."
+#  subtype: presentation
+#  speakers: [11]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 011
+#  title: "Gerenciamento do fluxo de dados no Vue"
+#  description: "A preocupação com o fluxo de dados em aplicações web de crescente complexidade sempre esteve presente. Com o Vue não é diferente e o próprio time pensou nisso nos presenteando com o vuex: sua implementação da arquitetura flux para facilitar a vida para nós, meros mortais. Com o vuex é possível saber, a cada momento, todas as ações que causaram mudanças de estado na sua aplicação, o que a torna muito mais previsível, fácil de debugar e até permite viajar no tempo."
+#  subtype: presentation
+#  speakers: [19]
+#  language: pt-BR
+#  complexity: "Intermediário"
 -
   id: 012
-  title: "Quasar framework, o IONIC do Vuejs"
-  description: "Comparável ao Angular, o VueJS vem crescendo muito como lib javascript. Também pode ser usado como um framework progressivo e é conhecido pela sua incrível reatividade. O Quasar framework que se equipara muito com o Ionic Framework, porém trabalha com o VueJS ao invés do Angular. Ele permite um desenvolvimento mais ágil e produtivo com componentes pré-desenvolvidos onde podem ser encontrados na sua documentação oficial. Será abordado o Quasar Framework e sua wrapper do Córdova e Eléctron. Mostrarei como é tão pequena a curva de aprendizado do VueJS e a facilidade de se usar o Quasar Framework, principalmente para quem nunca teve contato ainda com algum framework Javascript antes."
+  title: "Aprendendo React-Native com Snack!"
+  description: "A grande vantagem do React-Native é que você pode usar a linguagem de desenvolvimento da Web a que está acostumado e ter que aprender e manter apenas um idioma (JavaScript). Com isso você constrói um aplicativo que se converte em um aplicativo nativo de plataforma cruzada para iOS e Android. Isso torna esta ferramenta tão procurada. Mas os inciantes sempre procuram formas mais básicas para a sua aprendizagem e encontram algumas dores... como Android Studio, Emulador, hardware mínimo e etc. Snack vem como uma luva para quem não quer perder tempo tentando fazer a ferramenta funcionar e mergulhar no aprendizado de uma das ferramentas de desenvolvimento mobile mais utilizadas no mercado. Snack é leve, é online e altamente produtivo para aprender."
   subtype: presentation
   speakers: [5]
   language: pt-BR
@@ -125,14 +125,14 @@ Nessa talk, exploraremos as novas fronteiras da Web!</p>"
   speakers: [16]
   language: pt-BR
   complexity: "Iniciante"
--
-  id: 014
-  title: "Lightning talks"
-  description: "Uma lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores (Wikipedia). Os palestrantes terão <em>5 minutos</em> e deverão se cadastrar no dia do evento até o horário do coffee break da tarde. Todos deverão entregar suas apresentações (em PDF) previamente para a organização e usarão o mesmo equipamento. Mais informações serão dadas no dia."
-  subtype: presentation
-  speakers: []
-  language: pt-BR
-  complexity: "Iniciante"
+#-
+#  id: 014
+#  title: "Lightning talks"
+#  description: "Uma lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores (Wikipedia). Os palestrantes terão <em>5 minutos</em> e deverão se cadastrar no dia do evento até o horário do coffee break da tarde. Todos deverão entregar suas apresentações (em PDF) previamente para a organização e usarão o mesmo equipamento. Mais informações serão dadas no dia."
+#  subtype: presentation
+#  speakers: []
+#  language: pt-BR
+#  complexity: "Iniciante"
 #-
 #  id: 124
 #  title: "Experiências interativas com p5.js"
