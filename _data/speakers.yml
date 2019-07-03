@@ -24,6 +24,18 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/ruandersonvieira/"}
     - {name: "site", link: "https://instagram.com/ruandersonvieira"}
+- 
+  id: 2
+  name: "Lorena"
+  surname: "Santana"
+  company: "WTF (Welcome the Future)"
+  title: "Analista de Sistemas Jr"
+  bio: "Estudante de Análise e Desenvolvimento na UNIFACS. Apaixonada por tecnologia e chocolate, motivada por desafios atualmente estou me especializando na stack full Javascript."
+  thumbnailUrl: lorena.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/lobug5"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lobugdevgirl/"}
 #- 
 #  id: 14
 #  name: "Ariana"
