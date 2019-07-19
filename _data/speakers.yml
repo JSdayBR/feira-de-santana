@@ -60,17 +60,18 @@
 #  social:
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
 #    - {name: "github", link: "https://github.com/juniorabranches"}
-#- 
-#  id: 17
-#  name: "Rabelo"
-#  surname: "Filho"
-#  company: "IFBA"
-#  title: "Professor"
-#  bio: "Iniciei carreira como desenvolvedor web em 2004 em uma empresa de comunicação, formado em Engenharia de Computação atuei como profissional liberal no produção e gestão de sistemas web. Atualmente sou professor na área de Informática pelo IFBA."
-#  thumbnailUrl: rabelo.jpg
-#  rockstar: false
-#  social:
-#    - {}
+- 
+  id: 4
+  name: "Adiel"
+  surname: "Cristo"
+  company: ""
+  title: "Desenvolvedor Web"
+  bio: "Desenvolvedor web interessado em técnicas e ferramentas para melhoria de código, tentando contribuir em projetos de software livre."
+  thumbnailUrl: adiel.png
+  rockstar: false
+  social:
+    - {name: "twitter", link:  "https://twitter.com/adielcristo"}
+    - {name: "github", link: "https://github.com/adielcristo"}
 #- 
 #  id: 13
 #  name: "Victor"
