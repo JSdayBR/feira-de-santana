@@ -168,17 +168,17 @@
 #  rockstar: false
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/geisasantos"}
-#-
-#  id: 1
-#  name: "Francisco"
-#  surname: "Neto"
-#  company: "Lince Web"
-#  title: "Full Stack Developer"
-#  bio: "O sagrado e o profano vão andando lado a lado. Autodidata, apaixonado por desenvolvimento web, amo JavaScript <3."
-#  thumbnailUrl: francisconeto.jpg
-#  rockstar: false
-#  social:
-#    - {name: "facebook", link: "https://www.facebook.com/uifrancisco"}
+-
+  id: 3
+  name: "Francisco"
+  surname: "Neto"
+  company: "SimplesVet"
+  title: "Software Developer"
+  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
+  thumbnailUrl: francisconeto.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
 #-
 #  id: 2
 #  name: "Romualdo"
