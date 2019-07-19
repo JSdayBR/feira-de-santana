@@ -34,7 +34,7 @@
   group: "Bronze"
   elements:
     - {name: "Gerenciagram", description: "TRANSFORME SEU INSTAGRAM EM UMA MÁQUINA DE VENDAS", link: "https://gerenciagram.com.br/", imageUrl: "gerenciagram.png", width: "250px"}    
-#    - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io/", imageUrl: "cubos.svg", width: "260px"}    
+    - {name: "Jusbrasil", description: "O Jusbrasil conecta Pessoas a Advogados para ampliar o acesso à justiça", link: "https://www.jusbrasil.com.br/home", imageUrl: "jusbrasil.png", width: "250px"}    
 #    - {name: "Umbler", description: "Umbler", link: "http://umbler.com.br/", imageUrl: "umbler.png", width: "260px"}    
 #    - {name: "Caroli.org", description: "Editora Caroli", link: "http://www.caroli.org", imageUrl: "caroli.png", width: "260px"}
 -
