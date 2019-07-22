@@ -36,17 +36,42 @@
   social:
     - {name: "github", link: "https://github.com/lobug5"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/lobugdevgirl/"}
-#- 
-#  id: 14
-#  name: "Ariana"
-#  surname: "Pereira"
-#  company: "UEFS"
-#  title: "Estudante"
-#  bio: "Imigrante da Física para a Computação. Entusiasta de tecnologias e ideias além das fronteiras. Atualmente cursa Engenharia de Computação na Universidade Estadual de Feira de Santana e ocupa o cargo de Gerente de redes sociais na Empresa Junior de Computação."
-#  thumbnailUrl: ariana.jpg
-#  rockstar: false
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/arimphysicist"}
+    -
+-    
+  id: 3
+  name: "Francisco"
+  surname: "Neto"
+  company: "SimplesVet"
+  title: "Software Developer"
+  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
+  thumbnailUrl: francisconeto.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
+- 
+  id: 6
+  name: "Marcos"
+  surname: "Antônio"
+  company: "EcompJr"
+  title: "Diretor de RH"
+  bio: "Então, gosto de jogat, ouvir música, pegar um cine e comer pizza nas horas vagas. Curto desenvolvimento web e sou instrutor de html/css e do framework bootstrap. Gosto de programar em java e js e estou aprendendo Python."
+  thumbnailUrl: marcosantonio.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/houdiniam"}
+    - {name: "github", link: "https://github.com/houdiniam"}
+    - {name: "facebook", link: "https://facebook.com/houdiniam"}
+-
+  id: 7
+  name: "Emilly"
+  surname: "Sampaio"
+  company: "EcompJr"
+  title: "Diretora Presidente"
+  bio: "Estudante de Engenharia de Computação na UEFS, Presidente da EcompJr, curto assuntos relacionados a empreendedorismo e programação web, além de ser sommelier de séries nas horas vagas :)."
+  thumbnailUrl: emille.jpg
+  rockstar: false
+  social:    
+    - {name: "linkedin", link: "https://www.linkedin.com/in/emille-vict%C3%B3ria-sampaio-guedes-b13943171/"}
 #- 
 #  id: 15
 #  name: "Júnior"
@@ -169,17 +194,6 @@
 #  rockstar: false
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/geisasantos"}
--
-  id: 3
-  name: "Francisco"
-  surname: "Neto"
-  company: "SimplesVet"
-  title: "Software Developer"
-  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
-  thumbnailUrl: francisconeto.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
 #-
 #  id: 2
 #  name: "Romualdo"
@@ -216,17 +230,6 @@
 #  rockstar: false
 #  social:    
 #    - {name: "github", link: "https://github.com/vhfmag"}    
-#-
-#  id: 7
-#  name: "Dilan"
-#  surname: "Nery"
-#  company: "AdMobilize"
-#  title: "Desenvolvedor de Software"
-#  bio: "Graduando em Sistemas de Informação pela UNIFACS. Trabalha diariamente com JavaScript (NodeJS, Angular, React, Vue) na AdMobilize/Matrix Labs, empresa onde atua como Software Developer, desenvolvendo aplicações para IoT."
-#  thumbnailUrl: dilan.jpg
-#  rockstar: false
-#  social:    
-#    - {name: "twitter", link: "https://twitter.com/dilannery"}
 #-
 #  id: 8
 #  name: "Lucas"
