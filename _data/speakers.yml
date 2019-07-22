@@ -1,17 +1,3 @@
-#- 
-#  id: 21
-#  name: "Marília"
-#  surname: "Suzart"
-#  company: "Cron Soluções"
-#  title: "Developer"
-#  bio: "Sou uma noob apaixonada por programação desde o primeiro contato no curso técnico de informática e amo ensinar, sou recém graduada em Análise e Desenvolvimento de Sistemas. Tenho experiência com os setores de desenvolvimento web, testes, suporte técnico e atuei como instrutora de informática em projetos da prefeitura e governo. Atualmente busco aprimorar minhas habilidades e fortalecer a comunidade."
-#  thumbnailUrl: marilia.jpg
-#  rockstar: false
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
-#    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
-#    - {name: "github", link: "https://github.com/gabrielesuzart"}
 - 
   id: 1
   name: "Ruanderson"
@@ -49,6 +35,33 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
 - 
+  id: 4
+  name: "Adiel"
+  surname: "Cristo"
+  company: ""
+  title: "Desenvolvedor Web"
+  bio: "Desenvolvedor web interessado em técnicas e ferramentas para melhoria de código, tentando contribuir em projetos de software livre."
+  thumbnailUrl: adiel.png
+  rockstar: false
+  social:
+    - {name: "twitter", link:  "https://twitter.com/adielcristo"}
+    - {name: "github", link: "https://github.com/adielcristo"}    
+-
+  id: 5
+  name: "Rodrigo"
+  surname: "Alves"
+  company: "Escoar"
+  title: "CTO"
+  bio: "Trabalho na área de computação desde 2011. Trabalhei como Analista de dados, Professor de Informática, Consultor de TI e Desenvolvedor web e mobile. Sou casado e tenho 4 filhos, gosto de comer cuscuz e pizza! Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente, hoje atuo como tutor de cursos de tecnologia para a NextU. Sou autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
+  thumbnailUrl: rodrigoalves.jpg
+  rockstar: true
+  social:    
+    - {name: "github", link: "https://github.com/profalves"}
+    - {name: "twitter", link: "https://twitter.com/prof_alves"}
+    - {name: "facebook", link: "https://facebook.com/professoralves"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
+    - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
+- 
   id: 6
   name: "Marcos"
   surname: "Antônio"
@@ -72,6 +85,20 @@
   rockstar: false
   social:    
     - {name: "linkedin", link: "https://www.linkedin.com/in/emille-vict%C3%B3ria-sampaio-guedes-b13943171/"}
+- 
+  id: 8
+  name: "Marília"
+  surname: "Suzart"
+  company: "Hotmart"
+  title: "Desenvolvedora Frontend"
+  bio: "Aventureira, sonhadora, campuseira, maratonista em hackathons... Imersa nos mundos do Café com Pão de Queijo, React, Meteor e Microfrontend. Graduada em Analise e Desenvolvimento de Sistemas, Desenvolvedora na Hotmart."
+  thumbnailUrl: marilia.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
+    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
+    - {name: "github", link: "https://github.com/gabrielesuzart"}
 #- 
 #  id: 15
 #  name: "Júnior"
@@ -85,18 +112,6 @@
 #  social:
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
 #    - {name: "github", link: "https://github.com/juniorabranches"}
-- 
-  id: 4
-  name: "Adiel"
-  surname: "Cristo"
-  company: ""
-  title: "Desenvolvedor Web"
-  bio: "Desenvolvedor web interessado em técnicas e ferramentas para melhoria de código, tentando contribuir em projetos de software livre."
-  thumbnailUrl: adiel.png
-  rockstar: false
-  social:
-    - {name: "twitter", link:  "https://twitter.com/adielcristo"}
-    - {name: "github", link: "https://github.com/adielcristo"}
 #- 
 #  id: 13
 #  name: "Victor"
@@ -134,21 +149,6 @@
 #  social:
 #    - {name: "github", link: "https://github.com/vjoao"}
 #    - {name: "facebook", link: "https://www.facebook.com/vmjoao"}
--
-  id: 5
-  name: "Rodrigo"
-  surname: "Alves"
-  company: "Escoar"
-  title: "CTO"
-  bio: "Trabalho na área de computação desde 2011. Trabalhei como Analista de dados, Professor de Informática, Consultor de TI e Desenvolvedor web e mobile. Sou casado e tenho 4 filhos, gosto de comer cuscuz e pizza! Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente, hoje atuo como tutor de cursos de tecnologia para a NextU. Sou autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
-  thumbnailUrl: rodrigoalves.jpg
-  rockstar: true
-  social:    
-    - {name: "github", link: "https://github.com/profalves"}
-    - {name: "twitter", link: "https://twitter.com/prof_alves"}
-    - {name: "facebook", link: "https://facebook.com/professoralves"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
-    - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
 #-
 #   id: 6
 #   name: "Matheus"
