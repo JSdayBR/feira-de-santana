@@ -28,22 +28,22 @@
 #  speakers: [9,10]
 #  language: pt-BR
 #  complexity: "Intermediário"
-#-
-#  id: 005
-#  title: "\"Crawleando o incrawleável\" com Puppeteer"
-#  description: "Introduzir o Puppeteer para a comunidade apresentando um caso de crawler sobre páginas não amigáveis. Uma alternativa ao Scrapy + terceiros, Selenium, etc."
-#  subtype: presentation
-#  speakers: [6]
-#  language: pt-BR
-#  complexity: "Iniciante"
-#-
-#  id: 006
-#  title: "Dominando o Ionic Framework"
-#  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
-#  subtype: presentation
-#  speakers: [15]
-#  language: pt-BR
-#  complexity: "Intermediário" 
+-
+  id: 005
+  title: "Utilizando Stack MRRN e IoT para criação de Smarts Home"
+  description: "Você já ouviu falar na Stack MRRN? Enquanto Smarts Home? Não!? Então se prepare!!!  Nessa palestra iremos conhecer a Stack MRRN (Mongo, Restify, React e Node) através da construção de uma Aplicação, utilizando o conceito de IoT (Internet das Coisas), para o controle e monitoramento de uma Smarts Home… Ou melhor dizendo casas inteligentes… Uma tecnologia futurista que está mais próximos do que você espera…."
+  subtype: presentation
+  speakers: [1]
+  language: pt-BR
+  complexity: "Iniciante"
+-
+  id: 006
+  title: "Dominando o Ionic Framework"
+  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
+  subtype: presentation
+  speakers: [15]
+  language: pt-BR
+  complexity: "Intermediário" 
 #-
 #  id: 007
 #  title: "Descomplicando seu código JavaScript"
