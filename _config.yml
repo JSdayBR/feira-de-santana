@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/live/", text: "Live"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
@@ -262,23 +262,98 @@ wtmJavaScriptCodelabRows:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: false
+enableHackathon: true
+aboutHackathonTitle: "Tema"
+hackathonRows:
+ - {title: "Construir análises, ferramentas e modelagens com dados públicos da educação", image: "hackathon-0.png", details: "<p>O hackathon, promovido pelo JSDay Feira de Santana e apoiado pela empresa Gerenciagram, tem como objetivo desenvolver soluções tecnológicas (como por exemplo, aplicativos web ou mobile), bem como fomentar iniciativas inovadoras em prol da melhoria do bem-estar da sociedade.
+As soluções tecnológicas deverão ser desenvolvidas observando o tema:</p>
+ 
+<p>Sabemos que a análise de dados tem um enorme poder. Recentemente, a captura do conhecido terrorista Osama Bin Laden, foi atribuída ao poder de uma ferramenta de análise de dados (Palantir). Na Suíça, foi detectado em meio a milhares de gastos de dados, uma compra ilegal de um bombom. Além disso, análise de dados sísmicos, processamento de milhares de e-mails, análises faciais, tendências, perfil de comportamento de usuários e muitas outra coisas têm sido feitas com graças à análise de dados.
+</p>
+<p>
+No Brasil, temos dados abertos, mas que na maioria das vezes não são utilizados. Na Educação pública temos diversos desafios a serem resolvidos e oportunidades a serem aproveitadas. Esses dados podem estar em muitos lugares, sites para serem obtidos através de crawlers, disponibilizados pela lei de transparência, em datasets prontos, em redes sociais, ou em outros lugares. E é aí que entra nosso desafio:<b> construir análises, ferramentas e modelagens com dados públicos da educação</b>. A criatividade é sua de construir as melhores soluções para que esses dados sejam melhores aproveitados.</p>
 
-
+<p>As soluções poderão ser implementadas em qualquer linguagem e ferramenta de programação.</p>
+"}
+ - {title: "Datas e local", image: "hackathon-0.png", details: "<p>O Hackathon acontecerá entre os dias 16 e 17 de agosto de 2019 no JSDay Feira de Santana 2019.</p> 
+<p>Começaremos dia 16 às 19h e termina dia 17 às 17:30 nas dependências do Campus da FTC, em Feira de Santana/BA.</p>
+<p>Av. Artêmia Pires Freitas, s/n - Sim, Feira de Santana - BA, 44085-370</p>
+"}
+ - {title: "Inscrições", image: "", details: "<p>Podem efetuar a inscrição para o Hackathon pessoas físicas e com idade igual ou superior a 18 (dezoito) anos e que estejam devidamente registradas no evento JSDay Feira de Santana 2019, seja por aquisição de ingresso ou cortesia. A inscrição é individual e deve ser feita com o mesmo e-mail cadastrado na plataforma <a style='color: blue' href='https://www.sympla.com.br/jsday-feira-de-santana-2019__545715' target='_blank'>Sympla</a>.</p>
+<p>As inscrições se darão até 13 de agosto de 2019 às 23h55, por meio do preenchimento de todos os campos tidos como obrigatórios no formulário eletrônico de inscrição, disponibilizado no <a style='color: blue' href='https://forms.gle/K6nerCZu9eLxbZUo9' target='_blank'>link</a>. Os inscritos preferencialmente deverão ter conhecimento e/ou experiência como estudante ou profissional em, ao menos, 01 (uma) das áreas elencadas abaixo:</p> 
+<ul>
+<li>programação e desenvolvimento de software; </li>
+<li>design gráfico / digital;</li>
+<li>administração / empreendedorismo.</li>
+</ul>
+"}
+ - {title: "Participação",details: "<p>A participação no Hackathon é voluntária, nominativa e intransferível. Participarão do concurso todos os interessados cujas inscrições forem deferidas até o dia 13 de agosto de 2019, que estejam efetivamente credenciados no JSDay Feira de Santana 2019 e compareçam no campus da FTC até às 19:00 do dia 16 de agosto de 2019 para confirmar a participação.</p> 
+<p>Devido a limitações de acomodação, o número de participantes do hackathon, será no total de 30 pessoas, ou seja, 10 equipes de 3 pessoas. Qualquer pessoas inscrita no JSDay poderá se candidatar para participar do hackathon. Dentro de todas as pessoas que se candidatarem serão selecionadas as 30 pessoas que irão participar. Os selecionados poderão já ir com suas equipes montadas, com outros participantes selecionados,  ou serem inseridos em alguma equipe na abertura do hackathon.</p>
+<p>Caberá ao participante levar consigo o próprio computador/laptop ou qualquer outro material ou equipamento lícito para utilização durante todo o concurso. A organização disponibilizará um ponto de rede elétrica e acesso a Internet. É de responsabilidade do participante levar fonte de alimentação e adaptadores necessários.</p> 
+<p>O participante deverá manter visível a identificação oferecida no ato do credenciamento durante todo o período e em todos os espaços em que serão realizadas as atividades.</p>
+"}
+ - {title: "Programação*", details: "<ul>
+<li>16 de Agosto - Dia 1: (Sexta-feira)</li>
+<li>19:00 Abertura com apresentação dos temas</li> 
+<li>19:30 Formação de equipes</li> 
+<li>20:00 Início dos trabalhos e mentorias</li>
+<li>17 de Agosto – Dia 2 (Sábado)</li>
+<li>17:00 Início da submissão dos projetos</li>
+<li>17:10 Fim da submissão dos projetos</li>
+<li>17:10 Apresentação das demos</li> 
+<li>18:00 Cerimônia de premiação no Palco Principal</li>
+</ul>
+(*) Sujeito à alterações
+"}
+ - {title: "Critérios de avaliação", details: "<p>No dia 17 de Agosto de 2019 (Sábado), no horário que constar na programação do Hackathon, todas as equipes participantes apresentarão a solução tecnológica para uma banca julgadora convidada pela comissão organizadora. 
+Para referida avaliação, serão utilizados os seguintes critérios:</p>
+<ul> 
+<li>Originalidade; </li>
+<li>Impacto; </li>
+<li>Viabilidade técnica;</li>
+</ul> 
+<p>Após a avaliação, serão consideradas vencedoras as 02 (duas) equipes melhor avaliadas pela banca julgadora</p>
+"}
+ - {title: "Premiação*", image: "", details: "<p>No dia 17 de agosto de 2019 (Sábado), de acordo com a programação, será realizada a cerimônia de premiação. </p>
+<p>No mínimo, 01 (um) participante de cada equipe finalista deverá estar presente na cerimônia. 
+Todos os prêmios oferecidos aos integrantes da equipe vencedora são pessoais e intransferíveis.</p> 
+<p>Ao final do hackathon, de todas as equipes que submeterem suas soluções, respeitando os horários determinados, os 2 melhores classificados na soma total de pontuação dos critérios citados, receberão os seguintes prêmios: </p>
+<ol><li>Primeiro lugar: R$ 3.000,00 para cada um dos integrantes da equipe - totalizando R$ 9.000, para a equipe.</li>
+<li>Segundo lugar: R$ 300,00 para cada um dos integrantes da equipe - totalizando R$ 900,00 para a equipe. </li>
+</ol>
+<p>(*) A empresa Gerenciagram será a responsável pelas premiações.</p>
+"}
+ - {title: "Comunicação", image: "", details: "<p>Os participantes inscritos são responsáveis por acompanharem a programação, os resultados e eventuais alterações. </p>"}
+ - {title: "Considerações finais", image: "", details: "<p>O Hackathon será coordenado por uma comissão organizadora, cujas decisões são soberanas. 
+Ao se inscreverem no Hackathon, os participantes concordam com o inteiro teor do regulamento.</p> 
+<p>Os participantes, ao concordar com o Regulamento, autorizam Gerenciagram e JSDay Feira de Santana a utilizar, editar, publicar, reproduzir e divulgar, por meio de jornais, revistas, televisão, cinema, rádio e internet, vhs e cd-rom, ou em qualquer outro meio de comunicação, sem ônus e sem autorização prévia ou adicional, os seus nomes, vozes, imagens, projetos, ou empresas, tanto no âmbito nacional quanto internacional, durante período indeterminado. </p>
+<p>O hackathon tem o objetivo de gerar soluções para a sociedade. Todo código ou material produzido deve estar publicado em um repositório público de código fonte usando algum sistema de versionamento de código sob licença de Software Livre BSD, Apache ou MIT.</p>
+<p>Os participantes se responsabilizam pela originalidade de todo conteúdo por eles produzido no âmbito do presente regulamento, respondendo integral e exclusivamente por eventuais danos ou ônus a terceiros, excluindo Gerenciagram e a organização do JSDay Feira de Santana, em caso de demanda judicial ou extrajudicial intentada por terceiros, sob alegação de violação de direitos de propriedade intelectual, imagem, voz e nome. </p>
+<p>Gerenciagram e a organização do JSDay Feira de Santana não se responsabilizam pelo uso de base de dados públicos e/ou privados pelos participantes do Hackathon. </p>
+<p>Suspeitas de conduta antiética, do não cumprimento das normas internas dos espaços em que ocorrerá este concurso, além do desrespeito ao presente regulamento, serão analisadas e julgadas pela comissão organizadora, podendo ainda resultar na desclassificação do respectivo participante. </p>
+<p>Não serão aceitas soluções tecnológicas copiadas ou reproduzidas, de forma total ou parcial, de outras fontes e/ou competições. A identificação de uma cópia, total ou parcial, será punida com a desclassificação da respectiva equipe. </p>
+<p>As despesas dos participantes referentes a transporte, hospedagem, material de consumo e quaisquer outras necessárias para a participação deste evento correrão por conta deles próprios. </p>
+<p>Gerenciagram e a organização do JSDay Feira de Santana não se responsabilizarão por perdas, furtos, roubos, extravios ou danos de objetos pessoais dos participantes (como, a título exemplificativo, notebook, tablet ou celular), durante os dias do evento. Cabe exclusivamente aos participantes o dever de guarda e cuidado com tais pertences. Caso o participante se ausente do local do evento, ainda que por pouco tempo, deve levar consigo seus pertences e equipamentos. </p>
+<p>As decisões dos integrantes da banca julgadora no que tange à seleção e à premiação das equipes participantes, além das decisões que a comissão organizadora venha a dirimir, serão soberanas e irrecorríveis, não sendo cabível qualquer contestação das mesmas, bem como dos seus resultados. </p>
+<p>Gerenciagram e a organização do JSDay Feira de Santana, a seu exclusivo critério, poderá, a qualquer tempo, se julgar necessário, alterar as regras deste regulamento. </p>
+<p>O concurso poderá ser interrompido ou suspenso, por motivos de força maior ou devido a problemas de acesso à rede de internet, com servidores, entre outros, não sendo devida qualquer indenização ou compensação aos participantes do concurso e/ou aos eventuais terceiros. Gerenciagram e a organização do JSDay Feira de Santana envidarão, nesses casos, os melhores esforços para dar prosseguimento ao Hackathon tão logo haja a regularização do problema, resguardando-se, no entanto, a possibilidade de cancelamento definitivo, na hipótese de impossibilidade de realização do mesmo. </p>
+<p>A participação neste concurso sujeita todos os participantes às regras e condições estabelecidas neste regulamento. Dessa forma, os participantes, no ato de seu cadastro/inscrição aderem a todas as disposições, declarando que leram, compreenderam, tem total ciência e aceitam, irrestrita e totalmente, todos os itens deste regulamento. </p>
+<p>Os casos omissos não previstos neste regulamento serão analisados e julgados pela comissão organizadora. </p>
+"}
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
+hackathonLocationBlockTitle: "Local"
+hackathonLocationName: "FTC Feira de Santana"
+hackathonLocationLink: "http://www.ftc.edu.br/"
+hackathonStreetAddress: "Rua Artêmia Pires Freitas, s/n, SIM. CEP: 44.085-370, SIM"
+hackathonAddressLocality: "Feira de Santana"
+hackathonAddressLocalityRegion: "Bahia"
+hackathonPostalCode: "44085-370"
+hackathonAddressCountry: "Brasil"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonStartTime: "2019-08-16T19:00"
+hackathonDoorTime: "19:00"
+hackathonEndTime: "2019-08-17T17:00"
+viewOnMap: "Veja no Google Maps"
+hackathonPlaceCoordinates: "-12.2468695, -38.9247064"
+hackathonMapCenterCoordinates: "-12.2468695, -38.9247064"
+hackathonMapMobileCenterCoordinates: "-12.2468695, -38.9247064"
