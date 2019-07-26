@@ -16,7 +16,7 @@
 -
   title: "JSday Lineup"
   date: "2018-8-11"
-  dateReadable: "11/08"
+  dateReadable: "17/08"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Auditório 1", color: "#f7df1e", description: "Auditório Principal"}
