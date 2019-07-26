@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JS Day Feira de Santana 2019"
+title: "JSDay Feira de Santana 2019"
 email: "jsdaybr@gmail.com"
-description: "O JS Day é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+description: "O JSDay é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://fsa.jsday.com.br"
 permalink: "/blog/:title"
@@ -21,9 +21,9 @@ googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "JS Day Feira de Santana"
+organizerName: "JSDay Feira de Santana"
 # organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "O JS Day é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+organizerDescription: "O JS Day é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
@@ -44,7 +44,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Sant
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:

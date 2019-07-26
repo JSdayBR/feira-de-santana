@@ -10,24 +10,22 @@
   id: 002
   title: "Coffee Break"
   service: true
-#-
-#  id: 003
-#  title: "Introdução ao JavaScript"
-#  description: "Você já navegou na Web e percebeu efeitos incríveis em algumas páginas enquanto outras são bem simples? Pois bem, o profissional responsável por desenvolver esses efeitos e melhorar a experiência do usuário é o Front-End e ele tem um poderoso aliado, a linguagem de programação JavaScript. 
-#Você nunca viu JavaScript? Esse Workshop é para você! Nele você vai aprender os conceitos básicos do JS e escrever suas primeiras linhas de código :3"
-#  subtype: workshop
-#  speakers: [21,14]
-#  language: pt-BR
-#  complexity: "Iniciante"
-#-
-#  id: 004
-#  title: "Do zero ao npm - Publicando seus componentes react-native"
-#  description: "Já pensou em criar o seu componente e disponibilizar para que outros possam reutilizar através dos repositórios do npm ? Se você deseja sair do zero e criar um componente pronto para ser npm installed, nesse workshop você vai aprender todos os truques de como fazer isso da melhor maneira possível.
-#"
-#  subtype: workshop
-#  speakers: [9,10]
-#  language: pt-BR
-#  complexity: "Intermediário"
+-
+  id: 003
+  title: "Introdução ao JavaScript"
+  description: "Você sabe como deixar sua página web mais dinâmica? Não? Bom, nós temos a solução perfeita, Javascript! Então se você quer ter aquele primeiro impulso de conhecimento nessa ampla e rica linguagem de programação, cola com a gente e vamos codar!"
+  subtype: workshop
+  speakers: [7,6]
+  language: pt-BR
+  complexity: "Iniciante"
+-
+  id: 004
+  title: "Aprendendo a Criar uma API com GraphQL"
+  description: "Venha aprender os fundamentos e construir uma API utilizando GraphQL, uma linguagem de consulta desenvolvida pelo Facebook que facilita e agiliza o trabalho na chamada de requisições, além de dar poder ao cliente dizer qual informação ele necessita. Cola comigo e vamos entender o que esta ferramenta trás de proposta e em quais cenários podemos utiliza-la."
+  subtype: workshop
+  speakers: [2]
+  language: pt-BR
+  complexity: "Intermediário"
 -
   id: 005
   title: "Utilizando Stack MRRN e IoT para criação de Smarts Home"
@@ -38,28 +36,35 @@
   complexity: "Iniciante"
 -
   id: 006
-  title: "Dominando o Ionic Framework"
-  description: "Desenvolva aplicativos mobile e web com o Framework à base de TypeScript, Angular, HTML e SCSS. Explore os recursos nativos do dispositivo com o Cordova e ganhe muito dinheiro com isso :)"
-  subtype: presentation
-  speakers: [15]
+  title: "Minha primeira aplicação React"
+  description: "Você tem conhecimento básicos de HTML, CSS e JavaScript e quer fazer sua primeira SPA com React? Esse workshop é para você! =)"
+  subtype: workshop
+  speakers: [8]
   language: pt-BR
   complexity: "Intermediário" 
-#-
-#  id: 007
-#  title: "Descomplicando seu código JavaScript"
-#  description: "Trazer aos ouvintes dicas para um código mais limpo e apresentar o Google JavaScript Style Guide."
-#  subtype: presentation
-#  speakers: [17]
-#  language: pt-BR
-#  complexity: "Iniciante"
-#-
-#  id: 008
-#  title: "Inteligência Artificial com IBM Watson em Node.js"
-#  description: "A proposta é mostrar como treinar os serviços de Inteligência Artificial do IBM Watson para #desenvolver um ChatBot e consumí-lo em aplicação desenvolvida em Node.js"
-#  subtype: presentation
-#  speakers: [22]
-#  language: pt-BR
-#  complexity: "Iniciante"
+-
+  id: 007
+  title: "Svelte, sim, mais um framework"
+  description: "<p>O Svelte aparece como uma proposta robusta para o futuro do desenvolvimento web, colocando javascript em primeiro lugar, o que é muito importante para os desenvolvedores. Diferentemente de tantos que apareceram recentemente, o Svelte pode realmente se tornar uma alternativa aos já conhecidos: Vue.js, angular e react; meu objetivo é apresentar o framework e fazer um comparativo entre eles,
+</p>
+<p>Referências palpáveis:</p>
+<ul>
+<li><a style='color: blue' target='_blank' href='https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i'>Why SvelteJS may be the best framework for new web devs</a></li>
+
+<li><a style='color: blue' target='_blank' href='https://medium.com/@devigor/svelte-nasce-um-novo-framework-javascript-8c2d29a6b727'>Svelte: Nasce um novo framework JavaScript</a></li>
+</ul>"
+  subtype: presentation
+  speakers: [3]
+  language: pt-BR
+  complexity: "Intermediário"
+-
+  id: 008
+  title: "Testando suas aplicações JS com Jasmine"
+  description: "Nesta palestra veremos como testar aplicações web e node.js usando Jasmine, um framework para desenvolvimento voltado a comportamento, ou BDD. Veremos um breve resumo do que podemos conseguir usando o Jasmine, e como adicionar os testes ao ciclo de desenvolvimento."
+  subtype: presentation
+  speakers: [4]
+  language: pt-BR
+  complexity: "Intermediário"
 #-
 #  id: 009
 #  title: "O presente e o futuro de apps na web"
@@ -158,14 +163,6 @@
 #  language: en
 #  complexity: "Advanced"
 #-
-#  id: 021
-#  title: "GraphQL beyond the limit"
-#  description: "The presentation covers an introduction to the GraphQL query language, explaining its features and benefits. I will show how minimal investment you have to do to start up your GraphQL endpoint without having to rewrite your entire database infrastructure. The workshop includes live demonstration (live coding). <p>Please have your own laptop with npm / yarn, node, RethinkDB pre-installed.</p> <p>Schedule.js</p> <ol> <li>What is GraphQL, why is it good?</li> <li> Running Graphiql and writing your first schema. </li><li> Learning Sequelize and connecting to the RethinkDB database. </li><li> Merging Sequelize with GraphQL. </li><li> Writing Mutations.</li></ol>"
-#  subtype: workshop
-#  speakers: [21]
-#  language: en
-#  complexity: "Advanced"
-#-
 #  id: 022
 #  title: "Transformação Digital e IoT com sistemas cognitivos"
 #  description: "Será abordada o impacto da transformação digital na vida das pessoas e nos negócios, e como os sitemas de inteligência artificial melhoram exponencialmente a experiência do usuário / cliente. Além disso como é possível capturar dados em real time e na ponta através de IoT. Por fim, ChatBots, o que é, para que serve o que desenvolver um?"
@@ -184,6 +181,18 @@
 -
   id: 018
   title: "Encerramento: Foto da família jsday"  
+  service: true
+-
+  id: 019
+  title: "Encerramento do hackathon"  
+  service: true
+-
+  id: 020
+  title: "Apresentação das soluções"  
+  service: true
+-
+  id: 021
+  title: "Premiação e encerramento"  
   service: true
 -  
   id: 999
