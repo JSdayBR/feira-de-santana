@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
  - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
@@ -262,7 +262,7 @@ wtmJavaScriptCodelabRows:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 aboutHackathonTitle: "Tema"
 hackathonRows:
  - {title: "Construir análises, ferramentas e modelagens com dados públicos da educação", image: "hackathon-0.png", details: "<p>O hackathon, promovido pelo JSDay Feira de Santana e apoiado pela empresa Gerenciagram, tem como objetivo desenvolver soluções tecnológicas (como por exemplo, aplicativos web ou mobile), bem como fomentar iniciativas inovadoras em prol da melhoria do bem-estar da sociedade.

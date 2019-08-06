@@ -79,12 +79,12 @@
     - {
         startTime: "16:55",
         endTime: "17:10",
-        sessionIds: [019]
+        sessionIds: [666]
     }
     - {
         startTime: "17:10",
         endTime: "18:00",
-        sessionIds: [020]
+        sessionIds: [666]
     }
     - {
         startTime: "18:00",
