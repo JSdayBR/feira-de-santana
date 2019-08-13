@@ -37,7 +37,7 @@
 -
   id: 006
   title: "Minha primeira aplicação React"
-  description: "Você tem conhecimento básicos de HTML, CSS e JavaScript e quer fazer sua primeira SPA com React? Esse workshop é para você! =)"
+  description: "Você tem conhecimento básicos de HTML, CSS e JavaScript e quer fazer sua primeira aplicação React? Esse workshop é para você! =)"
   subtype: workshop
   speakers: [8]
   language: pt-BR
