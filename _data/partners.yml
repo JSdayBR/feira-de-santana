@@ -1,7 +1,7 @@
-- 
-  group: "Platina"
-  elements: 
-    - {name: "FTC", description: "Com atuação de destaque entre as Instituições de Ensino Superior particular do Estado e um projeto pedagógico inovador voltado para a interdisciplinaridade e o empreendedorismo.", link: "http://ftc.br/", imageUrl: "ftc.png", width: "545px"}        
+#- 
+#  group: "Platina"
+#  elements: 
+#    - {name: "FTC", description: "Com atuação de destaque entre as Instituições de Ensino Superior particular do Estado e um projeto pedagógico inovador voltado para a interdisciplinaridade e o empreendedorismo.", link: "http://ftc.br/", imageUrl: "ftc.png", width: "545px"}        
 #-
 #  group: ""
 #  elements:
@@ -30,13 +30,13 @@
 #    - {name: "Alura", description: "Alura - Cursos online de tecnologia", link: "https://www.alura.com.br/", imageUrl: "alura.png", width: "250px"}    
 #    - {name: "Caelum", description: "Caelum - Cursos presenciais de tecnologia", link: "https://www.caelum.com.br/", imageUrl: "caelum.png", width: "250px"}
 #    - {name: "Jusbrasil", description: "", link: "http://jusbrasil.com.br", imageUrl: "jusbrasil.png", width: "250px"}        
--
-  group: "Bronze"
-  elements:
-    - {name: "Gerenciagram", description: "TRANSFORME SEU INSTAGRAM EM UMA MÁQUINA DE VENDAS", link: "https://gerenciagram.com.br/", imageUrl: "gerenciagram.png", width: "250px"}    
-    - {name: "Jusbrasil", description: "O Jusbrasil conecta Pessoas a Advogados para ampliar o acesso à justiça", link: "https://www.jusbrasil.com.br/home", imageUrl: "jusbrasil.png", width: "250px"}    
-    - {name: "Hotmart", description: "A Ferramenta mais completa para quem quer vender", link: "https://www.hotmart.com/pt/", imageUrl: "hotmart.png", width: "260px"}    
-    - {name: "Huggy", description: "Qual o desempenho do atendimento digital do seu negócio?", link: "https://huggy.io/pt-br", imageUrl: "huggy.png", width: "260px"}
+#-
+#  group: "Bronze"
+#  elements:
+#    - {name: "Gerenciagram", description: "TRANSFORME SEU INSTAGRAM EM UMA MÁQUINA DE VENDAS", link: "https://gerenciagram.com.br/", imageUrl: "gerenciagram.png", width: "250px"}    
+#    - {name: "Jusbrasil", description: "O Jusbrasil conecta Pessoas a Advogados para ampliar o acesso à justiça", link: "https://www.jusbrasil.com.br/home", imageUrl: "jusbrasil.png", width: "250px"}    
+#    - {name: "Hotmart", description: "A Ferramenta mais completa para quem quer vender", link: "https://www.hotmart.com/pt/", imageUrl: "hotmart.png", width: "260px"}    
+#    - {name: "Huggy", description: "Qual o desempenho do atendimento digital do seu negócio?", link: "https://huggy.io/pt-br", imageUrl: "huggy.png", width: "260px"}
 -
   group: "Apoio"
   elements:    

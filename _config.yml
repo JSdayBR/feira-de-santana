@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSDay Feira de Santana 2019"
+title: "JSDay Feira de Santana 2020"
 email: "jsdaybr@gmail.com"
 description: "O JSDay é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -32,9 +32,9 @@ organizerEmail: "jsdaybr@gmail.com"
 metaKeywords: "event, javascript, js, angular, google maps, 
 ionic, firebase, aplicativos híbridos, node"
 twitterAccount: "@jsdaybr"
-socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2019.png"
-socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2019.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2019.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-facebook-fsa-2020.png"
+socialImageSrcTwitter: "/img/seo/sharing-facebook-fsa-2020.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook-fsa-2020.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link"
@@ -43,28 +43,28 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Sant
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "JS Experts"}
+# - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana", text: "Seja um patrocinador"}
+# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana 2020", text: "Seja um patrocinador"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdrirWvZsx95x2K_a7wpgJedAxRkDuqWGPT3nByhBUgxTGKpg/viewform?usp=sf_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana", text: "Seja um patrocinador"}
+# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Feira de Santana 2020", text: "Seja um patrocinador"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
-eventDate: "17 de Agosto, 2019"
+eventDate: "1 de Agosto de 2020"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
- - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JS Day Feira de Santana 2019", text: "Seja um patrocinador"}
+# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
+ - {link: "mailto:jsdaybr@gmail.com?subject=Patrocínio JS Day Feira de Santana 2020", text: "Seja um patrocinador"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link", text: "Submeta sua palestra"}
 
 # About Block
@@ -77,9 +77,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "8", specialCharacter: "+", info: "horas", detail: "de puro código"}
-# - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "4", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "4", specialCharacter: "", info: "palestrantes", detail: "com tópicos incríveis"}
 # - {count: "1", specialCharacter: "", info: "dia", detail: "foco total em JavaScript"}
 
 # Latest News Block
