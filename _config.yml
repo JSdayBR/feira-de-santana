@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
 eventDate: "1 de Agosto de 2020"
-typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React"'
+typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React", "Vue"'
 typeoutFallback: "JavaScript"
 heroButtons:
 # - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
