@@ -1,4 +1,4 @@
 -
   group: ""
   elements:
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Feira de Santana", description: "GDG Feira de Santana", link: "https://www.meetup.com/pt-BR/gdgfsa/", imageUrl: "gdgfsa.png"}
