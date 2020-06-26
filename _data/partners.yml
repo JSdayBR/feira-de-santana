@@ -42,10 +42,10 @@
   elements:    
 #    - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "160px"}
 #    - {name: "Atelier Piu Bella", description: "Convites e papelaria para casamento. Encadernação e bottons personalizados.", link: "https://www.instagram.com/atelierpiubella/", imageUrl: "piubella.png", width: "160px"}
-    - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
--
-  group: ""
-  elements:
-    - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "170px"}        
+#    - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
+     - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "170px"}        
+     - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "160px"}
+#-
+#  group: ""
+#  elements:
 #    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
-    - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "160px"}
