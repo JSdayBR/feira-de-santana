@@ -1,4 +1,4 @@
 -
   group: ""
   elements:
-    - {name: "GDG Feira de Santana", description: "GDG Feira de Santana", link: "https://www.meetup.com/pt-BR/gdgfsa/", imageUrl: "gdgfsa.png"}
+    - {name: "GDG Feira de Santana", description: "GDG Feira de Santana", link: "https://www.meetup.com/pt-BR/gdgfsa/", imageUrl: "gdgfsa.png", width: "200px"}
