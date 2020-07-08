@@ -59,7 +59,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JSdayFSA: <typeout>"
-eventDate: "1 de Agosto de 2020"
+eventDate: "15 de Agosto de 2020"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React", "Vue"'
 typeoutFallback: "JavaScript"
 heroButtons:
