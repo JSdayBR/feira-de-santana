@@ -43,7 +43,7 @@ c4sponsorsUrl: "mailto:GDGFeiraDeSantana@communityleads.dev?subject=Patrocínio 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/speakers/", text: "JS Experts"}
+ - {permalink: "/speakers/", text: "JS Experts"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 
