@@ -1,104 +1,105 @@
 - 
   id: 1
-  name: "Ruanderson"
-  surname: "Vieira"
-  company: "Huggy"
-  title: "Atendimento Digital, Full-Stack Developer"
-  bio: "Graduando em Sistema de Informação (FTC) e Engenharia Mecatrônica (UNIFACS). Desenvolvedor na Huggy - Atendimento Digital e integrante do GREAT (Grupo de Robótica e Estudos Avançado em Tecnologia) e Alumia (Laboratório Maker). Apaixonado pelo universo de desenvolvimento, automação e robótica, dedicado a criar ideias e protótipos de Internet das Coisas."
-  thumbnailUrl: ruanderson.jpg
+  name: "Keilla"
+  surname: "Menezes"
+  company: "ThoughtWorks"
+  title: "Senior Software Development Consultant"
+  bio: "Tecnologista, formada em Ciência da Computação pela UFBA, tem mais de 12 de anos de experiência em Desenvolvimento de Software. Especialista em aplicações front-end, atua como Consultora Senior na ThoughtWorks. É palestrante, Google Developer Expert em Angular e Tecnologias Web e dedica-se à comunidade de tecnologia como forma de democratizar a tecnologia para todos."
+  thumbnailUrl: keilla.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ruandersonvieira/"}
-    - {name: "site", link: "https://instagram.com/ruandersonvieira"}
-- 
-  id: 2
-  name: "Lorena"
-  surname: "Santana"
-  company: "WTF (Welcome the Future)"
-  title: "Analista de Sistemas Jr"
-  bio: "Estudante de Análise e Desenvolvimento na UNIFACS. Apaixonada por tecnologia e chocolate, motivada por desafios atualmente estou me especializando na stack full Javascript."
-  thumbnailUrl: lorena.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/lobug5"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/lobugdevgirl/"}
-    -
--    
-  id: 3
-  name: "Francisco"
-  surname: "Neto"
-  company: "SimplesVet"
-  title: "Software Developer"
-  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
-  thumbnailUrl: francisconeto.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
-- 
-  id: 4
-  name: "Adiel"
-  surname: "Cristo"
-  company: ""
-  title: "Desenvolvedor Web"
-  bio: "Desenvolvedor web interessado em técnicas e ferramentas para melhoria de código, tentando contribuir em projetos de software livre."
-  thumbnailUrl: adiel.png
-  rockstar: false
-  social:
-    - {name: "twitter", link:  "https://twitter.com/adielcristo"}
-    - {name: "github", link: "https://github.com/adielcristo"}    
--
-  id: 5
-  name: "Rodrigo"
-  surname: "Alves"
-  company: "Escoar"
-  title: "CTO"
-  bio: "Trabalho na área de computação desde 2011. Trabalhei como Analista de dados, Professor de Informática, Consultor de TI e Desenvolvedor web e mobile. Sou casado e tenho 4 filhos, gosto de comer cuscuz e pizza! Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente, hoje atuo como tutor de cursos de tecnologia para a NextU. Sou autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
-  thumbnailUrl: rodrigoalves.jpg
-  rockstar: true
-  social:    
-    - {name: "github", link: "https://github.com/profalves"}
-    - {name: "twitter", link: "https://twitter.com/prof_alves"}
-    - {name: "facebook", link: "https://facebook.com/professoralves"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
-    - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
-- 
-  id: 6
-  name: "Marcos"
-  surname: "Antônio"
-  company: "EcompJr"
-  title: "Diretor de RH"
-  bio: "Então, gosto de jogar, ouvir música, pegar um cine e comer pizza nas horas vagas. Curto desenvolvimento web e sou instrutor de html/css e do framework bootstrap. Gosto de programar em java e js e estou aprendendo Python."
-  thumbnailUrl: marcos1.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/houdiniam"}
-    - {name: "github", link: "https://github.com/houdiniam"}
-    - {name: "facebook", link: "https://facebook.com/houdiniam"}
--
-  id: 7
-  name: "Emille"
-  surname: "Sampaio"
-  company: "EcompJr"
-  title: "Diretora Presidente"
-  bio: "Estudante de Engenharia de Computação na UEFS, Presidente da EcompJr, curto assuntos relacionados a empreendedorismo e programação web, além de ser sommelier de séries nas horas vagas :)."
-  thumbnailUrl: emille.jpg
-  rockstar: false
-  social:    
-    - {name: "linkedin", link: "https://www.linkedin.com/in/emille-vict%C3%B3ria-sampaio-guedes-b13943171/"}
-- 
-  id: 8
-  name: "Marília"
-  surname: "Suzart"
-  company: "Hotmart"
-  title: "Desenvolvedora Frontend"
-  bio: "Aventureira, sonhadora, campuseira, maratonista em hackathons... Imersa nos mundos do Café com Pão de Queijo, React, Meteor e Microfrontend. Graduada em Analise e Desenvolvimento de Sistemas, Desenvolvedora na Hotmart."
-  thumbnailUrl: marilia.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
-    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
-    - {name: "github", link: "https://github.com/gabrielesuzart"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/keilla-menezes"}
+    - {name: "twitter", link:  "https://twitter.com/keillamenezes_"}
+#    - {name: "site", link: "https://instagram.com/ruandersonvieira"}
+#- 
+#  id: 2
+#  name: "Lorena"
+#  surname: "Santana"
+#  company: "WTF (Welcome the Future)"
+#  title: "Analista de Sistemas Jr"
+#  bio: "Estudante de Análise e Desenvolvimento na UNIFACS. Apaixonada por tecnologia e chocolate, motivada por desafios atualmente estou me especializando na stack full Javascript."
+#  thumbnailUrl: lorena.jpg
+#  rockstar: true
+#  social:
+#    - {name: "github", link: "https://github.com/lobug5"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/lobugdevgirl/"}
+#    -
+#-    
+#  id: 3
+#  name: "Francisco"
+#  surname: "Neto"
+#  company: "SimplesVet"
+#  title: "Software Developer"
+#  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
+#  thumbnailUrl: francisconeto.jpg
+#  rockstar: false
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
+#- 
+#  id: 4
+#  name: "Adiel"
+#  surname: "Cristo"
+#  company: ""
+#  title: "Desenvolvedor Web"
+#  bio: "Desenvolvedor web interessado em técnicas e ferramentas para melhoria de código, tentando contribuir em projetos de software livre."
+#  thumbnailUrl: adiel.png
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link:  "https://twitter.com/adielcristo"}
+#    - {name: "github", link: "https://github.com/adielcristo"}    
+#-
+#  id: 5
+#  name: "Rodrigo"
+#  surname: "Alves"
+#  company: "Escoar"
+#  title: "CTO"
+#  bio: "Trabalho na área de computação desde 2011. Trabalhei como Analista de dados, Professor de Informática, Consultor de TI e Desenvolvedor web e mobile. Sou casado e tenho 4 filhos, gosto de comer cuscuz e pizza! Apaixonado intensamente por tecnologia e sempre em busca das novidades. Viu no ecossistema Javascript o seu próprio mundo. Louco para retornar para a sua carreira docente, hoje atuo como tutor de cursos de tecnologia para a NextU. Sou autodidata por natureza, desenvolvida cada vez mais pela própria curiosidade."
+#  thumbnailUrl: rodrigoalves.jpg
+#  rockstar: true
+#  social:    
+#    - {name: "github", link: "https://github.com/profalves"}
+#    - {name: "twitter", link: "https://twitter.com/prof_alves"}
+#    - {name: "facebook", link: "https://facebook.com/professoralves"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-alves-47842323"}
+#    - {name: "instagram", link: "https://www.instagram.com/prof_alves"}
+#- 
+#  id: 6
+#  name: "Marcos"
+#  surname: "Antônio"
+#  company: "EcompJr"
+#  title: "Diretor de RH"
+#  bio: "Então, gosto de jogar, ouvir música, pegar um cine e comer pizza nas horas vagas. Curto desenvolvimento web e sou instrutor de html/css e do framework bootstrap. Gosto de programar em java e js e estou aprendendo Python."
+#  thumbnailUrl: marcos1.jpg
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/houdiniam"}
+#    - {name: "github", link: "https://github.com/houdiniam"}
+#    - {name: "facebook", link: "https://facebook.com/houdiniam"}
+#-
+#  id: 7
+#  name: "Emille"
+#  surname: "Sampaio"
+#  company: "EcompJr"
+#  title: "Diretora Presidente"
+#  bio: "Estudante de Engenharia de Computação na UEFS, Presidente da EcompJr, curto assuntos relacionados a empreendedorismo e programação web, além de ser sommelier de séries nas horas vagas :)."
+#  thumbnailUrl: emille.jpg
+#  rockstar: false
+#  social:    
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/emille-vict%C3%B3ria-sampaio-guedes-b13943171/"}
+#- 
+#  id: 8
+#  name: "Marília"
+#  surname: "Suzart"
+#  company: "Hotmart"
+#  title: "Desenvolvedora Frontend"
+#  bio: "Aventureira, sonhadora, campuseira, maratonista em hackathons... Imersa nos mundos do Café com Pão de Queijo, React, Meteor e Microfrontend. Graduada em Analise e Desenvolvimento de Sistemas, Desenvolvedora na Hotmart."
+#  thumbnailUrl: marilia.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/gabrielesuzart"}
+#    - {name: "facebook", link: "https://facebook.com/gabrielesuzart"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielesuzart/"}
+#    - {name: "github", link: "https://github.com/gabrielesuzart"}
 #- 
 #  id: 15
 #  name: "Júnior"
