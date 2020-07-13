@@ -11,19 +11,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/keilla-menezes"}
     - {name: "twitter", link:  "https://twitter.com/keillamenezes_"}
 #    - {name: "site", link: "https://instagram.com/ruandersonvieira"}
-#- 
-#  id: 2
-#  name: "Lorena"
-#  surname: "Santana"
-#  company: "WTF (Welcome the Future)"
-#  title: "Analista de Sistemas Jr"
-#  bio: "Estudante de Análise e Desenvolvimento na UNIFACS. Apaixonada por tecnologia e chocolate, motivada por desafios atualmente estou me especializando na stack full Javascript."
-#  thumbnailUrl: lorena.jpg
-#  rockstar: true
-#  social:
-#    - {name: "github", link: "https://github.com/lobug5"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/lobugdevgirl/"}
-#    -
+- 
+  id: 2
+  name: "Fernando"
+  surname: "Daciuk"
+  company: "Lukin Co"
+  title: "CTO e desenvolvedor web"
+  bio: "CTO e desenvolvedor web na Lukin Co. Professor na queroser.ninja. Dependente de JavaScript. Fã de React e Node.js."
+  thumbnailUrl: fernandoDaciuk.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/fdaciuk"}
+    - {name: "twitter", link: "https://twitter.com/fdaciuk"}
 #-    
 #  id: 3
 #  name: "Francisco"
