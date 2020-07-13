@@ -23,7 +23,7 @@
   title: "Aprendendo a Criar uma API com GraphQL"
   description: "Venha aprender os fundamentos e construir uma API utilizando GraphQL, uma linguagem de consulta desenvolvida pelo Facebook que facilita e agiliza o trabalho na chamada de requisições, além de dar poder ao cliente dizer qual informação ele necessita. Cola comigo e vamos entender o que esta ferramenta trás de proposta e em quais cenários podemos utiliza-la."
   subtype: workshop
-  speakers: [2]
+  speakers: [3]
   language: pt-BR
   complexity: "Intermediário"
 -
@@ -31,7 +31,7 @@
   title: "Utilizando Stack MRRN e IoT para criação de Smarts Home"
   description: "Você já ouviu falar na Stack MRRN? Enquanto Smarts Home? Não!? Então se prepare!!!  Nessa palestra iremos conhecer a Stack MRRN (Mongo, Restify, React e Node) através da construção de uma Aplicação, utilizando o conceito de IoT (Internet das Coisas), para o controle e monitoramento de uma Smarts Home… Ou melhor dizendo casas inteligentes… Uma tecnologia futurista que está mais próximos do que você espera…."
   subtype: presentation
-  speakers: [2]
+  speakers: [3]
   language: pt-BR
   complexity: "Iniciante"
 -
