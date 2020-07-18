@@ -2,10 +2,10 @@
 #  group: "Platina"
 #  elements: 
 #    - {name: "FTC", description: "Com atuação de destaque entre as Instituições de Ensino Superior particular do Estado e um projeto pedagógico inovador voltado para a interdisciplinaridade e o empreendedorismo.", link: "http://ftc.br/", imageUrl: "ftc.png", width: "545px"}        
-#-
-#  group: ""
-#  elements:
-#    - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
+-
+  group: ""
+  elements:
+    - {name: "Globo.com", description: "Globo.com", link: "http://globo.com/", imageUrl: "globocom.png", width: "400px"}
 #    - {name: "Mozilla", description: "Internet para pessoas, sem fins lucrativos", link: "https://www.mozilla.org/", imageUrl: "mozilla.png", width: "400px"}    
 #-    
 #  group: ""
