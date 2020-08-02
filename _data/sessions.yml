@@ -20,12 +20,12 @@
   complexity: "Iniciante"
 -
   id: 004
-  title: "Aprendendo a Criar uma API com GraphQL"
-  description: "Venha aprender os fundamentos e construir uma API utilizando GraphQL, uma linguagem de consulta desenvolvida pelo Facebook que facilita e agiliza o trabalho na chamada de requisições, além de dar poder ao cliente dizer qual informação ele necessita. Cola comigo e vamos entender o que esta ferramenta trás de proposta e em quais cenários podemos utiliza-la."
-  subtype: workshop
-  speakers: [3]
+  title: "Angular em 3 dimensões"
+  description: "Angular é um dos frameworks mais utilizados para criar aplicações web. Entender não só que estamos fazendo mas o porquê fazemos é crucial para aproveitar todas a ferramentas que uma tecnologia nos entrega. Vamos compreender quais são as especificidades do Angular, repleta de dicas para que você crie aplicações mais escaláveis, performáticas e fáceis de manter."
+  subtype: presentation
+  speakers: [1]
   language: pt-BR
-  complexity: "Intermediário"
+  complexity: "Iniciante"
 -
   id: 005
   title: "Utilizando Stack MRRN e IoT para criação de Smarts Home"
