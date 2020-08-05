@@ -31,7 +31,7 @@
   title: "Utilizando Stack MRRN e IoT para criação de Smarts Home"
   description: "Você já ouviu falar na Stack MRRN? Enquanto Smarts Home? Não!? Então se prepare!!!  Nessa palestra iremos conhecer a Stack MRRN (Mongo, Restify, React e Node) através da construção de uma Aplicação, utilizando o conceito de IoT (Internet das Coisas), para o controle e monitoramento de uma Smarts Home… Ou melhor dizendo casas inteligentes… Uma tecnologia futurista que está mais próximos do que você espera…."
   subtype: presentation
-  speakers: [3]
+  speakers: [5]
   language: pt-BR
   complexity: "Iniciante"
 -
@@ -54,7 +54,7 @@
 <li><a style='color: blue' target='_blank' href='https://medium.com/@devigor/svelte-nasce-um-novo-framework-javascript-8c2d29a6b727'>Svelte: Nasce um novo framework JavaScript</a></li>
 </ul>"
   subtype: presentation
-  speakers: [3]
+  speakers: [5]
   language: pt-BR
   complexity: "Intermediário"
 -
