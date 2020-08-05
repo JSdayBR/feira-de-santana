@@ -23,17 +23,17 @@
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/fdaciuk"}
     - {name: "twitter", link: "https://twitter.com/fdaciuk"}
-#-    
-#  id: 3
-#  name: "Francisco"
-#  surname: "Neto"
-#  company: "SimplesVet"
-#  title: "Software Developer"
-#  bio: "Um desenvolvedor feliz nesse mundo moderno e procurando por mais. Tá sempre de olho nos releases do Chrome e pensa que um dia poderá fazer do mundo um lugar melhor com seus if’s;"
-#  thumbnailUrl: francisconeto.jpg
-#  rockstar: false
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
+-    
+  id: 3
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Stone"
+  title: "Tech lead"
+  bio: "Frontend, tech lead na Stone, instrutor na Tampa Works, Notion Pro, pernambucano e recifense. Sempre que sobra um tempinho, cria alguns projetos open source e contribui em outros, como o Brave e o Ionic. É entusiasta e usa no seu dia-a-dia PWA, Angular, Ionic, Preact, Next.js, Firebase, AMP e muitos outros pormenores. Já palestrou, organizou e contribuiu em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins."
+  thumbnailUrl: joselitoJunior.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/svtfrancisco/"}
 #- 
 #  id: 4
 #  name: "Adiel"
