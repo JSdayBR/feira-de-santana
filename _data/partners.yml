@@ -45,6 +45,7 @@
 #    - {name: "GDG Feira de Santana", description: "Google Developer Group (GDG) Feira de Santana foi criado com o intuito de reunir pessoas curiosas, apaixonadas por tecnologia e que gostem de compartilhar boas ideias.", link: "https://www.facebook.com/fsagdg/", imageUrl: "gdgfsa.png", width: "170px"}    
      - {name: "DEVFSA", description: "DEVFSA é uma comunidade focada em conectar pessoas e disseminar conhecimento através da colaboração entre os membros por meio de diversas iniciativas, como eventos e treinamentos.", link: "https://facebook.com/devfsa", imageUrl: "devfsa.png", width: "170px"}        
      - {name: "MandacaruHS", description: "Mandacaru Hacker Space: primeiro espaço para makers em Feira de Santana (BA). ", link: "https://www.facebook.com/MandacaruHS/", imageUrl: "mandacaru.png", width: "160px"}
+     - {name: "Impulso Network", description: "Uma plataforma gratuita para impulsionar o seu crescimento profissional.", link: "https://impulso.link/jsdayfsa2020", imageUrl: "impulso.png", width: "170px"}    
 #-
 #  group: ""
 #  elements:
