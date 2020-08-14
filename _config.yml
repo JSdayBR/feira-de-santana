@@ -64,7 +64,7 @@ typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React", "Vue"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "https://jsday-checkin-page.herokuapp.com/", text: "realize seu Check-in "} 
- - {link: "mailto:GDGFeiraDeSantana@communityleads.dev?subject=Patrocínio JS Day Feira de Santana 2020", text: "Seja um patrocinador"}
+# - {link: "mailto:GDGFeiraDeSantana@communityleads.dev?subject=Patrocínio JS Day Feira de Santana 2020", text: "Seja um patrocinador"}
  - {link: "/schedule/", text: "Agenda do evento"}
 
 # About Block
