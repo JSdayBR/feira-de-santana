@@ -8,7 +8,7 @@
   service: true
 -
   id: 002
-  title: "Coffee Break"
+  title: "Break Sem Coffee"
   service: true
 -
   id: 003
@@ -34,37 +34,37 @@
   speakers: [3]
   language: pt-BR
   complexity: "Iniciante"
--
-  id: 006
-  title: "Minha primeira aplicação React"
-  description: "Você tem conhecimento básicos de HTML, CSS e JavaScript e quer fazer sua primeira aplicação React? Esse workshop é para você! =)"
-  subtype: workshop
-  speakers: [8]
-  language: pt-BR
-  complexity: "Intermediário" 
--
-  id: 007
-  title: "Svelte, sim, mais um framework"
-  description: "<p>O Svelte aparece como uma proposta robusta para o futuro do desenvolvimento web, colocando javascript em primeiro lugar, o que é muito importante para os desenvolvedores. Diferentemente de tantos que apareceram recentemente, o Svelte pode realmente se tornar uma alternativa aos já conhecidos: Vue.js, angular e react; meu objetivo é apresentar o framework e fazer um comparativo entre eles,
-</p>
-<p>Referências palpáveis:</p>
-<ul>
-<li><a style='color: blue' target='_blank' href='https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i'>Why SvelteJS may be the best framework for new web devs</a></li>
-
-<li><a style='color: blue' target='_blank' href='https://medium.com/@devigor/svelte-nasce-um-novo-framework-javascript-8c2d29a6b727'>Svelte: Nasce um novo framework JavaScript</a></li>
-</ul>"
-  subtype: presentation
-  speakers: [5]
-  language: pt-BR
-  complexity: "Intermediário"
--
-  id: 008
-  title: "Testando suas aplicações JS com Jasmine"
-  description: "Nesta palestra veremos como testar aplicações web e node.js usando Jasmine, um framework para desenvolvimento voltado a comportamento, ou BDD. Veremos um breve resumo do que podemos conseguir usando o Jasmine, e como adicionar os testes ao ciclo de desenvolvimento."
-  subtype: presentation
-  speakers: [4]
-  language: pt-BR
-  complexity: "Intermediário"
+#-
+#  id: 006
+#  title: "Minha primeira aplicação React"
+#  description: "Você tem conhecimento básicos de HTML, CSS e JavaScript e quer fazer sua primeira aplicação React? Esse workshop é para você! =)"
+#  subtype: workshop
+#  speakers: [8]
+#  language: pt-BR
+#  complexity: "Intermediário" 
+#-
+#  id: 007
+#  title: "Svelte, sim, mais um framework"
+#  description: "<p>O Svelte aparece como uma proposta robusta para o futuro do desenvolvimento web, colocando javascript em primeiro lugar, o que é muito importante para os desenvolvedores. Diferentemente de tantos que apareceram recentemente, o Svelte pode realmente se tornar uma alternativa aos já conhecidos: Vue.js, angular e react; meu objetivo é apresentar o framework e fazer um comparativo entre eles,
+#</p>
+#<p>Referências palpáveis:</p>
+#<ul>
+#<li><a style='color: blue' target='_blank' href='https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i'>Why SvelteJS may be the best framework for new web devs</a></li>
+#
+#<li><a style='color: blue' target='_blank' href='https://medium.com/@devigor/svelte-nasce-um-novo-framework-javascript-8c2d29a6b727'>Svelte: Nasce um novo framework JavaScript</a></li>
+#</ul>"
+#  subtype: presentation
+#  speakers: [5]
+#  language: pt-BR
+#  complexity: "Intermediário"
+#-
+#  id: 008
+#  title: "Testando suas aplicações JS com Jasmine"
+#  description: "Nesta palestra veremos como testar aplicações web e node.js usando Jasmine, um framework para desenvolvimento voltado a comportamento, ou BDD. Veremos um breve resumo do que podemos conseguir usando o Jasmine, e como adicionar os testes ao ciclo de desenvolvimento."
+#  subtype: presentation
+#  speakers: [4]
+#  language: pt-BR
+#  complexity: "Intermediário"
 #-
 #  id: 009
 #  title: "O presente e o futuro de apps na web"
@@ -114,22 +114,22 @@
 #  speakers: [19]
 #  language: pt-BR
 #  complexity: "Intermediário"
--
-  id: 012
-  title: "Aprendendo React-Native com Snack!"
-  description: "A grande vantagem do React-Native é que você pode usar a linguagem de desenvolvimento da Web a que está acostumado e ter que aprender e manter apenas um idioma (JavaScript). Com isso você constrói um aplicativo que se converte em um aplicativo nativo de plataforma cruzada para iOS e Android. Isso torna esta ferramenta tão procurada. Mas os inciantes sempre procuram formas mais básicas para a sua aprendizagem e encontram algumas dores... como Android Studio, Emulador, hardware mínimo e etc. Snack vem como uma luva para quem não quer perder tempo tentando fazer a ferramenta funcionar e mergulhar no aprendizado de uma das ferramentas de desenvolvimento mobile mais utilizadas no mercado. Snack é leve, é online e altamente produtivo para aprender."
-  subtype: presentation
-  speakers: [5]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 013
-  title: ""
-  description: ""
-  subtype: presentation
-  speakers: [16]
-  language: pt-BR
-  complexity: "Iniciante"
+#-
+#  id: 012
+#  title: "Aprendendo React-Native com Snack!"
+#  description: "A grande vantagem do React-Native é que você pode usar a linguagem de desenvolvimento da Web a que está acostumado e ter que aprender e manter apenas um idioma (JavaScript). Com isso você constrói um aplicativo que se converte em um aplicativo nativo de plataforma cruzada para iOS e Android. Isso torna esta ferramenta tão procurada. Mas os inciantes sempre procuram formas mais básicas para a sua aprendizagem e encontram algumas dores... como Android Studio, Emulador, hardware mínimo e etc. Snack vem como uma luva para quem não quer perder tempo tentando fazer a ferramenta funcionar e mergulhar no aprendizado de uma das ferramentas de desenvolvimento mobile mais utilizadas no mercado. Snack é leve, é online e altamente produtivo para aprender."
+#  subtype: presentation
+#  speakers: [5]
+#  language: pt-BR
+#  complexity: "Iniciante"
+#-
+#  id: 013
+#  title: ""
+#  description: ""
+#  subtype: presentation
+#  speakers: [16]
+#  language: pt-BR
+#  complexity: "Iniciante"
 #-
 #  id: 014
 #  title: "Lightning talks"
@@ -170,26 +170,26 @@
 #  speakers: [22]
 #  language: pt-BR
 #  complexity: "Intermediário"
--
-  id: 016
-  title: "Almoço"
-  service: true
--
-  id: 017
-  title: "Sorteios e atividades"
-  service: true
--
-  id: 018
-  title: "Encerramento: Foto da família jsday"  
-  service: true
--
-  id: 019
-  title: "Encerramento do hackathon"  
-  service: true
--
-  id: 020
-  title: "Apresentação das soluções"  
-  service: true
+#-
+#  id: 016
+#  title: "Almoço"
+#  service: true
+#-
+#  id: 017
+#  title: "Sorteios e atividades"
+#  service: true
+#-
+#  id: 018
+#  title: "Encerramento: Foto da família jsday"  
+#  service: true
+#-
+#  id: 019
+#  title: "Encerramento do hackathon"  
+#  service: true
+#-
+#  id: 020
+#  title: "Apresentação das soluções"  
+#  service: true
 -
   id: 021
   title: "Encerramento"  

@@ -1,83 +1,53 @@
--
-  title: "Workshops"
-  date: "2017-8-17"
-  dateReadable: "17/08"
-  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
-  tracks:
-    - {title: "Workshop 1", color: "#f7df1e", description: "Sala 1"}
-    - {title: "Workshop 2", color: "#f7df1e", description: "Sala 2"}
-    - {title: "Workshop 3", color: "#f7df1e", description: "Sala 3"}
-  timeslots:
-    - {
-        startTime: "09:00",
-        endTime: "12:00",
-        sessionIds: [003,004,006]
-    }
+#-
+#  title: "Workshops"
+#  date: "2017-8-17"
+#  dateReadable: "17/08"
+#  dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
+#  tracks:
+#    - {title: "Workshop 1", color: "#f7df1e", description: "Sala 1"}
+#    - {title: "Workshop 2", color: "#f7df1e", description: "Sala 2"}
+#    - {title: "Workshop 3", color: "#f7df1e", description: "Sala 3"}
+#  timeslots:
+#    - {
+#        startTime: "09:00",
+#        endTime: "12:00",
+#        sessionIds: [003,004,006]
+#    }
 -
   title: "JSday Lineup"
-  date: "2018-8-11"
-  dateReadable: "17/08"
+  date: "2020-8-15"
+  dateReadable: "15/08"
   dataReadableWarning: "*As palestras e horários podem ser modificados sem aviso prévio"
   tracks:
-    - {title: "Auditório 1", color: "#f7df1e", description: "Auditório Principal"}
+    - {title: "Online", color: "#f7df1e"}
   timeslots:
     - {
-        startTime: "8:00",
-        endTime: "8:50",
-        sessionIds: [000]
-    }
-    - {
-        startTime: "8:50",
-        endTime: "9:00",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "13:30",
-        sessionIds: [016]
-    }
-    - {
         startTime: "13:30",
-        endTime: "14:00",
-        sessionIds: [000]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:15",
+        endTime: "13:45",
         sessionIds: [001]
     }
     - {
-        startTime: "14:15",
-        endTime: "14:45",
-        sessionIds: [012]
+        startTime: "13:45",
+        endTime: "14:20",
+        sessionIds: [666]
     }
     - {
-        startTime: "14:45",
+        startTime: "14:20",
+        endTime: "15:05",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "15:05",
         endTime: "15:15",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "15:15",
-        endTime: "15:45",
-        sessionIds: [005]
-    }
-    - {
-        startTime: "15:45",
-        endTime: "16:30",
         sessionIds: [002]
     }
     - {
-        startTime: "16:30",
-        endTime: "17:00",
-        sessionIds: [008]
+        startTime: "15:15",
+        endTime: "16:00",
+        sessionIds: [005]
     }
     - {
-        startTime: "17:00",
-        endTime: "17:30",
-        sessionIds: [999]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:00",
+        startTime: "16:00",
+        endTime: "16:15",
         sessionIds: [021]
     }
