@@ -44,7 +44,7 @@ c4sponsorsUrl: "mailto:GDGFeiraDeSantana@communityleads.dev?subject=Patrocínio 
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
@@ -63,9 +63,9 @@ eventDate: "15 de Agosto de 2020"
 typeoutTextValues: '"", "JavaScript", "Angular", "Node", "React", "Vue"'
 typeoutFallback: "JavaScript"
 heroButtons:
-# - {link: "https://www.sympla.com.br/jsday-feira-de-santana-2019__545715", text: "Participe!"} 
+ - {link: "https://jsday-checkin-page.herokuapp.com/", text: "realize seu Check-in "} 
  - {link: "mailto:GDGFeiraDeSantana@communityleads.dev?subject=Patrocínio JS Day Feira de Santana 2020", text: "Seja um patrocinador"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform?usp=sf_link", text: "Submeta sua palestra"}
+ - {link: "/schedule/", text: "Agenda do evento"}
 
 # About Block
 aboutTitle: "Sobre o JSday Feira de Santana"
