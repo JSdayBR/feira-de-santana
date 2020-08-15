@@ -12,10 +12,10 @@
   service: true
 -
   id: 003
-  title: "Introdução ao JavaScript"
-  description: "Você sabe como deixar sua página web mais dinâmica? Não? Bom, nós temos a solução perfeita, Javascript! Então se você quer ter aquele primeiro impulso de conhecimento nessa ampla e rica linguagem de programação, cola com a gente e vamos codar!"
-  subtype: workshop
-  speakers: [7,6]
+  title: "Como o React.js funciona por baixo dos panos?"
+  description: "Nessa palestra vamos entender como funcionam alguns conceitos usados no React, e como é possível reutilizar esses conceitos em qualquer aplicação web, com ou sem frameworks :D"
+  subtype: presentation
+  speakers: [2]
   language: pt-BR
   complexity: "Iniciante"
 -
